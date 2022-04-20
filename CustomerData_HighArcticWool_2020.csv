@@ -1,0 +1,4990 @@
+customerKey,sex,age,educationLevel
+2ca9567004,Female,67,"High school"
+2ca4415888,Female,29,College
+2caf6d6c44,Male,47,"High school"
+2cab92fa01,Male,84,College
+2ca2719891,Male,25,"High school"
+2ca5bc4007,Female,44,"High school"
+2cac50be96,Female,19,"High school"
+2cac6b1235,Female,53,Basic
+2caedfaa00,Female,29,"High school"
+2cac227463,Female,78,"High school"
+2ca4c15a58,Male,25,College
+2ca2e3bc96,Female,41,"College advanced"
+2ca4898870,Male,32,"College advanced"
+2cac71fc80,Female,70,College
+2cad996a16,Female,65,Basic
+2ca8401487,Female,28,"High school"
+2cae3dac33,Male,68,"High school"
+2caf72d078,Female,67,College
+2ca3f9e639,Male,34,"College advanced"
+2ca2414665,Male,26,"College advanced"
+2cabc60873,Male,60,Basic
+2ca84ee292,Female,81,"High school"
+2cacebc875,Male,59,"High school"
+2cae9f0e38,Male,38,College
+2ca4ddde17,Male,31,"High school"
+2cac976880,Male,55,"High school"
+2cb0f02e73,Male,66,College
+2ca4807855,Female,41,"High school"
+2ca22d5a84,Female,39,"High school"
+2ca22ac662,Female,32,College
+2ca2b31a72,Male,32,"High school"
+2cb0117282,Female,47,College
+2ca29b0008,Male,35,College
+2ca6c3ba38,Male,37,"High school"
+2cabd9cc56,Male,48,"College advanced"
+2cb07fea60,Female,22,"High school"
+2cb0f10a93,Male,57,Basic
+2ca8f25c73,Female,25,College
+2ca92a2422,Female,42,College
+2caa76a421,Male,62,"High school"
+2cac100419,Female,66,"High school"
+2ca61a7871,Male,34,"High school"
+2ca5fd2c39,Female,76,"College advanced"
+2cad910e71,Male,28,"High school"
+2ca3eb5499,Female,37,College
+2ca3ffea55,Male,23,"High school"
+2ca91c1443,Male,74,"College advanced"
+2cafec5633,Female,51,"High school"
+2caddc7243,Male,27,College
+2cb0329c13,Female,50,"College advanced"
+2caacdb613,Male,37,Basic
+2ca5c41a24,Female,76,"High school"
+2ca6c1e402,Male,27,College
+2ca3054a15,Female,41,Basic
+2caa911615,Male,55,"High school"
+2ca32cfa70,Female,64,"High school"
+2ca9fe0466,Female,50,"High school"
+2cb02afe28,Female,73,"High school"
+2caffa8e13,Male,29,College
+2ca338d022,Male,70,"High school"
+2caec8d007,Female,47,College
+2ca64c7890,Female,57,"High school"
+2cb065fa80,Female,53,"High school"
+2caafb2e17,Female,58,College
+2ca2813871,Female,73,"High school"
+2caba5ce74,Male,26,"College advanced"
+2caf99c287,Male,75,"High school"
+2caf870c86,Female,54,College
+2ca84a8266,Female,61,"High school"
+2ca61dde55,Female,37,"High school"
+2ca86aa867,Male,26,College
+2cad0eaa32,Male,40,College
+2ca4748450,Male,52,College
+2cace00631,Female,78,"High school"
+2cad29f841,Female,48,"College advanced"
+2ca384f295,Female,60,College
+2cb1c46869,Male,42,"High school"
+2ca88ea248,Female,35,"High school"
+2cac59e295,Male,23,"High school"
+2ca349b089,Female,59,"High school"
+2ca400c688,Female,22,"College advanced"
+2caf35d676,Male,71,"High school"
+2ca7205850,Female,48,"High school"
+2ca20ffa90,Female,61,"High school"
+2ca886dc73,Male,62,Basic
+2cae6fe844,Male,25,"High school"
+2ca6b81607,Female,46,"High school"
+2cae225433,Male,64,"High school"
+2caa586858,Female,70,College
+2caf148499,Male,22,"High school"
+2caab27c95,Female,61,College
+2cb10a6e71,Female,63,"High school"
+2cb107e481,Male,31,"High school"
+2ca968d601,Female,57,"High school"
+2ca541f236,Female,26,Basic
+2ca42cea09,Male,70,"High school"
+2caebd9080,Male,48,"College advanced"
+2cad0b6249,Female,66,"High school"
+2cad213885,Male,57,"High school"
+2cac6be430,Female,59,"High school"
+2ca3e12c28,Male,29,Basic
+2ca8cb4c02,Female,83,"High school"
+2cae58fa72,Female,65,"High school"
+2cb2e2bc81,Female,38,"High school"
+2cb1036656,Female,42,"College advanced"
+2ca7da8468,Male,32,"College advanced"
+2cad001854,Male,73,"High school"
+2ca5a53e78,Male,62,College
+2ca875e835,Female,61,College
+2ca52ad286,Female,59,Basic
+2cad0dd897,Female,56,Basic
+2cac809834,Female,62,"High school"
+2ca893ac54,Female,32,"College advanced"
+2ca7924a67,Female,38,"High school"
+2ca849a691,Female,19,"High school"
+2ca7c4c266,Female,62,"College advanced"
+2ca5a7f098,Male,72,"High school"
+2ca3bb6630,Male,41,"College advanced"
+2caeca8855,Female,68,"College advanced"
+2cafad4078,Male,55,"High school"
+2cb1cfee33,Male,71,"High school"
+2ca48bfe82,Male,46,"College advanced"
+2caed21c52,Male,46,"High school"
+2ca4ef5e37,Female,76,"College advanced"
+2ca210e092,Male,67,"High school"
+2cab2cd400,Male,49,"High school"
+2ca9c20e99,Male,31,"High school"
+2caa279e80,Male,39,Basic
+2cb03aee17,Female,34,"College advanced"
+2ca80b1224,Female,32,"College advanced"
+2ca4824477,Female,83,"High school"
+2ca78e1270,Male,77,College
+2ca8604456,Female,30,"High school"
+2cadeae652,Female,70,"High school"
+2ca5f46c12,Female,70,"High school"
+2cb098a476,Male,69,"High school"
+2ca6713009,Female,72,"High school"
+2ca932da90,Male,60,"High school"
+2ca8f42892,Female,64,College
+2cb0075446,Male,66,College
+2ca43b0484,Female,81,"High school"
+2ca4b7be64,Female,51,"High school"
+2cb3259274,Female,51,"High school"
+2ca2477292,Female,39,"High school"
+2cb167a270,Female,67,College
+2ca3937054,Female,55,"High school"
+2cae0e9031,Male,20,Basic
+2cae2f2459,Male,68,College
+2cac687e47,Female,64,College
+2ca4976677,Male,72,Basic
+2cb2e60e53,Male,69,College
+2ca47a5668,Female,72,"High school"
+2caf102e67,Male,56,College
+2cadd21806,Female,69,College
+2cb22d8665,Male,69,College
+2ca2a97499,Female,52,"High school"
+2caf16fa39,Male,42,"High school"
+2caf120416,Female,48,"College advanced"
+2cb14f7471,Male,55,College
+2ca34c4432,Male,34,"High school"
+2cb139e475,Female,32,"High school"
+2ca6c49697,Female,22,"High school"
+2ca6f8f839,Female,46,College
+2caa08ea74,Male,45,College
+2cae467617,Female,30,"High school"
+2ca5911642,Male,56,College
+2ca4acb013,Female,36,"High school"
+2ca65bfa46,Female,56,"High school"
+2cafd72a30,Male,44,"High school"
+2cac25f873,Female,36,"High school"
+2cae6ab637,Female,39,College
+2cb2ba6c06,Female,20,College
+2cb2d0f690,Male,38,"High school"
+2cab718a71,Male,26,College
+2ca2aa4671,Male,79,"High school"
+2caf426a12,Male,60,"High school"
+2ca6694c37,Female,56,"High school"
+2ca98ab464,Female,18,"High school"
+2ca3629c83,Male,28,College
+2ca8b9cc07,Male,59,"High school"
+2ca36b2a23,Female,64,"High school"
+2ca2867e74,Female,55,College
+2caa81c652,Female,48,College
+2ca4a35089,Female,39,"High school"
+2caf377a64,Female,49,College
+2ca6fb8c90,Female,47,"College advanced"
+2cad861e71,Male,52,Basic
+2ca8c7d244,Female,69,Basic
+2ca4027e53,Female,37,College
+2ca648ea09,Female,33,College
+2ca917d264,Male,25,College
+2cb25d1076,Female,31,College
+2cb263c894,Male,72,College
+2ca27b0c08,Female,48,"High school"
+2ca5daea08,Male,50,"High school"
+2caca9b081,Male,19,Basic
+2cb21f9e44,Male,55,"High school"
+2cae8fa015,Male,40,College
+2cad01da54,Male,54,Basic
+2cad18d235,Male,26,"High school"
+2cab2a4a05,Male,49,Basic
+2cb2a2a288,Female,46,"College advanced"
+2caffec699,Male,52,College
+2ca57ef693,Male,27,"High school"
+2ca6a4f216,Female,20,College
+2ca6f3bc52,Male,47,"High school"
+2ca3e56e05,Female,66,College
+2cb086de44,Female,40,College
+2cabe80e67,Female,58,"College advanced"
+2cae65b600,Male,70,"High school"
+2caa972e52,Male,69,"High school"
+2cb26fc669,Male,84,"High school"
+2ca7790e26,Male,63,"High school"
+2ca7dc3252,Female,38,College
+2cb2850628,Male,41,"College advanced"
+2cad3baa43,Female,36,College
+2cabd11627,Male,26,"High school"
+2ca4407232,Male,60,"High school"
+2ca8d21882,Male,34,Basic
+2ca6f20473,Male,51,"High school"
+2ca6b73043,Male,46,"High school"
+2ca6dfb212,Male,63,Basic
+2cb223ea00,Female,54,"College advanced"
+2cab907a63,Female,32,Basic
+2ca5456289,Male,51,College
+2cae683672,Male,63,"High school"
+2cabc53649,Female,21,"High school"
+2ca7f6b845,Female,73,"High school"
+2cb0b11837,Female,59,College
+2cae82f838,Male,62,"High school"
+2ca608c636,Male,35,"College advanced"
+2cb1f3fc35,Female,36,"High school"
+2ca3c9d050,Female,40,Basic
+2ca3a70274,Female,46,College
+2ca20b5e90,Male,44,"High school"
+2ca3944c59,Female,30,"High school"
+2ca90d6e07,Female,33,Basic
+2caa69b644,Female,26,"High school"
+2ca981ea07,Male,37,Basic
+2cb24d2a94,Male,73,College
+2cac1fe070,Female,19,"High school"
+2cab5d0831,Female,38,"High school"
+2ca359dc74,Male,60,"High school"
+2cac316020,Male,22,"High school"
+2caa132634,Female,45,College
+2ca41cfa57,Female,51,College
+2cb0f3bc93,Female,68,"High school"
+2ca7ba5e18,Female,48,College
+2ca8973a82,Male,44,"High school"
+2cb1970439,Female,27,"High school"
+2cae054438,Male,35,Basic
+2ca3508631,Male,59,College
+2cad24e480,Male,41,"High school"
+2ca5f0fc72,Male,45,"High school"
+2cb322fe06,Female,68,"High school"
+2ca8db0078,Male,38,"High school"
+2caab18263,Female,28,"High school"
+2cb0fe3438,Male,62,"High school"
+2ca7ab0e65,Male,61,"High school"
+2ca465b613,Male,31,College
+2ca285a224,Female,67,Basic
+2cb1e46628,Male,51,"High school"
+2cb0d3e640,Male,39,"College advanced"
+2cad7d9a29,Female,32,"High school"
+2ca68efe51,Male,53,"High school"
+2cae166a53,Female,77,College
+2cad947494,Male,38,College
+2ca76bee37,Female,72,"High school"
+2ca9bdd658,Female,18,"High school"
+2cad3ace73,Male,58,"High school"
+2ca60a7493,Male,20,"High school"
+2cab9d4093,Female,21,"High school"
+2cb1a3f201,Male,64,"High school"
+2cb0a2d633,Male,61,"High school"
+2ca8fa4a21,Male,51,"High school"
+2ca6e23281,Male,74,Basic
+2ca3c30426,Male,52,Basic
+2ca2556e93,Female,34,College
+2ca826ba66,Female,58,College
+2caa54c638,Female,35,"College advanced"
+2cad845c77,Female,68,"College advanced"
+2cae8a7804,Female,49,"High school"
+2cb23d9e03,Male,39,"High school"
+2cadf52230,Female,67,College
+2ca97bdc77,Male,57,"College advanced"
+2ca731c493,Male,67,"High school"
+2ca3ab4409,Female,84,"High school"
+2cb11c7a35,Male,34,"High school"
+2caf618254,Female,40,"High school"
+2cafa32233,Male,63,College
+2ca6378811,Male,20,"High school"
+2ca724a415,Female,59,College
+2cae50bc61,Female,53,"High school"
+2ca5a0fc32,Male,19,College
+2ca542ce43,Male,39,"High school"
+2cb0c73464,Male,24,"High school"
+2ca85afe24,Female,36,"High school"
+2cb0ee8095,Male,29,"High school"
+2ca99a4005,Male,76,College
+2ca2d0fc19,Male,32,"High school"
+2ca57af097,Female,43,"High school"
+2caf3f0469,Male,64,College
+2cae328091,Male,39,"High school"
+2ca7282893,Female,39,College
+2ca2e7fe01,Female,66,College
+2cafb93443,Male,49,College
+2ca9afe406,Female,72,College
+2ca30dc434,Female,39,"College advanced"
+2ca3ac2088,Male,57,College
+2cad97bc19,Female,33,"High school"
+2ca91fb622,Male,40,College
+2caa4c5689,Female,20,College
+2ca8383a02,Male,29,College
+2cb305ee64,Male,55,"College advanced"
+2cb1dda439,Female,54,"High school"
+2cb1d89068,Male,41,"College advanced"
+2cae668858,Female,47,College
+2cae36ea10,Female,59,Basic
+2ca7399e49,Male,58,"High school"
+2cb0428c23,Female,36,College
+2cb2776484,Female,59,College
+2cb0453e78,Female,47,College
+2ca2d1d850,Male,65,College
+2caed5aa52,Female,25,"High school"
+2cb2ec5864,Female,29,"High school"
+2caa4d3290,Female,44,College
+2ca9ca9c63,Male,37,College
+2cb1910069,Female,55,College
+2cab128054,Male,28,"High school"
+2cace29a79,Male,23,"High school"
+2caa91f272,Male,54,"High school"
+2ca6ef4810,Female,37,"High school"
+2cac86d809,Male,53,"High school"
+2ca30e9653,Female,20,College
+2caf56b099,Male,83,Basic
+2ca9b1ba88,Female,47,"High school"
+2cafd9a080,Male,38,"High school"
+2ca59f4458,Female,67,"High school"
+2cb21ab299,Female,72,College
+2caa67ea63,Male,69,College
+2cae07ba06,Male,56,College
+2ca2ee5265,Female,52,Basic
+2ca6393613,Female,42,College
+2caf3fd601,Male,47,College
+2ca610d215,Male,67,"High school"
+2cb1694667,Male,60,College
+2cad037e89,Male,60,"High school"
+2ca6928228,Male,43,"High school"
+2ca3f5ae44,Male,27,"High school"
+2cb257fc90,Female,29,"High school"
+2caf848c82,Female,37,"High school"
+2cab21e406,Male,72,"High school"
+2cb0d30073,Female,30,"High school"
+2cadf01879,Female,47,College
+2ca43f8c78,Male,53,College
+2ca674b493,Female,35,College
+2ca5481e17,Male,59,"High school"
+2caa894615,Male,54,"High school"
+2caea5f852,Female,20,College
+2ca3edfc38,Female,45,College
+2ca35b8a76,Female,65,Basic
+2cab615444,Female,24,College
+2ca418ae85,Female,25,College
+2cad542869,Male,38,Basic
+2caaa17e11,Female,78,College
+2ca805f498,Male,35,"High school"
+2ca6857686,Male,67,College
+2ca24a1073,Female,79,Basic
+2ca6420a59,Female,59,"High school"
+2cab8dfa51,Female,45,"High school"
+2ca3f68a31,Male,49,"High school"
+2ca58f5e75,Female,58,"High school"
+2ca2a45675,Female,56,"High school"
+2cacfb1808,Female,52,Basic
+2caabd9497,Female,33,"High school"
+2ca7b39229,Male,60,"College advanced"
+2ca3c3e041,Female,46,"High school"
+2caf8b4e63,Female,67,"High school"
+2ca991b207,Male,75,"High school"
+2cafa9bc84,Male,44,"High school"
+2caab87623,Male,62,College
+2cb08af889,Female,45,College
+2cad11f226,Male,27,"High school"
+2ca4f44a00,Female,60,Basic
+2caef34680,Female,26,"High school"
+2cade42418,Male,53,"High school"
+2ca3cb8894,Male,69,"College advanced"
+2ca6f67871,Male,42,"High school"
+2ca41fac83,Male,58,College
+2ca94cf214,Male,32,"High school"
+2caa200a01,Female,28,Basic
+2cab425a33,Male,30,"High school"
+2caf7db603,Male,79,College
+2cab64c473,Female,32,College
+2ca5007a20,Male,18,"College advanced"
+2cb04caa75,Female,29,College
+2caa56ba15,Male,52,Basic
+2ca6010060,Male,49,"High school"
+2cb1470414,Female,26,"High school"
+2ca7d71e70,Male,27,"High school"
+2cb31fac51,Female,74,"High school"
+2cad838a06,Female,53,Basic
+2ca2e56a50,Male,78,College
+2ca29f4227,Male,83,Basic
+2ca595a839,Male,58,Basic
+2ca333bc34,Female,19,"College advanced"
+2ca86efe96,Male,54,Basic
+2ca3464a07,Male,68,College
+2cad6c9c78,Male,60,"High school"
+2ca7676653,Male,36,"College advanced"
+2cae1f0200,Male,45,College
+2caa593a79,Female,83,College
+2cade5c858,Male,22,"College advanced"
+2cabe08e13,Female,69,"High school"
+2cad491a34,Male,33,"High school"
+2ca7b01881,Male,30,College
+2cb2108009,Female,19,"High school"
+2caff80e88,Male,26,"High school"
+2ca3996036,Male,36,College
+2ca397b296,Female,68,"High school"
+2caaa75096,Female,52,College
+2ca4bfac61,Male,63,College
+2ca317d849,Male,59,Basic
+2cac2b2a44,Female,40,College
+2cad54fa92,Female,18,Basic
+2cae43f696,Male,49,"College advanced"
+2ca7a09619,Female,81,College
+2ca472cc36,Female,29,"High school"
+2ca94a6821,Male,45,College
+2ca2bd5635,Female,60,College
+2ca757e459,Male,32,"High school"
+2cb03c9273,Male,26,"High school"
+2ca5f99e66,Male,55,College
+2ca5c78046,Male,32,"High school"
+2ca9b94e68,Female,83,"High school"
+2ca9d0b482,Male,23,College
+2caf317644,Male,78,"High school"
+2ca891fe89,Female,42,"High school"
+2cb2e10492,Female,33,"High school"
+2ca33c3621,Female,43,College
+2cb281b451,Female,75,"High school"
+2cad2fd487,Female,49,"High school"
+2cb04b0605,Male,55,College
+2caf965c63,Female,61,"High school"
+2caa0e3023,Male,59,"High school"
+2ca3fb9e35,Female,59,"High school"
+2cafe9e029,Female,42,College
+2cadb40466,Male,82,"High school"
+2cad4ece92,Female,59,"High school"
+2cb091e204,Female,26,College
+2cb29f5a28,Male,26,Basic
+2cb0beb061,Male,71,College
+2ca7fd7a83,Male,77,"College advanced"
+2ca99eb432,Male,79,College
+2cad392a64,Male,63,"High school"
+2ca96fc059,Female,50,"High school"
+2ca807ac80,Male,46,Basic
+2ca7b6e499,Male,50,College
+2ca67f2c53,Female,25,"High school"
+2cabaaec89,Female,81,College
+2cab4c8205,Female,31,"High school"
+2cacfa3c39,Female,55,"High school"
+2cafaaa291,Female,50,"High school"
+2caaf3b892,Male,58,"High school"
+2ca457ec97,Male,24,"High school"
+2ca327e658,Female,69,College
+2ca3cee431,Female,71,"High school"
+2ca6286a30,Female,62,"High school"
+2cae346032,Male,19,College
+2caff3f433,Male,54,"High school"
+2cac652283,Male,22,College
+2ca8efd236,Male,76,"College advanced"
+2ca367b042,Female,18,"College advanced"
+2ca6457a58,Female,36,"High school"
+2cae2baa45,Female,20,"High school"
+2cb1fe4c33,Female,27,"High school"
+2caeccfe06,Female,72,"High school"
+2ca20d4845,Male,75,Basic
+2ca2090640,Female,84,College
+2cac10d673,Male,59,College
+2cad36aa98,Female,65,"High school"
+2cab9e2670,Male,18,"High school"
+2caedb7234,Female,72,College
+2caf9f9e16,Male,36,College
+2cb2281819,Male,36,College
+2ca573fc95,Male,32,"High school"
+2caa067498,Female,22,"High school"
+2ca3df7474,Female,48,"High school"
+2cb1b37425,Male,65,Basic
+2ca6e3ea35,Female,58,College
+2caee32465,Male,18,Basic
+2caf6aba33,Male,70,Basic
+2cae95ea96,Male,50,College
+2cb313c221,Male,36,"High school"
+2cb0b7b255,Female,47,"High school"
+2ca57fd260,Male,41,"College advanced"
+2cae6b8899,Female,45,Basic
+2ca9e1a843,Male,65,Basic
+2caf2faa52,Male,21,Basic
+2ca9cef232,Male,47,"High school"
+2ca224c251,Male,65,College
+2cb2d88a20,Female,50,"High school"
+2caa620e58,Male,62,College
+2cadc1f603,Female,25,Basic
+2caf478875,Female,72,"High school"
+2cb2216082,Female,58,"High school"
+2caa93b431,Male,36,"High school"
+2ca37ab604,Female,40,"High school"
+2ca892d089,Male,36,"High school"
+2cafc0dc58,Male,40,"High school"
+2cad172e88,Female,33,"High school"
+2ca3372244,Female,27,"High school"
+2ca602b849,Male,56,Basic
+2ca6a5c466,Female,20,"High school"
+2ca5969885,Female,27,College
+2cb113ec44,Male,38,"College advanced"
+2cb0ace035,Female,45,"High school"
+2cab4a0226,Female,79,"High school"
+2cb00e2a34,Female,53,College
+2cafbd6c68,Male,24,College
+2cb1c53a60,Male,82,"College advanced"
+2caf4ad036,Male,58,"High school"
+2ca3d4fc17,Female,68,"High school"
+2ca245ba21,Female,45,"High school"
+2ca6235653,Female,51,College
+2cb2565872,Female,49,"High school"
+2cafdcf239,Male,26,College
+2ca5bfd808,Female,49,"High school"
+2ca91d0427,Female,29,"High school"
+2ca406b674,Female,74,Basic
+2cab478298,Female,30,"High school"
+2cb0d90435,Female,32,College
+2cb2667023,Female,38,College
+2cb0f8da85,Female,24,College
+2ca4198a30,Female,48,Basic
+2cafba1021,Female,40,"High school"
+2ca5903a94,Female,65,"High school"
+2ca61ed813,Female,43,"High school"
+2cabef0c32,Male,43,"High school"
+2ca9498c93,Male,19,Basic
+2ca94dc411,Female,23,"High school"
+2cb1abae92,Male,29,College
+2ca7bd2e02,Male,28,"High school"
+2cb1c8a062,Female,59,"High school"
+2cad3fec66,Male,74,Basic
+2ca3aeb415,Male,75,Basic
+2caf930a49,Male,18,College
+2ca6783862,Male,32,"High school"
+2cb1875047,Female,69,"College advanced"
+2ca5c0b408,Female,56,Basic
+2cb2055485,Female,76,College
+2ca4fec271,Female,23,Basic
+2ca28e3a75,Female,30,College
+2cb031ca39,Male,45,Basic
+2cacb7ca89,Male,41,Basic
+2cb0176c64,Male,59,College
+2ca6ed9a33,Male,41,College
+2caddfd800,Male,25,College
+2caf212216,Male,66,"High school"
+2cb06ae611,Male,55,"High school"
+2caa0fde85,Female,50,College
+2cb2a5ea42,Male,46,"High school"
+2ca2fec471,Male,35,College
+2ca88dd047,Male,35,"High school"
+2caacf6e88,Female,41,"High school"
+2ca3aa7272,Male,77,Basic
+2ca8948824,Female,29,College
+2ca7edf807,Female,69,"High school"
+2ca30f7239,Female,37,College
+2ca730e843,Male,65,"High school"
+2cb275c032,Male,32,"High school"
+2ca5720807,Female,28,College
+2ca378fe59,Female,27,"High school"
+2cabf60a73,Male,66,"College advanced"
+2cad104e86,Male,20,"High school"
+2ca96c5a69,Female,51,Basic
+2cb1e1d221,Male,36,"High school"
+2ca5769a85,Female,23,"High school"
+2ca6f59c56,Female,23,College
+2ca8c6f640,Male,52,"High school"
+2ca3b21062,Male,49,Basic
+2ca242fe97,Female,57,Basic
+2ca3d42a67,Female,33,College
+2ca8376866,Male,46,College
+2ca7e39487,Female,21,College
+2ca8eac833,Male,60,"High school"
+2ca60b6e21,Male,49,College
+2ca995ea67,Male,21,College
+2cb20b6212,Male,53,"High school"
+2ca2ccc486,Male,63,Basic
+2ca2422209,Male,55,"High school"
+2caaa3fe42,Female,34,College
+2caa613257,Male,41,"High school"
+2ca6536237,Male,51,Basic
+2caf7cda82,Female,20,"High school"
+2cb0679e42,Male,26,Basic
+2cac03b693,Male,49,College
+2cae361802,Female,30,"High school"
+2cafb6b404,Male,28,"High school"
+2ca9c66e46,Male,30,"College advanced"
+2cb052a431,Female,19,"College advanced"
+2ca4b68837,Male,43,Basic
+2ca3c8fe03,Male,53,"High school"
+2caabf6039,Male,31,College
+2cb1400612,Female,40,College
+2cb1a92e32,Female,39,College
+2ca7ca8a62,Male,42,Basic
+2ca6cffe39,Female,24,"High school"
+2ca706ea94,Female,34,"High school"
+2ca7440293,Male,25,"High school"
+2caa21b825,Male,42,College
+2ca294fc91,Male,28,"High school"
+2ca8250c38,Female,41,"High school"
+2cb2507c84,Male,82,"High school"
+2cb0997624,Male,22,Basic
+2ca24c9046,Male,36,"High school"
+2ca2b4c891,Female,83,"High school"
+2ca840fa31,Female,46,College
+2ca5176817,Male,57,"High school"
+2cabdaa832,Female,37,College
+2cafd57c32,Male,42,Basic
+2ca969c691,Male,42,College
+2caa38ba67,Male,65,College
+2cac0f2867,Male,68,College
+2ca87cbe57,Female,55,"High school"
+2ca2ddcc96,Female,25,"High school"
+2ca9717867,Male,67,"College advanced"
+2cac66d057,Female,52,"College advanced"
+2ca6b2b205,Female,61,"High school"
+2cb197f469,Male,62,"High school"
+2ca9f60c42,Male,24,"High school"
+2cb24faa44,Female,80,College
+2ca35aae94,Male,66,College
+2cb0854411,Male,27,"High school"
+2cabc01802,Male,72,College
+2ca2bfe071,Female,48,"High school"
+2cb1b6c646,Male,50,"College advanced"
+2cb0895442,Female,68,"High school"
+2cac073a15,Male,55,Basic
+2ca953e684,Male,73,"College advanced"
+2cb20e0a67,Female,75,"High school"
+2ca6aa1a40,Female,39,"High school"
+2cb01e1a91,Female,40,"High school"
+2cb0496279,Female,73,College
+2ca6a16e84,Female,38,College
+2ca2f42e37,Female,34,"High school"
+2ca86e2227,Female,48,"High school"
+2ca2e72c08,Male,19,College
+2ca8f33883,Female,67,Basic
+2cacd9a899,Female,59,Basic
+2caf433c88,Female,66,College
+2cb296e065,Male,52,Basic
+2ca6aaf633,Female,20,"High school"
+2caaafde46,Male,78,"High school"
+2cb0c16c93,Female,66,"High school"
+2caba92017,Male,56,Basic
+2ca5ac4623,Female,23,"High school"
+2ca4079221,Male,60,"High school"
+2cb21ecc74,Male,53,College
+2ca5730249,Male,42,"High school"
+2ca3b8dc60,Male,52,"High school"
+2caa530e84,Male,53,"College advanced"
+2cadcebc17,Female,37,"High school"
+2cac92fe89,Female,47,Basic
+2cad063a06,Male,49,"High school"
+2ca7554618,Female,72,College
+2caa6fc424,Male,61,"High school"
+2ca3b4a486,Female,51,College
+2cb176d475,Male,46,"College advanced"
+2ca69cf013,Female,67,College
+2cb0a88a71,Male,72,"High school"
+2cb209b440,Female,49,"High school"
+2ca5096c74,Female,76,Basic
+2ca8889414,Female,80,"High school"
+2caa99ae02,Male,38,Basic
+2cab1da262,Female,49,"High school"
+2cac72ce79,Female,57,Basic
+2ca675a411,Male,45,"High school"
+2ca6a33a25,Female,49,Basic
+2ca9994611,Female,20,"High school"
+2ca244de98,Male,58,"High school"
+2cb0022c28,Female,37,"High school"
+2ca6fe2a79,Male,36,Basic
+2cad80e259,Male,50,"High school"
+2caadca279,Female,49,"High school"
+2ca8abf899,Male,56,Basic
+2ca95db454,Male,61,"High school"
+2ca2919669,Male,60,"High school"
+2ca983a250,Male,36,"High school"
+2cb0393654,Male,26,"High school"
+2ca6c03698,Female,40,College
+2ca2883612,Male,38,"High school"
+2ca3516222,Female,32,Basic
+2cac710293,Female,44,Basic
+2ca8320e11,Male,20,"College advanced"
+2cadafae87,Male,60,"High school"
+2ca63f4425,Male,23,College
+2cb30cf651,Male,68,"High school"
+2cad4dfc63,Female,25,"High school"
+2ca6099813,Male,49,"High school"
+2caac7bc78,Male,42,College
+2ca773d258,Female,35,"High school"
+2cabf34e75,Male,53,"College advanced"
+2ca4931027,Female,76,"High school"
+2cb148a896,Female,21,College
+2ca7a17213,Male,53,"High school"
+2ca93ffa48,Female,74,"High school"
+2ca7cd4683,Female,60,Basic
+2ca2b3f671,Male,62,College
+2caa53ea55,Male,52,"High school"
+2cb1f87003,Male,31,College
+2ca6f75497,Female,35,Basic
+2ca933b604,Female,45,"High school"
+2ca7f41032,Female,34,Basic
+2cadd90c44,Female,29,College
+2caaea4433,Female,43,Basic
+2cad801060,Male,36,College
+2cb2f6bc71,Female,25,"High school"
+2ca4209c19,Female,78,College
+2cb2c3c226,Female,60,"High school"
+2caa449064,Female,24,Basic
+2ca7eb6496,Female,24,"High school"
+2ca6cc8444,Male,57,"High school"
+2ca4ecac22,Male,33,College
+2caeda9672,Male,26,College
+2ca2283239,Male,34,"High school"
+2cafc97e34,Male,41,"High school"
+2ca39b1862,Male,60,Basic
+2ca5ca2863,Male,18,College
+2cab37e260,Female,73,"High school"
+2caca48821,Female,37,"High school"
+2ca86d5015,Female,48,"College advanced"
+2ca4146c44,Male,74,"High school"
+2ca73a7046,Male,82,College
+2caee82e17,Male,59,"High school"
+2cab28a633,Female,46,"High school"
+2caff59822,Male,22,Basic
+2caf9a9411,Male,44,"High school"
+2cb235ec80,Female,19,"High school"
+2ca9791622,Female,34,College
+2cac9a1026,Female,30,"High school"
+2cabe24603,Female,65,College
+2caca3ac92,Female,35,College
+2cb15c8a45,Female,66,"High school"
+2ca307de01,Male,31,"High school"
+2cafef9e00,Male,65,"High school"
+2caa7a0024,Female,48,College
+2ca2830e73,Female,44,"High school"
+2cabbb0e49,Female,22,College
+2ca3e49215,Female,29,College
+2ca21ebe39,Male,58,"High school"
+2caae1d413,Female,25,College
+2ca9e37486,Male,62,"High school"
+2cb1521c12,Female,63,College
+2ca2a89880,Female,24,Basic
+2ca903d266,Female,52,"High school"
+2cae283a51,Male,25,College
+2ca2fcf849,Male,43,College
+2cb0ab3244,Male,18,Basic
+2cb0daa889,Male,20,College
+2cad340c38,Male,54,College
+2cb28a4205,Female,39,"High school"
+2cb15ac815,Female,49,"High school"
+2cad09a073,Male,52,College
+2cab6d2a80,Female,53,"High school"
+2cac835e34,Female,21,College
+2caa879885,Male,58,"High school"
+2cb26c8873,Female,69,"High school"
+2ca2e13231,Male,42,"High school"
+2caa716891,Female,45,"College advanced"
+2ca322d228,Female,75,"High school"
+2ca5fc5041,Female,49,"High school"
+2cae4ab877,Female,82,"High school"
+2cae29fc82,Female,55,College
+2ca328c263,Male,50,"High school"
+2caa5cfa59,Male,36,"High school"
+2caad50493,Male,34,"High school"
+2ca945d652,Male,66,"High school"
+2cafa81812,Female,29,"High school"
+2ca477e092,Female,26,"High school"
+2ca33b5a60,Female,72,"High school"
+2cae77fe29,Male,44,"High school"
+2ca68a9e22,Male,69,"High school"
+2cb2944c17,Female,29,College
+2ca4609845,Male,55,"College advanced"
+2cb2174204,Female,55,Basic
+2ca65a4278,Male,55,College
+2cb1bf4a06,Female,68,"High school"
+2cad2ef816,Female,63,"High school"
+2cae772c83,Male,32,Basic
+2ca4e3c410,Female,66,"High school"
+2ca7c32816,Male,31,"College advanced"
+2ca51f4289,Male,69,"High school"
+2ca6000699,Male,62,"College advanced"
+2cb2ea6e24,Female,18,Basic
+2cac3a3405,Female,49,"High school"
+2cafc51e85,Male,71,"High school"
+2cb1f78052,Female,25,"High school"
+2ca9abac64,Male,41,"High school"
+2caf2de813,Female,24,College
+2cb0d4b858,Male,21,"High school"
+2ca70f9681,Female,64,"High school"
+2ca25ee242,Female,24,"High school"
+2cb32b7890,Female,42,"High school"
+2ca9f2ba19,Female,76,"High school"
+2cab74e687,Male,34,College
+2ca53c9811,Female,23,"High school"
+2ca7a93832,Male,32,College
+2ca5a39054,Female,36,"High school"
+2cace60058,Male,45,"College advanced"
+2caa0d3614,Male,49,"High school"
+2ca8095a68,Male,73,College
+2cac145004,Male,60,"High school"
+2ca67ac200,Male,27,College
+2cb2835877,Female,27,"High school"
+2cb1044211,Male,77,College
+2ca85be442,Female,44,"High school"
+2ca2de9e84,Female,36,College
+2ca99de205,Male,28,"High school"
+2cb1938005,Female,55,"High school"
+2ca774ae50,Male,78,"High school"
+2ca38f2e55,Female,47,College
+2ca6c57206,Female,19,"High school"
+2ca3263818,Male,31,Basic
+2ca6ae5c08,Male,62,Basic
+2ca39bf481,Female,35,"High school"
+2cab0fd883,Male,43,"High school"
+2cb18f3476,Female,31,"High school"
+2cb33cd076,Male,67,College
+2caa8bf865,Female,33,Basic
+2cb1902485,Male,38,"College advanced"
+2caf326681,Male,64,College
+2ca41b4287,Female,71,"High school"
+2cac49b671,Male,46,"High school"
+2caddab087,Female,70,College
+2ca7169e63,Male,22,"High school"
+2ca4233a27,Male,33,"High school"
+2ca8e80c43,Female,49,"High school"
+2ca4d38423,Male,34,"High school"
+2ca44ae063,Female,33,College
+2caf535e26,Male,45,College
+2cac219860,Male,78,"College advanced"
+2cae540e59,Male,22,"High school"
+2ca3644a62,Female,21,"High school"
+2cb3029205,Female,23,College
+2cb33dac97,Male,64,College
+2ca302c076,Female,49,"High school"
+2ca7267073,Male,19,"College advanced"
+2ca9294819,Male,40,"College advanced"
+2ca9936056,Female,70,"High school"
+2ca8227861,Female,43,College
+2ca30a5e70,Male,61,"High school"
+2cabce9663,Female,50,College
+2cab306241,Male,70,Basic
+2cb23e7054,Male,51,"High school"
+2ca818aa36,Male,31,"High school"
+2cb0bbc222,Male,44,"High school"
+2cac4fe201,Female,48,Basic
+2caa337498,Male,40,"High school"
+2cb26e2c98,Female,50,"High school"
+2cb1634291,Male,55,College
+2ca9e87e81,Female,40,"High school"
+2caa75c823,Female,56,"High school"
+2ca41c1e24,Male,79,"High school"
+2cae5ee007,Male,82,Basic
+2ca3a2c002,Female,57,Basic
+2caf9b6604,Female,33,"College advanced"
+2ca2350c70,Female,23,College
+2ca672fc31,Male,62,"High school"
+2ca7d64260,Female,64,"College advanced"
+2caadbd054,Male,54,Basic
+2cad87cc34,Male,39,Basic
+2ca30b3a65,Female,29,Basic
+2ca4f98690,Female,59,College
+2cacb5fe10,Male,32,College
+2ca6b0e661,Male,54,"High school"
+2ca5059822,Male,67,"High school"
+2caa360818,Male,42,"High school"
+2ca7be0a62,Male,52,College
+2ca4e59007,Female,67,College
+2caaa25002,Male,60,College
+2cac0c5820,Female,62,Basic
+2cadd06a80,Male,28,"High school"
+2caeffee42,Male,58,College
+2ca7599c43,Female,74,"High school"
+2caccb8e21,Female,64,Basic
+2ca2d38656,Female,46,College
+2cab16b858,Female,30,Basic
+2ca806d092,Female,30,"High school"
+2ca9ffa872,Female,53,"High school"
+2ca3add844,Male,38,College
+2cadad0632,Female,69,"High school"
+2ca39da220,Male,76,College
+2cb1443e57,Male,48,Basic
+2ca9c2ea82,Female,44,"College advanced"
+2ca29a2433,Male,40,"College advanced"
+2caa55c078,Female,84,"High school"
+2caaa0ac22,Male,38,"High school"
+2ca95f6c69,Female,41,"High school"
+2ca5705069,Male,64,College
+2cace0e259,Male,28,"High school"
+2cb2572a41,Male,79,"High school"
+2ca5685888,Male,57,College
+2caae96875,Female,31,"College advanced"
+2ca5272630,Female,59,College
+2ca31c1023,Female,46,College
+2cb14dc648,Male,37,"College advanced"
+2cb329ca58,Female,50,"College advanced"
+2cae6d4a25,Male,24,Basic
+2caef5bc90,Male,48,"High school"
+2cafc5f053,Male,43,College
+2ca4ad8c00,Female,31,"High school"
+2cb0f9d433,Female,52,"High school"
+2caeff1c66,Female,52,"College advanced"
+2cab021859,Female,78,College
+2ca98b9087,Female,58,Basic
+2ca8725071,Female,52,"High school"
+2caab51a77,Male,56,"High school"
+2ca2787874,Male,21,"High school"
+2ca4e14411,Female,58,"High school"
+2cade35286,Female,40,College
+2ca8e3c016,Male,59,"High school"
+2ca2505004,Female,61,College
+2caf922421,Male,34,"High school"
+2cacb6da25,Female,69,"College advanced"
+2caddefc32,Male,29,"College advanced"
+2ca9e52c03,Female,74,"High school"
+2ca636ac03,Male,61,"High school"
+2ca6bc8003,Male,75,"High school"
+2cb19b8224,Male,24,College
+2ca4f11698,Male,63,"High school"
+2cabbe6a39,Male,53,"High school"
+2cb2327c80,Male,26,"High school"
+2ca99f9004,Male,23,College
+2caa10b054,Female,71,"High school"
+2cac634210,Male,77,Basic
+2cb0351209,Female,78,"High school"
+2cb2a0fe31,Female,47,College
+2caee59a10,Male,21,"High school"
+2ca2727412,Female,56,"College advanced"
+2ca7c7a653,Female,59,College
+2ca4e86a32,Female,42,College
+2ca2dc0a30,Female,28,"High school"
+2cad5d7499,Female,39,Basic
+2cac519a61,Female,61,College
+2ca7a3fc27,Female,52,"High school"
+2ca8e8f232,Male,56,"High school"
+2ca66c1c75,Female,74,College
+2ca9da0055,Male,61,"High school"
+2cb2d7ae82,Male,71,"High school"
+2cad441000,Female,24,Basic
+2ca5471a99,Male,52,"High school"
+2cb10eba66,Female,32,"High school"
+2ca5015630,Male,20,"High school"
+2caf8d1093,Female,25,"High school"
+2ca9c8f860,Female,23,College
+2cb2bec206,Male,34,"High school"
+2cad989832,Male,56,"College advanced"
+2cadef4681,Male,60,"High school"
+2cab861695,Male,41,"College advanced"
+2caf69f236,Female,58,Basic
+2cad8cb846,Female,69,Basic
+2cac844415,Female,20,"High school"
+2cb2ed3473,Male,37,"High school"
+2cb0f49862,Male,69,"High school"
+2ca7213477,Male,62,"High school"
+2ca746a051,Female,42,"College advanced"
+2cb177a602,Male,40,College
+2cb13bba30,Male,83,"College advanced"
+2ca8827c52,Male,47,Basic
+2cb26d5a29,Female,22,"College advanced"
+2cb080e465,Female,20,"College advanced"
+2ca4df9626,Male,58,Basic
+2ca27bde28,Female,31,College
+2ca3f25288,Female,52,College
+2caf88b040,Male,35,College
+2cacbc2064,Female,47,"High school"
+2caf634464,Male,56,College
+2cb0a7b827,Male,47,"College advanced"
+2cae396a08,Male,21,College
+2cb1643280,Male,77,College
+2cab741492,Female,52,College
+2ca9083241,Female,56,"High school"
+2cad432a09,Female,68,"High school"
+2cafb25420,Female,41,Basic
+2cb0489064,Male,79,College
+2cac913c51,Male,30,Basic
+2ca5121839,Male,65,Basic
+2ca9a21004,Male,35,College
+2caf1f7e33,Male,51,"High school"
+2caae37844,Male,54,"High school"
+2cab9b8832,Male,54,College
+2cae37bc28,Male,23,Basic
+2ca27f4e48,Male,36,College
+2ca4086e45,Male,56,Basic
+2cae45a408,Female,60,College
+2ca6047073,Male,22,Basic
+2ca5a46201,Female,41,College
+2cb0c3ec88,Female,45,"High school"
+2cad1ea475,Female,60,"High school"
+2caf974232,Female,37,"High school"
+2cb01fe601,Male,61,"High school"
+2ca5d07273,Male,73,College
+2cb0cfa448,Male,27,"High school"
+2cb2d38a83,Female,29,Basic
+2ca5d34210,Male,36,"High school"
+2caa5c1e25,Female,23,"High school"
+2cac7fbc38,Female,22,College
+2ca9e0d631,Male,21,College
+2ca92cae24,Female,44,"High school"
+2cae7dc656,Female,25,"High school"
+2caa25f062,Female,56,"High school"
+2cb1c29c58,Male,52,"College advanced"
+2ca3567693,Male,34,"High school"
+2cacf51454,Male,26,"College advanced"
+2cb1f06e90,Female,58,"High school"
+2cad5ff499,Female,39,"College advanced"
+2ca5695284,Female,32,Basic
+2ca7044c72,Female,30,"High school"
+2ca48e8842,Male,61,"High school"
+2cb076da38,Male,45,Basic
+2ca9276801,Male,48,"High school"
+2ca876ba05,Male,35,"High school"
+2ca4ee8c16,Female,61,College
+2ca67d5657,Female,56,College
+2ca4c75e41,Female,64,College
+2ca33d0800,Male,18,"High school"
+2ca66a2824,Male,31,Basic
+2cacc90e45,Male,32,College
+2cb01b9061,Male,80,"High school"
+2ca96d3603,Female,51,College
+2ca4e77a77,Male,79,Basic
+2cb21dfa53,Male,52,"College advanced"
+2ca2ed7670,Male,18,Basic
+2cab4f5c78,Female,60,"High school"
+2ca5104204,Male,24,"High school"
+2caed82010,Female,30,"High school"
+2cb2c2f091,Male,54,College
+2caab6c852,Female,61,"High school"
+2ca6632a33,Female,43,College
+2cad4c5869,Male,40,"High school"
+2ca32ea851,Female,54,College
+2ca8f18020,Female,69,"High school"
+2cabeac094,Male,25,"High school"
+2caa251e82,Female,66,College
+2ca65f9c24,Male,55,"High school"
+2ca8f89205,Male,62,"High school"
+2ca6219e61,Male,34,"High school"
+2cb1c1ca61,Male,45,Basic
+2ca2469643,Female,29,"High school"
+2cb3215058,Female,60,College
+2caeb0de56,Female,24,College
+2caa800e56,Male,73,College
+2ca7b61246,Male,43,"High school"
+2cade84881,Female,70,"High school"
+2ca617ee39,Male,37,"High school"
+2cb31a7060,Female,70,College
+2ca2c53a01,Male,61,"High school"
+2ca73b4c55,Male,24,"High school"
+2ca713ec68,Male,61,"High school"
+2ca38a1071,Female,46,"High school"
+2ca3d18c35,Male,37,"College advanced"
+2ca4094006,Female,54,"High school"
+2cab399043,Male,32,College
+2cb1a31666,Female,20,"College advanced"
+2cb2e1d628,Female,37,Basic
+2cb1d44433,Male,38,"High school"
+2ca750f049,Female,50,College
+2ca9803c64,Male,72,"High school"
+2cb14cf433,Male,47,College
+2cab539482,Female,47,"High school"
+2ca42c0e37,Female,40,"High school"
+2cacb8ba66,Male,25,College
+2caa508e44,Male,33,College
+2caf6f1a42,Female,50,Basic
+2cae290c28,Female,69,College
+2cb036c062,Female,58,"High school"
+2ca5cbe012,Female,79,"High school"
+2caca80272,Female,25,Basic
+2cac6a3640,Female,52,"High school"
+2cae1d2c18,Female,81,"High school"
+2cac0d3446,Female,56,"College advanced"
+2cab416a46,Male,42,Basic
+2cb0744686,Female,54,College
+2ca223e600,Male,35,"High school"
+2ca308b052,Male,56,"College advanced"
+2caaca4677,Male,52,"College advanced"
+2ca7d0de95,Female,26,College
+2cab9fd400,Female,20,Basic
+2cb0219e13,Female,37,"High school"
+2cb2300691,Male,20,"College advanced"
+2cb2122e18,Male,25,"High school"
+2ca5878476,Male,50,"High school"
+2ca9a13e32,Male,32,College
+2ca52ff067,Female,74,College
+2cb0ed9a30,Male,27,College
+2ca3531a82,Male,34,"High school"
+2ca2268491,Male,43,College
+2cad0c3417,Female,20,College
+2cb134d057,Female,53,College
+2ca78c5a01,Male,59,"High school"
+2cacd0c017,Male,41,College
+2ca49f0402,Female,33,College
+2ca7b7c081,Male,45,Basic
+2ca5448607,Female,78,Basic
+2cb05bc894,Male,67,"High school"
+2ca73eee13,Male,40,College
+2cab8c1a30,Female,27,Basic
+2ca9a3c854,Male,24,"College advanced"
+2caa6b7819,Female,64,"High school"
+2ca574d869,Female,45,College
+2caf6c7c00,Male,58,"High school"
+2cb1c0f825,Male,36,"High school"
+2cb14e9867,Male,51,"High school"
+2cb307ce66,Female,74,"High school"
+2cb18e3092,Female,76,"College advanced"
+2cb0344048,Female,52,"College advanced"
+2cb2379a20,Female,46,Basic
+2caebb1a34,Male,59,College
+2cabdc4c62,Male,65,College
+2ca42b3c38,Male,23,"High school"
+2ca3a46e78,Female,62,College
+2cab7d8854,Male,59,College
+2ca9ecc002,Male,29,"High school"
+2ca2222e98,Male,18,"High school"
+2cb129a428,Female,66,Basic
+2cb2b04491,Female,38,"High school"
+2ca8e49c14,Female,48,"High school"
+2cb152ee87,Female,39,"High school"
+2caf485a80,Male,44,College
+2cafe3dc34,Female,44,"High school"
+2ca30ce858,Male,49,"High school"
+2cb0f57409,Male,31,"High school"
+2ca794f266,Female,34,College
+2cb0288888,Male,35,"High school"
+2ca7028a64,Male,43,College
+2ca712fc04,Male,62,"High school"
+2ca51d9416,Male,56,College
+2ca2485879,Male,52,Basic
+2caef40e66,Male,35,"High school"
+2ca59e5e60,Male,60,College
+2ca990c237,Female,53,"College advanced"
+2ca7c88c52,Female,18,College
+2cae5fb271,Male,60,Basic
+2ca8e56e35,Male,28,College
+2ca4b3d643,Female,58,"High school"
+2caa82a292,Female,19,Basic
+2ca74bd203,Female,25,"High school"
+2ca4556c09,Female,72,"College advanced"
+2cb1619453,Male,74,College
+2cb0461006,Male,57,College
+2caf4e3645,Female,68,College
+2ca4bed041,Female,40,"High school"
+2ca7d00208,Male,32,"High school"
+2cadd9de09,Male,51,"College advanced"
+2cb0134858,Female,43,Basic
+2ca265ae71,Male,22,College
+2cb0953494,Female,65,College
+2ca555e880,Male,25,College
+2ca68fda57,Female,55,"High school"
+2cafae1204,Female,31,College
+2cac94c072,Male,50,"High school"
+2cb2b1fc92,Female,34,"High school"
+2ca62e8c96,Female,38,College
+2ca39a3c53,Male,69,College
+2ca7a24e42,Female,56,"High school"
+2caeee0059,Female,38,Basic
+2caef83c43,Male,40,Basic
+2cac129845,Male,68,"College advanced"
+2cab786a87,Male,66,"High school"
+2ca3e64a48,Male,71,"High school"
+2ca2640003,Female,28,College
+2cb0adb253,Male,24,"High school"
+2caba34404,Male,19,"High school"
+2ca74cae12,Female,55,"High school"
+2ca513ee10,Male,30,"High school"
+2cacc30075,Male,49,Basic
+2cad180018,Female,41,College
+2cb2039c13,Male,47,College
+2cafe81434,Male,55,Basic
+2caa1bd245,Female,55,College
+2cb0d22e07,Male,73,"High school"
+2ca318aa58,Female,38,Basic
+2cb306de61,Male,72,College
+2ca3e7f855,Female,79,"High school"
+2ca6a09244,Female,24,"College advanced"
+2ca847f893,Female,52,"High school"
+2ca3834414,Male,33,"College advanced"
+2ca54c1a52,Male,21,"College advanced"
+2cac9e6670,Male,29,"High school"
+2cad22e663,Female,62,"High school"
+2ca92b0003,Female,27,"High school"
+2ca9225473,Male,60,"High school"
+2ca2e90c89,Female,42,"College advanced"
+2ca69ebc78,Male,63,"High school"
+2caba0b092,Male,63,College
+2ca6640611,Male,69,Basic
+2ca707c615,Male,42,"College advanced"
+2caeba4898,Female,46,College
+2ca6b9ec91,Male,52,"High school"
+2cac5e1a33,Female,57,"High school"
+2ca5f7f054,Female,33,"High school"
+2cafcce461,Male,73,College
+2cae2e3e16,Male,57,"High school"
+2cb2522074,Female,65,College
+2ca7b46490,Male,59,College
+2cada93c25,Male,58,"High school"
+2ca6b39804,Male,52,"High school"
+2ca5ae1c14,Female,61,"College advanced"
+2ca4fb3e44,Female,77,"High school"
+2cb2659431,Male,27,"High school"
+2ca8456e97,Male,44,"High school"
+2ca5ad2222,Male,65,Basic
+2cad686e24,Male,76,College
+2cad755225,Male,56,"High school"
+2ca270bc06,Male,26,"College advanced"
+2caa3b4e08,Male,46,"College advanced"
+2cac08f200,Male,31,Basic
+2caa7ad280,Male,48,College
+2ca72f3a75,Female,74,"College advanced"
+2cae3cd009,Male,70,"High school"
+2cb092b408,Male,60,"High school"
+2cac029442,Male,56,"High school"
+2ca9eafe61,Female,69,"High school"
+2ca71b0873,Male,40,"High school"
+2ca3773c93,Female,61,"College advanced"
+2cb236c891,Female,62,College
+2cac43bc71,Female,40,"High school"
+2cb28d9488,Male,82,"High school"
+2ca619a672,Male,27,"High school"
+2ca6e5ca40,Male,82,Basic
+2ca37d4034,Female,60,"High school"
+2cac896c85,Female,53,"High school"
+2cadcdea05,Male,64,College
+2caf17cc31,Female,29,"High school"
+2cb13d7201,Male,47,"High school"
+2cb1bcca87,Female,77,"High school"
+2ca9dbd614,Male,70,"High school"
+2cacbcfc65,Female,22,"High school"
+2ca3ea8279,Male,70,College
+2ca98fe608,Female,55,Basic
+2ca503e006,Male,26,"College advanced"
+2ca63d7880,Male,36,"High school"
+2cb06e4c44,Female,25,"High school"
+2cae7a7e31,Female,46,Basic
+2caf87de84,Female,67,College
+2ca4c84e93,Male,35,"College advanced"
+2cace45c28,Female,30,Basic
+2cb0861685,Female,71,"High school"
+2cb051c813,Male,51,"High school"
+2cadbb0243,Male,38,Basic
+2cadc99446,Female,28,"High school"
+2ca96ee422,Female,24,College
+2cb32d3a72,Female,26,"High school"
+2ca7477c06,Male,52,Basic
+2ca4289e44,Female,67,"High school"
+2ca6039498,Male,43,"High school"
+2ca78fc099,Female,47,College
+2caf01a682,Female,38,College
+2ca2d53e92,Male,43,"College advanced"
+2caa5a0c01,Female,36,"High school"
+2caba19653,Male,43,"High school"
+2ca9fa8041,Female,36,College
+2ca33f9242,Male,27,College
+2ca5826699,Female,29,College
+2cac2c1021,Male,78,"High school"
+2ca9c13c18,Female,49,"High school"
+2ca9427a82,Male,60,"High school"
+2caa03ea09,Female,56,College
+2cb2c21e20,Male,39,"High school"
+2ca5dd9210,Female,44,"High school"
+2cab921e63,Male,30,"High school"
+2ca7917869,Female,71,"High school"
+2caa43b441,Female,31,College
+2ca9a8e697,Female,40,"High school"
+2ca25fbe84,Female,54,"High school"
+2cad7a3419,Female,71,College
+2ca9435640,Female,28,College
+2cb026da46,Female,58,"High school"
+2cb33f5095,Female,77,Basic
+2cab3b5c48,Male,46,College
+2ca9f46881,Male,44,Basic
+2ca6998a62,Male,39,Basic
+2ca424f276,Female,53,College
+2ca7361a06,Male,42,Basic
+2cb3324e58,Male,62,College
+2cacd35e50,Male,50,College
+2caedd1699,Male,72,College
+2ca2d61032,Female,27,"High school"
+2caf93dc31,Male,30,Basic
+2cadf0ea14,Male,56,"College advanced"
+2ca8534232,Female,40,"High school"
+2caa523c69,Male,36,"High school"
+2ca444dc22,Male,45,"High school"
+2ca68b7a38,Male,39,"College advanced"
+2cae3a4656,Male,53,College
+2cad385831,Male,40,College
+2cb2901467,Male,76,Basic
+2ca34df296,Male,63,"High school"
+2ca5ef3a42,Male,63,"High school"
+2ca56e9896,Female,54,"High school"
+2caf550219,Male,26,Basic
+2ca9f1de20,Female,62,"High school"
+2ca2407433,Female,57,College
+2ca887b817,Male,21,"High school"
+2cac58f219,Male,79,Basic
+2cb24b8604,Male,55,"High school"
+2cac16ee02,Female,20,College
+2ca8235420,Male,36,"College advanced"
+2cae59cc50,Male,22,"High school"
+2ca97f6066,Female,38,"High school"
+2caf70be96,Male,59,Basic
+2ca3a8b030,Female,44,College
+2ca80c2073,Female,53,College
+2ca2a0f017,Male,28,Basic
+2ca3271411,Male,26,"High school"
+2cb105fa17,Female,22,"College advanced"
+2ca9cfc419,Female,64,"High school"
+2ca58b0896,Female,46,"High school"
+2ca6c9d275,Female,20,"College advanced"
+2ca4d7da70,Female,61,"High school"
+2ca24bbe30,Female,55,College
+2ca73fc016,Male,34,"High school"
+2ca8dd9475,Female,20,Basic
+2cab348641,Male,66,College
+2cac906051,Female,23,"High school"
+2ca9075667,Male,56,"College advanced"
+2ca5f53e05,Male,52,"High school"
+2ca57da256,Male,23,College
+2ca5886085,Male,45,"High school"
+2ca4042c71,Female,77,Basic
+2ca5030401,Male,27,"High school"
+2ca708a297,Male,78,"College advanced"
+2ca9f7c498,Female,71,"High school"
+2cac619478,Male,26,College
+2cae14c662,Female,69,"High school"
+2cb2b99a97,Female,40,"High school"
+2ca7114420,Female,27,"High school"
+2cb1581603,Male,51,College
+2cb1f94202,Male,47,"College advanced"
+2caf417a65,Female,74,"High school"
+2cacf60403,Female,60,"High school"
+2ca4510c11,Male,21,"High school"
+2ca64ffc08,Female,39,College
+2ca6880059,Female,42,College
+2ca97e8485,Male,33,Basic
+2ca95a1276,Male,21,Basic
+2caf94ae81,Female,54,College
+2ca3046e29,Male,57,College
+2ca3cc5a68,Male,21,"High school"
+2cafd10885,Male,27,"High school"
+2ca39e7e64,Female,53,College
+2ca543aa30,Female,24,Basic
+2cb0946284,Female,28,Basic
+2cb1752649,Female,44,College
+2ca7acbc79,Male,24,Basic
+2ca5a2aa79,Male,64,"High school"
+2ca80dd823,Female,29,"High school"
+2cb1cd3247,Male,64,"College advanced"
+2ca8ee2416,Male,61,Basic
+2cafa25093,Male,65,College
+2ca26c8404,Female,40,"College advanced"
+2ca6a77231,Female,41,"High school"
+2ca20e3857,Male,60,"High school"
+2cb0e6ec28,Male,54,College
+2ca44d7451,Female,47,"High school"
+2ca7bc3404,Female,48,"High school"
+2cae924896,Male,54,"College advanced"
+2ca354d217,Male,41,College
+2ca8bd3271,Female,54,"High school"
+2caad24888,Female,39,"High school"
+2cacb36004,Female,24,"High school"
+2ca3952868,Female,20,"High school"
+2caeddfc82,Female,76,"High school"
+2ca9364a33,Male,80,College
+2cabebb096,Male,27,"High school"
+2cb1028a48,Male,54,"High school"
+2ca4035a60,Female,20,"College advanced"
+2cae872680,Male,79,College
+2cab503899,Female,67,Basic
+2cad5ac297,Female,42,College
+2ca4344212,Male,52,Basic
+2cab485439,Female,30,"High school"
+2ca865a810,Female,43,"High school"
+2ca9144e09,Male,46,Basic
+2ca8137898,Female,70,"High school"
+2cb158f278,Male,39,"High school"
+2ca79b3239,Male,64,College
+2ca7353e82,Male,66,"High school"
+2cb096f680,Female,54,College
+2cac627043,Male,46,"High school"
+2cab607888,Female,75,"College advanced"
+2ca7ad8e93,Female,56,"High school"
+2cb0af6047,Male,27,College
+2cae74fc01,Male,31,"High school"
+2ca7933a88,Female,23,"High school"
+2cb02cac68,Male,41,College
+2cb28b1e07,Male,42,"High school"
+2cac17e813,Male,75,"High school"
+2cacfcbc22,Male,81,"College advanced"
+2ca4139094,Female,20,Basic
+2cb0544893,Female,52,"High school"
+2caa413492,Male,61,"High school"
+2cabe3f433,Male,41,"High school"
+2ca34a8c51,Female,53,College
+2ca3688c76,Male,36,"High school"
+2cab26f897,Male,40,Basic
+2cadfb0884,Male,67,Basic
+2ca24e5299,Male,64,Basic
+2caf1eac66,Female,23,"High school"
+2ca23dea20,Male,47,College
+2caa3c2008,Female,67,"High school"
+2ca9af1278,Male,23,College
+2cac0aa093,Female,47,"High school"
+2ca6138464,Female,84,"High school"
+2cb11aae70,Male,52,College
+2ca864c286,Male,65,Basic
+2cad762440,Female,28,"College advanced"
+2cadbce286,Female,55,College
+2cabf1aa24,Male,57,"High school"
+2cae1a8e87,Female,64,"College advanced"
+2caccf1247,Male,30,"High school"
+2ca23b4c06,Male,27,"High school"
+2cb3402c15,Female,51,"High school"
+2cabdfa874,Female,60,"High school"
+2ca3357423,Male,45,College
+2cb1eb3c20,Female,26,College
+2ca59c7e17,Male,47,"High school"
+2ca59d5013,Female,33,"College advanced"
+2ca9bcfa94,Male,48,"High school"
+2ca9604825,Male,66,"High school"
+2cac288280,Male,45,"High school"
+2cb3163801,Female,45,"High school"
+2ca6d98651,Female,25,College
+2ca4fc1a73,Male,55,"College advanced"
+2ca73d2264,Female,32,"High school"
+2ca237d244,Female,24,College
+2cab99e437,Male,71,"High school"
+2ca86c7433,Male,63,"High school"
+2ca6d36451,Female,32,"High school"
+2caf898c19,Male,61,College
+2cafac6e90,Male,29,"High school"
+2ca599fe82,Male,34,"High school"
+2cadcc1404,Female,68,"High school"
+2cb0d08a60,Female,74,College
+2caa778071,Female,58,"High school"
+2cabc7ac12,Male,68,"High school"
+2ca64b9c69,Female,26,College
+2cb097d222,Female,41,College
+2ca5b18c49,Female,26,"High school"
+2caecb5a97,Female,74,"High school"
+2ca69a6669,Female,33,"High school"
+2ca9d41040,Male,56,"High school"
+2cb03ff854,Male,49,College
+2ca591f218,Male,83,"High school"
+2ca40a2619,Male,44,Basic
+2ca5ed6e12,Male,44,"High school"
+2ca9855081,Male,53,"High school"
+2ca2f28087,Male,20,College
+2cae003a78,Female,47,Basic
+2ca83f1a57,Female,60,College
+2cad4d2a64,Male,42,College
+2ca9c06085,Male,71,"High school"
+2ca8c0de43,Female,52,College
+2ca73c2849,Male,45,College
+2cb175f887,Male,21,"High school"
+2ca9dcb263,Female,53,"College advanced"
+2cb300e425,Female,49,Basic
+2cacecae10,Female,72,College
+2cac081698,Female,57,College
+2cafb40296,Male,32,College
+2caadf5484,Male,44,College
+2cb0234c54,Male,47,College
+2caeb55201,Female,21,College
+2ca216ee68,Male,51,Basic
+2ca683c847,Male,30,"High school"
+2caad87e47,Female,37,"High school"
+2ca745b082,Female,46,"College advanced"
+2ca36bfc22,Female,43,"College advanced"
+2cab958e51,Female,33,College
+2cac4a9236,Male,55,"High school"
+2cb1428627,Female,61,"High school"
+2ca2ef2429,Female,37,"High school"
+2ca9769638,Female,49,Basic
+2cadb5b237,Male,64,College
+2ca55c0a00,Female,58,"High school"
+2ca601e688,Male,53,"High school"
+2ca435f014,Female,33,College
+2ca8c44486,Male,45,"High school"
+2ca5210452,Female,43,"High school"
+2cadbdbe28,Male,75,College
+2cb23f4c17,Female,62,Basic
+2ca6386477,Female,40,"High school"
+2cb008f864,Male,54,Basic
+2cb2e7ee26,Female,19,"High school"
+2caf8c3e78,Male,47,"High school"
+2ca4f7c492,Female,63,"High school"
+2cab6c4495,Female,21,"High school"
+2cb2da2e78,Male,32,College
+2caec46604,Male,45,College
+2ca4bdf487,Female,21,"High school"
+2ca762f204,Male,57,"College advanced"
+2ca2a53290,Male,50,College
+2cacbdce45,Female,48,College
+2cafbe4844,Male,40,College
+2cab794605,Female,53,"High school"
+2ca3ed1652,Female,52,College
+2cad514e40,Female,65,"High school"
+2ca8835890,Male,24,"High school"
+2ca25a9691,Female,81,"High school"
+2caa604c41,Male,24,College
+2ca7faf044,Female,55,Basic
+2ca98c7686,Male,57,"High school"
+2ca8cdd640,Male,22,"High school"
+2ca7e1dc52,Male,59,College
+2ca2ab2239,Female,52,"High school"
+2ca7432624,Male,31,"High school"
+2ca85cb686,Male,48,College
+2cab674438,Male,61,"High school"
+2caac10e66,Female,62,"High school"
+2cabc6da95,Male,42,"High school"
+2caeabde89,Female,20,"High school"
+2ca97ccc27,Male,52,College
+2cac762a68,Female,31,College
+2cabe5b661,Female,59,College
+2ca231a646,Male,22,"High school"
+2ca2891211,Female,69,"College advanced"
+2ca697be94,Male,64,Basic
+2ca6480e11,Male,26,College
+2cacdcbe89,Female,61,"College advanced"
+2ca295d881,Female,48,"College advanced"
+2cafa74686,Female,66,College
+2ca5077884,Female,43,College
+2ca8b82870,Female,43,College
+2cace7a432,Female,75,"High school"
+2cab562817,Male,63,"High school"
+2cad13aa60,Male,25,Basic
+2ca9022401,Male,64,"High school"
+2cac77f684,Male,69,Basic
+2ca3697215,Male,22,College
+2ca81f9417,Male,28,"College advanced"
+2caffb6010,Female,45,College
+2cadf89293,Female,35,"High school"
+2cb2ae9641,Female,19,"High school"
+2cb30c0647,Male,18,Basic
+2cae047231,Male,46,"High school"
+2cb3222293,Female,44,"High school"
+2cb0c59053,Female,20,"High school"
+2cac8f8e87,Male,38,College
+2ca243da70,Male,23,"High school"
+2cb0760830,Female,36,College
+2caf8a5e34,Female,35,"High school"
+2cb0e13835,Female,64,"College advanced"
+2ca3753406,Female,51,Basic
+2caa792497,Male,78,College
+2cb0c24812,Male,70,"High school"
+2cb2bb4871,Female,63,College
+2ca2f0d250,Male,56,"High school"
+2caa3cf295,Male,36,"High school"
+2cb3382062,Female,35,College
+2caca0f068,Female,41,"High school"
+2ca4102082,Female,40,"High school"
+2ca470ec18,Female,64,"High school"
+2ca9cb9633,Male,52,"High school"
+2caf00c086,Male,37,"High school"
+2cb1687469,Female,76,College
+2cb2acf286,Female,73,"High school"
+2cb2843442,Male,22,"College advanced"
+2ca7546a99,Male,34,"High school"
+2caba9fc25,Male,31,"College advanced"
+2cad1a8056,Female,29,Basic
+2cafeab213,Male,24,"High school"
+2ca5b8da39,Female,77,"College advanced"
+2caebe6c44,Female,58,"High school"
+2ca7e98e02,Male,25,College
+2caaa91244,Male,52,"High school"
+2cad903c65,Male,24,"High school"
+2ca5550c53,Male,59,"High school"
+2cb1b29852,Female,46,"High school"
+2caabe8e79,Female,79,Basic
+2ca38e5278,Female,61,"College advanced"
+2cabdd2813,Female,53,Basic
+2ca84d2a32,Male,62,"High school"
+2ca954c201,Male,34,Basic
+2cb10b5e44,Female,19,"High school"
+2cb171ca41,Male,28,College
+2ca8050e18,Female,61,Basic
+2caf4d4627,Male,48,"High school"
+2ca7f5dc98,Female,62,"High school"
+2cb20a8600,Male,35,"High school"
+2cb30f8040,Male,42,College
+2ca7417847,Female,54,"High school"
+2ca7ed2692,Female,83,"High school"
+2ca7621626,Female,74,"High school"
+2ca2ce7226,Male,23,College
+2ca23c2809,Female,71,"High school"
+2cafdebe60,Male,43,"College advanced"
+2ca41eb210,Female,45,"High school"
+2ca71a2c57,Male,60,"High school"
+2cb03a0880,Male,44,Basic
+2cb050f601,Female,49,"High school"
+2cad309c49,Male,21,College
+2ca84fbe29,Female,59,"High school"
+2caadafe08,Female,30,"High school"
+2ca4eda609,Male,64,Basic
+2ca618ca87,Female,25,"High school"
+2ca44c9857,Female,43,"High school"
+2cadf61225,Female,51,"High school"
+2ca3f4dc68,Female,55,Basic
+2cab11ae89,Female,36,College
+2ca45ed653,Female,23,"College advanced"
+2cab7af484,Male,38,Basic
+2ca54f9490,Male,76,College
+2ca401a294,Male,19,"College advanced"
+2cad2d4a94,Female,23,College
+2ca6e86834,Male,51,College
+2caaf8b863,Male,54,"High school"
+2cb1eeca00,Female,39,"High school"
+2cb07be494,Male,40,College
+2cb1c60c54,Male,53,"High school"
+2caa14d425,Male,46,"High school"
+2ca916e268,Male,52,"College advanced"
+2caa670e57,Male,56,College
+2cad954624,Male,28,"High school"
+2caee73e45,Female,18,Basic
+2cb1cb2064,Female,59,Basic
+2caeaa1c03,Male,60,College
+2cb09b1a29,Female,40,College
+2cacf43802,Female,28,Basic
+2ca7a86623,Male,34,"High school"
+2caec63237,Female,78,College
+2ca996bc65,Male,68,"High school"
+2ca988ca25,Female,18,"High school"
+2cb0652895,Female,29,Basic
+2cb25eb496,Male,72,College
+2ca37b9269,Male,42,Basic
+2ca3f32e07,Male,41,College
+2cac8a3e65,Female,37,"High school"
+2cb0e5de77,Female,60,"High school"
+2ca4c9fc16,Female,30,Basic
+2cafe30a26,Female,20,College
+2cb247b268,Female,80,College
+2ca701ae44,Male,23,College
+2ca5f38690,Female,61,"High school"
+2cab570414,Female,36,College
+2cab03bc33,Female,59,College
+2cac41f092,Female,30,College
+2ca2d46219,Female,40,Basic
+2cb1e2b843,Female,54,"High school"
+2caf7c0830,Male,48,"High school"
+2ca9811880,Female,41,"High school"
+2ca8c99e79,Male,37,"High school"
+2cb041b097,Male,26,College
+2ca4abde80,Male,46,"High school"
+2ca9b28c93,Female,42,"High school"
+2cabc1da67,Female,41,Basic
+2ca7106823,Female,50,"High school"
+2ca9d19071,Male,20,"High school"
+2ca3523442,Male,29,College
+2ca5a8e093,Male,27,College
+2ca7f86636,Male,76,"High school"
+2cac20bc80,Female,30,"High school"
+2ca642e697,Female,18,Basic
+2cadfbda11,Female,60,College
+2cabcb1c98,Female,43,College
+2cab80f841,Male,61,"High school"
+2ca81d0000,Male,37,Basic
+2ca2153644,Female,66,Basic
+2ca874ee11,Male,28,"High school"
+2cae75ec36,Female,53,"High school"
+2ca2779c40,Female,62,"High school"
+2cae48f682,Female,32,"High school"
+2ca6560a62,Female,46,"High school"
+2ca2a6ea03,Female,42,"High school"
+2ca7000035,Female,46,"High school"
+2ca4a79c67,Male,31,Basic
+2cad796206,Male,74,"High school"
+2cb2c14c55,Female,46,College
+2ca974e860,Female,56,College
+2caa007a94,Female,68,Basic
+2ca316fc99,Male,43,"High school"
+2ca4d0c842,Male,22,"High school"
+2ca5131215,Male,41,"High school"
+2cb328f836,Male,61,"High school"
+2ca49d5661,Male,43,"High school"
+2cae858253,Female,68,"High school"
+2ca744d422,Female,64,College
+2cac6cc034,Male,31,College
+2cae986066,Female,68,"College advanced"
+2ca6171263,Female,28,"High school"
+2cb106f482,Female,29,"High school"
+2cb0fd6254,Female,49,College
+2ca427a498,Female,42,"High school"
+2cb2f27097,Male,34,"High school"
+2ca4f03a49,Female,66,College
+2ca84e0685,Male,83,College
+2cb03f0865,Female,67,College
+2caad43250,Male,48,"High school"
+2cacda8451,Female,31,"High school"
+2ca3ba9432,Male,31,Basic
+2caf9ddc24,Male,39,Basic
+2cb24ece54,Male,60,College
+2ca8fcd477,Female,26,College
+2caf668c65,Female,74,"High school"
+2cacc9e018,Male,40,"High school"
+2ca811b683,Male,25,"College advanced"
+2cb2bdf074,Female,54,"High school"
+2cac7d3207,Male,21,"High school"
+2ca71db044,Male,80,"High school"
+2caca64067,Male,62,"High school"
+2ca532c081,Male,77,Basic
+2cb2690436,Male,31,"High school"
+2ca2c96830,Male,46,College
+2ca83c7c34,Female,49,Basic
+2cac580220,Female,50,College
+2cb0cd2e34,Female,38,College
+2cac1d2e99,Male,32,Basic
+2ca7839097,Female,32,"High school"
+2cae5aa862,Female,76,"High school"
+2cb0ced277,Female,59,College
+2cb02f2251,Male,27,"High school"
+2ca48dac34,Male,76,"High school"
+2ca833e437,Female,43,College
+2ca4625053,Female,64,"High school"
+2ca2fa5a28,Male,54,"High school"
+2cae44c883,Male,62,"High school"
+2caf798813,Female,71,"College advanced"
+2cad331c11,Female,59,College
+2ca3d5d807,Male,29,College
+2ca9349212,Female,53,College
+2cb13f2a94,Female,60,"High school"
+2cb2274636,Female,45,"High school"
+2caea79c64,Male,25,Basic
+2ca25c5805,Male,47,"College advanced"
+2cadc11a40,Female,45,College
+2ca9943c01,Female,33,"High school"
+2ca3e8ca19,Female,73,College
+2caa958058,Male,61,College
+2ca564f249,Female,41,"College advanced"
+2caeb8a455,Male,35,Basic
+2cab6a9662,Female,56,"High school"
+2ca396d602,Female,25,College
+2cae173c63,Female,64,College
+2ca9f6f237,Male,71,Basic
+2cadea1441,Male,60,College
+2caded9829,Male,37,College
+2cafd03689,Male,47,"High school"
+2ca4eaf408,Female,46,College
+2cb1faf074,Male,62,"High school"
+2ca6db3e79,Female,32,"High school"
+2cb0aa2e07,Female,46,"College advanced"
+2ca47b3216,Female,40,College
+2cac966e26,Male,64,College
+2cac67ac18,Male,67,College
+2ca43be049,Male,39,College
+2cb1fc9e34,Male,43,Basic
+2cac9cb890,Female,41,College
+2cae70ba73,Female,23,"College advanced"
+2cb297bc21,Female,73,College
+2cad0a7c34,Male,26,College
+2ca4bc0a65,Female,63,"High school"
+2ca7cb6683,Female,32,College
+2ca7fc9e09,Female,45,"High school"
+2ca8516c91,Male,46,"High school"
+2cb26ae408,Female,31,"High school"
+2ca5ce9c06,Male,32,College
+2cac367e66,Male,63,College
+2cab08da68,Female,69,"High school"
+2cae2ad878,Male,29,"High school"
+2ca46c9668,Male,51,"High school"
+2caf641690,Male,50,College
+2cae993c44,Female,45,"High school"
+2ca81b3e53,Female,32,"High school"
+2cb14c1874,Male,41,Basic
+2cafa59851,Male,34,"High school"
+2caee66c28,Male,27,"High school"
+2caae44a30,Female,52,College
+2ca5d4fa70,Female,72,"High school"
+2cb035ee03,Male,59,College
+2cb09d9a03,Male,66,"High school"
+2ca9286c88,Female,53,Basic
+2ca9d26262,Female,63,"High school"
+2ca3988e13,Male,60,Basic
+2ca47c3605,Female,65,College
+2cb16bd058,Female,30,"College advanced"
+2cb1e7ea09,Male,40,"High school"
+2ca3590019,Male,60,"High school"
+2caa059829,Male,69,"High school"
+2ca2e2e077,Female,49,"High school"
+2caa26cc30,Male,76,"High school"
+2caf543045,Male,19,"High school"
+2ca390e629,Female,41,"College advanced"
+2ca2398a48,Female,36,"High school"
+2ca26ba875,Female,71,College
+2cb29bf460,Female,54,"High school"
+2caebf5287,Female,69,"High school"
+2cb274ee78,Female,50,"High school"
+2ca3f40034,Female,38,"High school"
+2cb02e5a82,Male,51,"High school"
+2ca64ac006,Male,29,"High school"
+2cb12fa837,Female,19,"High school"
+2cb09a4843,Male,25,Basic
+2caebcbe45,Female,51,"High school"
+2cae4c5c09,Male,40,College
+2cb002fe05,Female,45,"High school"
+2ca7711670,Male,37,"High school"
+2ca5514c66,Female,61,College
+2ca7604011,Female,48,"High school"
+2ca89b7262,Female,50,"College advanced"
+2caf3ae031,Female,69,"High school"
+2cb1f2ee10,Male,75,College
+2cac18d828,Male,39,"High school"
+2cad8e5c42,Female,24,"High school"
+2caa125483,Female,61,"High school"
+2cabcf6811,Male,62,"High school"
+2cad65da07,Male,32,"High school"
+2cadac1601,Female,64,College
+2ca2c2b006,Male,58,Basic
+2cad626a77,Male,28,"High school"
+2cac6d9251,Male,24,"High school"
+2cb219d665,Female,41,"High school"
+2cab58a848,Male,57,"High school"
+2ca9bc2885,Female,35,"High school"
+2ca3a39276,Female,67,Basic
+2ca2f1a462,Female,38,"High school"
+2cadd14649,Female,38,"High school"
+2cabc45a78,Female,34,"High school"
+2cb0bc9470,Female,51,"High school"
+2caf863a07,Female,76,Basic
+2ca4501263,Male,22,College
+2ca7c6c082,Female,64,College
+2cb1ac8a46,Male,61,"High school"
+2caa244c66,Male,48,"High school"
+2cb1114491,Female,58,College
+2cb2790869,Female,49,Basic
+2ca8d3e482,Female,36,"High school"
+2cadc7e603,Female,65,"College advanced"
+2cae633670,Female,32,College
+2ca5507006,Female,80,"High school"
+2cae18ea42,Male,43,"College advanced"
+2caecf7e92,Male,32,College
+2caa86c680,Female,30,Basic
+2cad7f3e99,Male,56,"High school"
+2ca8035694,Male,64,"High school"
+2ca50f6647,Male,50,"High school"
+2ca50a4835,Female,53,"High school"
+2ca4336644,Female,65,College
+2caa20dc30,Female,18,"High school"
+2cac6e8237,Female,61,Basic
+2ca5c19023,Female,62,"High school"
+2cab072c34,Male,28,"High school"
+2ca94c2088,Female,78,Basic
+2cb2a1d050,Female,20,College
+2ca347f801,Female,51,"High school"
+2cac471854,Female,33,College
+2ca55b2406,Female,70,College
+2cabed5e17,Male,62,"College advanced"
+2cab975a41,Male,59,"High school"
+2ca353f670,Female,26,College
+2ca566a081,Female,41,"High school"
+2ca78ee441,Male,28,"College advanced"
+2cab048e10,Female,25,"College advanced"
+2cb01f0a57,Male,38,College
+2ca24d7607,Male,33,College
+2ca238ae24,Male,35,"High school"
+2caf981e51,Female,33,"High school"
+2cb12c4c29,Female,55,College
+2cac5fd253,Female,21,Basic
+2cad3f1071,Male,64,"College advanced"
+2ca8541437,Female,28,"College advanced"
+2ca289ee86,Male,45,"High school"
+2cab320642,Male,20,College
+2cb05c9a59,Female,32,College
+2cb242a832,Male,42,College
+2cae6c7802,Female,22,"High school"
+2ca9ed9c21,Male,39,"High school"
+2cb1d6ba51,Male,59,"High school"
+2cb1b01818,Male,38,College
+2cb0846872,Female,23,"High school"
+2cab621c21,Female,79,College
+2cb13e4420,Male,66,"High school"
+2ca68e2253,Male,57,"High school"
+2ca9986a76,Female,58,College
+2caba84e72,Female,44,"High school"
+2ca9030026,Male,80,"High school"
+2cb2062630,Male,33,College
+2cabd2c478,Female,75,"High school"
+2ca79e0212,Female,33,"High school"
+2cb2d45c24,Male,45,"College advanced"
+2ca44bbc56,Male,50,"High school"
+2ca682ec28,Male,39,"College advanced"
+2caa32a203,Male,32,Basic
+2ca459a483,Female,33,"High school"
+2cb0bd7000,Female,44,Basic
+2ca5542657,Female,66,"College advanced"
+2cb2bc3895,Male,31,"High school"
+2cac9b0056,Female,54,"High school"
+2caef15c67,Female,60,"High school"
+2caa85f419,Female,21,"High school"
+2caa4e0e74,Male,71,Basic
+2cac3e6c90,Male,73,"High school"
+2ca4e22057,Female,48,"High school"
+2ca7802a85,Male,66,College
+2cadf28e39,Female,77,"High school"
+2cacf1a414,Female,61,"High school"
+2cb087b096,Male,64,"College advanced"
+2caffdf432,Male,43,"High school"
+2cac78e693,Female,53,"High school"
+2cb0735649,Female,64,"High school"
+2cadadf610,Female,34,"High school"
+2cae039602,Female,37,"High school"
+2ca6722007,Male,25,"High school"
+2cac60a413,Male,44,"College advanced"
+2ca62db046,Male,38,"High school"
+2cad584282,Male,59,College
+2cad054a86,Female,24,"High school"
+2cb192a411,Female,69,"High school"
+2ca8218830,Female,20,"College advanced"
+2cacbb4424,Female,35,"High school"
+2cb135ac23,Female,34,College
+2cb0e92617,Male,60,"High school"
+2caae6ca66,Male,59,"College advanced"
+2cb1ad5c64,Male,62,College
+2ca3c23281,Female,68,College
+2ca2eae215,Female,20,"High school"
+2caa9a8a13,Male,44,College
+2ca7d56629,Female,43,"High school"
+2cb32ee869,Male,58,College
+2ca2b91488,Male,51,"College advanced"
+2caa022880,Female,63,College
+2caeefa420,Female,49,College
+2cb0b1ea36,Male,50,"High school"
+2ca488b692,Male,50,College
+2cb285d825,Female,32,College
+2cab983655,Female,23,"High school"
+2ca92bd267,Female,53,"College advanced"
+2cae4b8a11,Male,51,"High school"
+2ca7486c34,Female,36,"College advanced"
+2caf755a71,Female,30,College
+2ca28d5465,Female,43,College
+2cacc13483,Male,43,"High school"
+2cae337025,Female,62,"College advanced"
+2cae71aa75,Male,39,"High school"
+2ca7ae6047,Male,56,"High school"
+2caa92c440,Male,78,"College advanced"
+2cb0f80803,Female,72,"High school"
+2ca97da800,Female,69,"High school"
+2cb2efd243,Male,38,"High school"
+2ca2bc7a41,Female,28,College
+2cb270a206,Female,71,"College advanced"
+2caa9c4c87,Male,56,"High school"
+2cad8f4c52,Male,18,College
+2caa6a8888,Male,27,"High school"
+2cb1271a97,Male,20,Basic
+2ca8febe09,Male,49,"College advanced"
+2ca2b04a01,Female,62,"High school"
+2ca8bf2693,Female,40,College
+2cb3036406,Male,73,"College advanced"
+2ca276b626,Female,39,"High school"
+2ca4d1b851,Female,23,"High school"
+2cb118ec81,Female,58,College
+2ca8f96e07,Female,60,"High school"
+2caa3ea026,Male,57,"High school"
+2ca4f52670,Male,56,"College advanced"
+2ca5525006,Female,62,"High school"
+2ca2d2aa47,Female,39,College
+2ca9862239,Female,67,"College advanced"
+2cae608424,Male,59,College
+2caca01e50,Female,56,"High school"
+2ca5f71445,Male,53,"High school"
+2cac8dcc63,Male,22,"High school"
+2caefc9237,Female,53,College
+2cab065047,Female,23,College
+2caee08693,Female,42,College
+2ca9d68679,Female,63,College
+2caf7f5a18,Female,30,College
+2cac403893,Male,51,"High school"
+2caf1dda66,Female,56,College
+2ca8b1f236,Male,48,College
+2ca2580c60,Male,52,"High school"
+2ca3299451,Male,70,Basic
+2ca5fb5652,Female,51,"High school"
+2ca59ad041,Female,50,"High school"
+2cb077c034,Male,42,"High school"
+2caeceac32,Male,40,College
+2caec55669,Female,28,"High school"
+2ca947a253,Male,22,"High school"
+2ca87b1008,Male,49,"High school"
+2cb2c8ae71,Male,37,Basic
+2cae676426,Female,35,Basic
+2ca56dbc19,Male,49,"High school"
+2cada0f474,Male,64,"High school"
+2cab187007,Male,49,Basic
+2caa02fa84,Female,22,"High school"
+2cad44ec43,Male,63,Basic
+2cb3051c14,Male,75,"High school"
+2caa7e4c56,Male,36,"High school"
+2cb1b87e26,Male,41,College
+2caa2d8e62,Male,18,College
+2caa2f3201,Male,49,"High school"
+2cb066cc25,Female,77,"High school"
+2cb30a5858,Male,75,"College advanced"
+2ca5b28670,Female,46,"College advanced"
+2cb2386c01,Male,60,"High school"
+2cac7a9e47,Female,84,Basic
+2cad418625,Female,56,"College advanced"
+2ca4308c45,Female,25,"High school"
+2caa8da663,Male,36,"High school"
+2ca904ae88,Female,56,"High school"
+2cac137467,Female,53,"High school"
+2cb191d236,Male,42,"High school"
+2ca46a1680,Male,58,"High school"
+2ca3449c14,Female,64,College
+2ca68c6a76,Male,20,Basic
+2ca7258065,Female,30,"High school"
+2ca3098283,Female,42,Basic
+2cac4b6e79,Male,52,"College advanced"
+2caf088697,Female,42,Basic
+2ca565ce24,Female,37,"College advanced"
+2ca3d27296,Male,41,College
+2cabec8c51,Female,30,College
+2caaba1a40,Female,63,Basic
+2ca8bc5646,Female,69,College
+2ca71bda46,Male,41,"High school"
+2ca5be0c20,Female,54,Basic
+2ca9a2ec51,Male,48,College
+2ca8306016,Male,56,College
+2ca5d24807,Female,52,"High school"
+2ca9356497,Male,35,"High school"
+2ca37c6e60,Male,72,"High school"
+2ca82cf039,Female,71,"High school"
+2caa73e894,Female,40,"College advanced"
+2cb0cab877,Female,28,"College advanced"
+2caf163235,Male,47,College
+2ca6c64e44,Male,19,College
+2cafbf1a78,Male,68,"High school"
+2cb0694202,Female,53,College
+2ca54aee60,Female,41,College
+2ca3a62682,Male,63,College
+2cb22e5833,Female,22,"High school"
+2ca3147270,Female,50,"High school"
+2cada77076,Male,29,"College advanced"
+2ca752bc16,Male,27,"High school"
+2ca75f5a34,Male,47,"High school"
+2cb0b95664,Female,50,College
+2caa7d7011,Male,23,College
+2cb1557843,Male,56,"High school"
+2caa0a9803,Female,46,College
+2ca253c057,Female,32,College
+2cb0586215,Female,41,Basic
+2cb1237838,Male,69,College
+2cabd1e827,Male,82,"High school"
+2caccabc08,Female,57,Basic
+2ca967fa24,Male,62,"High school"
+2ca34d1669,Male,38,College
+2cb2b47277,Male,45,"High school"
+2cb02bda99,Male,57,College
+2ca3efb413,Male,23,"High school"
+2cb27e4488,Female,23,"High school"
+2caa723a38,Female,63,"High school"
+2ca313a064,Female,21,"High school"
+2cb10c3a84,Male,40,"High school"
+2ca7810642,Female,33,Basic
+2cae103e54,Male,45,"College advanced"
+2ca38c9a44,Male,43,"High school"
+2cacfd8e87,Female,35,College
+2ca483f290,Male,40,"High school"
+2cb25a9a79,Male,45,College
+2cac993471,Male,32,College
+2ca46bc430,Male,52,"High school"
+2cadbf6c41,Male,27,Basic
+2ca9871c31,Female,61,College
+2ca76f5e83,Female,77,College
+2caf06ba98,Female,19,College
+2ca218a616,Male,37,"High school"
+2caa1aec66,Male,18,"High school"
+2cab8a4e17,Female,39,College
+2caa8a2c29,Male,64,College
+2ca4387a12,Male,62,"High school"
+2ca53b8001,Male,20,"High school"
+2cad6fee08,Male,40,"College advanced"
+2caff4c660,Male,80,Basic
+2cb1e62855,Male,79,"High school"
+2cb1181a53,Male,35,College
+2cadf43258,Female,84,"High school"
+2cb1729c43,Male,47,College
+2cae9ff457,Male,24,College
+2ca87a2093,Male,43,"High school"
+2ca55ee471,Male,72,"High school"
+2cb16cac45,Female,68,College
+2ca6af3830,Female,24,"College advanced"
+2cab4bb053,Male,72,College
+2cabc87e71,Female,18,Basic
+2ca8c29655,Female,83,"College advanced"
+2cb20c4866,Male,26,"High school"
+2ca90c9271,Male,52,"High school"
+2cac87be36,Male,78,"College advanced"
+2ca3af8647,Female,57,Basic
+2cb25fa460,Female,56,"College advanced"
+2ca7424a23,Female,26,Basic
+2ca8ec7664,Female,32,College
+2ca649bc57,Male,22,"High school"
+2cab1f5a10,Male,34,Basic
+2cafd3a659,Male,21,Basic
+2ca79c1824,Male,18,College
+2ca3472697,Female,61,"High school"
+2caf0cbe59,Female,29,College
+2cae625a75,Female,47,College
+2ca2e9fc57,Female,25,Basic
+2ca7ddf401,Male,34,"College advanced"
+2cb0728488,Male,59,College
+2ca4b4d055,Female,39,College
+2cb1b0ea49,Male,70,"High school"
+2ca97ae236,Female,26,"High school"
+2ca8c00268,Female,52,"High school"
+2cb128c870,Male,58,Basic
+2ca6473216,Female,58,"College advanced"
+2ca8129232,Female,62,"College advanced"
+2ca522bc57,Male,70,College
+2cb199ac27,Female,41,College
+2caddd4e73,Male,39,College
+2cb1452e62,Female,76,College
+2ca6070e93,Male,74,Basic
+2caca2d022,Female,51,College
+2ca2adb657,Male,41,College
+2cb259be48,Female,50,"High school"
+2cb07e5069,Male,18,College
+2caa9fd096,Male,82,"High school"
+2cabdb7a48,Male,25,"High school"
+2ca203a273,Male,66,"High school"
+2cad426217,Female,37,"High school"
+2ca839f255,Male,42,"High school"
+2caf802c97,Male,68,"High school"
+2cae518e77,Male,67,"High school"
+2cb2d6dc43,Male,52,College
+2cae555829,Female,44,"High school"
+2cb0f72c34,Female,57,"High school"
+2cb2cf4899,Male,79,"College advanced"
+2cb1e39473,Female,24,"College advanced"
+2cb0789213,Male,73,"High school"
+2cb2130096,Female,64,"College advanced"
+2cae1fd427,Male,26,College
+2caa4ee015,Female,42,"College advanced"
+2cb06f1e93,Female,38,"High school"
+2ca4e94625,Female,29,Basic
+2cab5eca08,Female,24,College
+2cab2bee80,Male,49,"High school"
+2cac19b475,Male,41,"High school"
+2cb13ab644,Male,49,"High school"
+2ca7d1ba89,Male,49,College
+2ca9217884,Male,66,"College advanced"
+2ca2275634,Male,70,"High school"
+2ca96aa299,Male,51,"High school"
+2ca4798434,Female,36,"High school"
+2cb0183e71,Male,62,College
+2cad8b1424,Female,33,"High school"
+2ca5d86099,Female,21,Basic
+2ca6be5684,Female,34,College
+2cb15e3822,Female,57,"High school"
+2ca88f7e34,Female,55,"High school"
+2caccfe451,Female,38,"High school"
+2cad112086,Male,48,"High school"
+2ca8be2c10,Male,61,"High school"
+2cacea1a30,Female,36,"High school"
+2cb1e53856,Female,64,College
+2cb18b9c43,Male,61,"High school"
+2cb1a85226,Female,64,"High school"
+2cb32c4a44,Male,45,Basic
+2ca6ea3487,Male,18,"High school"
+2cb0796474,Male,18,College
+2ca74f3817,Female,78,"High school"
+2caa5dcc47,Male,51,College
+2ca56bf012,Female,53,"College advanced"
+2ca264dc29,Male,60,College
+2ca5291058,Female,30,Basic
+2ca36dbe56,Female,26,"High school"
+2caaa82268,Female,34,College
+2ca29bdc86,Female,26,"High school"
+2cb2928a94,Male,71,College
+2cafc6c212,Male,68,College
+2ca2a2a807,Male,64,"High school"
+2caa0b7e34,Female,42,College
+2caf585405,Male,50,"High school"
+2ca9015203,Female,37,College
+2ca7e8b282,Male,75,"High school"
+2caea44a26,Female,48,"High school"
+2ca9530019,Male,71,Basic
+2cb0a54242,Male,51,College
+2cb22f2a11,Female,64,College
+2ca65ccc62,Female,61,College
+2ca49ab881,Female,67,"High school"
+2cab1be086,Male,24,"High school"
+2ca2617692,Male,40,College
+2caf82de91,Male,49,Basic
+2ca6449e09,Male,27,College
+2caba42031,Female,27,Basic
+2ca21dd849,Female,34,"High school"
+2ca27a3096,Female,64,"High school"
+2caaedaa44,Male,79,"High school"
+2cacaa8245,Female,33,"High school"
+2ca5370236,Female,29,"High school"
+2ca45dfa93,Male,51,"College advanced"
+2cad070c13,Female,53,"College advanced"
+2ca8a0c294,Female,27,Basic
+2cacf00087,Male,25,College
+2cb280e261,Female,31,"High school"
+2ca8594692,Male,56,College
+2caaf70a19,Female,46,College
+2cae8b6834,Female,74,Basic
+2ca3d7b847,Male,23,"College advanced"
+2cb11e2899,Male,45,"High school"
+2ca40e6860,Female,83,College
+2cb1701c09,Female,56,"College advanced"
+2ca6308a67,Male,59,College
+2cb1c6de83,Male,26,"High school"
+2ca70dde73,Female,75,College
+2ca7ec4a83,Female,79,"High school"
+2cb22ade16,Male,48,College
+2cb1ef9c18,Female,42,Basic
+2ca6705403,Female,47,"College advanced"
+2cad0f8618,Male,45,"College advanced"
+2cafb78660,Female,61,Basic
+2ca3900a63,Male,47,"High school"
+2caa237a13,Female,48,"High school"
+2ca5da1898,Male,56,"High school"
+2cac748699,Female,42,"High school"
+2ca98f1456,Male,55,College
+2cad291204,Female,58,"College advanced"
+2caf692089,Female,32,"High school"
+2ca8586a10,Male,79,College
+2ca4a5da41,Female,66,Basic
+2cb01abe35,Male,37,"High school"
+2cb0753687,Male,53,"College advanced"
+2ca2361021,Male,26,"High school"
+2cac11bc76,Male,62,Basic
+2cac160860,Female,57,"High school"
+2caaf63832,Male,57,"High school"
+2caf5bb021,Male,19,"College advanced"
+2cb0e7c823,Female,44,"College advanced"
+2cae7b5087,Male,37,College
+2cae15a242,Female,28,"High school"
+2caa04c642,Male,59,"High school"
+2ca4770442,Male,30,"High school"
+2ca4ae5e56,Female,25,College
+2cb1564a50,Male,27,Basic
+2caf46ac00,Female,57,College
+2ca21f9a27,Male,62,"High school"
+2cb1df5287,Male,46,"High school"
+2cad852e87,Male,33,College
+2cabc96421,Female,19,"High school"
+2cb0f20407,Female,40,"College advanced"
+2ca6324264,Female,29,"High school"
+2cb2741c03,Female,63,"High school"
+2caafdea15,Female,29,"High school"
+2ca4161a16,Male,50,College
+2cb0169a76,Female,58,"High school"
+2ca487d014,Female,52,"High school"
+2ca9a06c11,Female,62,College
+2ca71f7c21,Female,54,"High school"
+2cab2da633,Male,40,"High school"
+2caa98dc78,Male,20,College
+2ca85e6e83,Male,59,"High school"
+2cadb78880,Male,20,"High school"
+2ca6686648,Female,55,"College advanced"
+2cb1d79616,Male,51,"High school"
+2ca3cfc001,Female,62,College
+2ca89ef670,Female,39,"High school"
+2cb23bd239,Male,60,"High school"
+2cae474851,Female,61,"High school"
+2caac8a287,Female,35,College
+2ca2f50a02,Female,65,College
+2caa74d887,Female,19,College
+2cac244040,Female,38,"College advanced"
+2ca366d482,Male,29,"High school"
+2cae9c8e73,Female,59,"High school"
+2caf45da29,Female,41,"High school"
+2cafd64e33,Male,77,College
+2cacf96a65,Female,18,Basic
+2ca323a483,Female,33,"College advanced"
+2ca7b0ea35,Female,81,"College advanced"
+2cb318ae58,Male,36,Basic
+2ca2b5a472,Male,40,College
+2ca8471c16,Female,80,College
+2cb05fe212,Female,19,College
+2cb1316a23,Male,45,"High school"
+2cac9d9465,Male,20,Basic
+2ca8aa4061,Female,83,College
+2ca6791416,Female,70,"High school"
+2ca3fc8469,Female,76,College
+2cb2395237,Female,29,"High school"
+2cad828636,Male,46,College
+2caa014c22,Female,24,College
+2ca841d672,Male,40,"College advanced"
+2cabefde15,Male,69,College
+2ca56f7425,Female,24,"High school"
+2ca45fa867,Female,23,"High school"
+2ca4a86e15,Male,47,"High school"
+2ca9559473,Female,55,College
+2ca4959a35,Female,70,"College advanced"
+2cb07a3694,Male,28,College
+2cb30b3429,Female,39,"College advanced"
+2cafe22e91,Female,45,College
+2caf0bec30,Female,32,College
+2cb0ba1e98,Male,53,"High school"
+2cacac3a74,Male,40,"High school"
+2ca9928e47,Male,32,"High school"
+2cab7bc691,Male,56,College
+2ca946a894,Male,58,"High school"
+2cae89a608,Female,53,"High school"
+2cad7cc891,Male,56,"College advanced"
+2ca473a885,Female,48,"High school"
+2ca8baa850,Male,56,"High school"
+2ca816fc42,Male,63,"High school"
+2ca925ba35,Female,28,"College advanced"
+2ca3e71c60,Female,32,"College advanced"
+2cb1e98e51,Female,27,"High school"
+2cab4ad402,Female,68,"High school"
+2cb08bca87,Female,78,"High school"
+2ca7781e50,Female,34,College
+2ca2b75220,Male,35,College
+2caa6ee880,Female,70,College
+2ca962d224,Male,23,College
+2caaeb1604,Male,64,"High school"
+2cb1fa1e40,Male,64,"High school"
+2ca2986c45,Male,29,"High school"
+2cb1324613,Male,72,Basic
+2ca7a4ce88,Female,37,College
+2cb2cb1027,Male,29,Basic
+2cb2047822,Female,29,"High school"
+2cb03e3641,Female,66,"High school"
+2ca2934e87,Female,61,"High school"
+2caa4fb268,Male,62,"College advanced"
+2ca6ff2477,Male,39,"High school"
+2caf7e8848,Male,47,"High school"
+2ca8bb7a70,Male,52,College
+2caafd0e84,Male,56,"High school"
+2cab3fbc29,Male,18,"High school"
+2cb1375078,Male,40,College
+2ca5ff0c39,Male,62,"High school"
+2cb01d4847,Female,25,College
+2ca9741674,Male,33,"High school"
+2cb2e6fe81,Female,31,"High school"
+2ca3d09c88,Male,73,Basic
+2ca9670a46,Male,70,Basic
+2cad642250,Female,52,"College advanced"
+2ca3bc4294,Female,55,College
+2cae24de09,Male,29,College
+2ca24ae258,Male,28,College
+2ca48cda56,Male,32,Basic
+2ca9128264,Male,37,"College advanced"
+2ca5238e18,Female,53,College
+2ca9152a08,Male,28,"High school"
+2ca2c6e883,Male,57,"High school"
+2ca6bd5c72,Male,48,College
+2cb1308427,Female,42,College
+2ca348de73,Female,48,"High school"
+2ca379da19,Male,62,College
+2ca3eed891,Female,41,College
+2cafddce55,Female,66,"High school"
+2ca72d8269,Male,65,"High school"
+2cb2b56285,Male,41,Basic
+2cb1788254,Male,20,"High school"
+2cabfac451,Male,44,Basic
+2cb1d36845,Female,84,College
+2caebbec27,Female,61,Basic
+2caad95090,Male,59,"High school"
+2ca62b1c96,Female,73,"High school"
+2cae096862,Female,63,College
+2ca6cf2215,Male,57,"High school"
+2cb2445635,Female,76,"College advanced"
+2cacdf3424,Male,71,College
+2ca8ff9a15,Male,51,College
+2caf519c75,Female,44,Basic
+2ca8d77c25,Female,61,"High school"
+2ca8acca97,Male,60,College
+2ca82ea871,Female,47,"High school"
+2cb14a5609,Female,35,"High school"
+2ca60e2060,Male,44,"High school"
+2cb24a9675,Female,31,Basic
+2cb2549619,Male,57,"High school"
+2cad350643,Female,42,"High school"
+2cb2b7d803,Male,42,"College advanced"
+2caf44fe97,Female,53,"College advanced"
+2ca2230a98,Female,32,College
+2cad0d0647,Male,60,"High school"
+2caeacba19,Female,23,"High school"
+2ca66ea623,Male,21,College
+2ca3743a11,Male,32,College
+2cabe31839,Male,53,"High school"
+2cad7e6c50,Female,36,College
+2cab5fa637,Female,73,"High school"
+2ca58db082,Male,43,"High school"
+2cb2165210,Male,22,"College advanced"
+2ca87e7623,Female,44,College
+2cb32fba39,Female,28,College
+2ca910d415,Male,22,"High school"
+2caf50ca57,Female,69,College
+2cb33b9091,Male,63,"High school"
+2ca8843443,Female,44,Basic
+2ca4a42270,Female,51,"College advanced"
+2caa2e6085,Female,71,College
+2ca360da91,Female,64,"High school"
+2cb2717430,Female,41,"High school"
+2caa5ade32,Male,59,"College advanced"
+2cb19ede71,Female,45,"High school"
+2cab914c80,Male,43,College
+2ca4f6d476,Male,43,"High school"
+2cafafc000,Male,39,College
+2cb29a4618,Female,52,"High school"
+2cab57d607,Female,70,College
+2ca4dd0232,Female,50,Basic
+2cab22b697,Female,80,College
+2cacafd216,Female,57,College
+2cb32a9c15,Female,52,"College advanced"
+2ca37fde98,Male,42,"High school"
+2ca8d06a92,Female,75,College
+2cae7cf499,Female,57,Basic
+2cadd57479,Male,43,"High school"
+2ca5a63802,Female,58,"High school"
+2cb2ee2439,Female,74,"High school"
+2ca5246a76,Female,24,Basic
+2ca9a56c63,Male,32,"College advanced"
+2cb330a007,Male,70,"High school"
+2cb1ec2c42,Male,56,"High school"
+2caaf7dc81,Male,18,College
+2ca7bef056,Female,57,College
+2ca53f5420,Female,37,"High school"
+2ca4ab0290,Male,56,"College advanced"
+2cad469024,Male,27,"High school"
+2cb1fd7019,Male,74,"College advanced"
+2cad96ea91,Male,47,"High school"
+2cabd56210,Male,40,"High school"
+2cac152c11,Female,37,"High school"
+2ca7d8d679,Female,23,"High school"
+2caa177277,Male,56,"High school"
+2ca7b1c645,Male,64,"High school"
+2caeeed289,Male,20,"High school"
+2ca9e95029,Male,60,College
+2cb207f292,Female,26,College
+2ca478b261,Female,69,"High school"
+2cb2878694,Female,27,Basic
+2cb18aca67,Female,47,"High school"
+2ca4549076,Male,60,"High school"
+2cb228fe10,Male,52,College
+2cabcce803,Female,49,"High school"
+2cad324038,Female,20,Basic
+2caf23c094,Male,64,College
+2caeec5c72,Male,64,Basic
+2cb2cbe234,Male,58,Basic
+2ca72ca605,Female,24,"High school"
+2caf274e03,Male,27,"High school"
+2ca530cc06,Female,46,Basic
+2cb19aa672,Female,74,"College advanced"
+2cace87617,Female,70,Basic
+2cb291b860,Female,34,College
+2ca74af665,Female,59,"High school"
+2ca3652603,Female,66,"College advanced"
+2cabd80013,Female,22,"High school"
+2cb1099c69,Female,69,Basic
+2cb2ef0003,Female,21,College
+2caaef5834,Female,29,"High school"
+2cb3121463,Female,48,College
+2ca8368c99,Male,39,"High school"
+2ca4a6c065,Male,68,"High school"
+2cac376446,Female,60,"High school"
+2caa663249,Male,27,College
+2ca35efa30,Female,41,Basic
+2ca7766679,Male,36,"High school"
+2cb1d1ba02,Male,52,College
+2ca723be28,Female,30,"High school"
+2caf2aa000,Male,78,"High school"
+2cacdd9024,Male,67,"High school"
+2ca787d247,Female,67,College
+2ca5f1d852,Female,81,"High school"
+2ca80a2c51,Male,44,"College advanced"
+2ca4d6fe69,Male,60,"High school"
+2cb0b04636,Female,33,"High school"
+2cb2bd1e64,Female,21,Basic
+2caf258203,Female,20,"High school"
+2ca4922078,Female,23,Basic
+2ca7e10047,Male,38,"High school"
+2ca2a38437,Male,19,"High school"
+2cad45be08,Female,60,College
+2ca5641659,Female,31,Basic
+2cae9d6030,Female,70,College
+2cb301c036,Female,38,"High school"
+2ca67b9e05,Female,21,"High school"
+2cb04f3413,Male,62,"High school"
+2caa709658,Female,68,"College advanced"
+2cb2db0079,Female,73,"College advanced"
+2cb03bc061,Female,60,College
+2cacc59e18,Female,67,College
+2ca4c92a70,Male,69,"High school"
+2cade27681,Female,63,"High school"
+2ca81ddc10,Female,44,"High school"
+2ca4640872,Female,18,Basic
+2ca4d46089,Male,56,College
+2cb28bf075,Female,66,Basic
+2cab70b855,Male,83,"High school"
+2cab990833,Male,37,"High school"
+2ca8525271,Female,64,"High school"
+2ca3575283,Female,64,College
+2cb200cc27,Male,55,"High school"
+2ca60ff625,Female,50,"College advanced"
+2ca8d59280,Male,40,"High school"
+2cac5abe44,Female,51,Basic
+2cb21b8490,Male,77,"High school"
+2ca49e3294,Male,82,"High school"
+2cb1390835,Male,23,"High school"
+2caeb6f616,Male,73,College
+2caf096c30,Female,70,"College advanced"
+2ca651b427,Male,26,"High school"
+2ca21c1604,Male,75,College
+2ca8d93431,Female,26,Basic
+2caff23206,Male,42,"High school"
+2caec10014,Male,20,College
+2ca89d2097,Female,78,"High school"
+2cb16f4a76,Male,49,"High school"
+2ca9847460,Female,58,"High school"
+2ca7996659,Female,54,"College advanced"
+2ca7c0c689,Female,50,"College advanced"
+2cae9e3254,Female,25,College
+2cacba7240,Female,58,College
+2ca87d9a40,Female,59,Basic
+2cabc38816,Male,23,College
+2cafdc2091,Male,18,"High school"
+2cb08cba81,Male,67,College
+2ca918ae36,Male,34,"College advanced"
+2caed8f240,Female,53,"High school"
+2ca2b82e19,Male,42,"High school"
+2ca4ff9e94,Male,42,"College advanced"
+2caa4b5294,Female,65,"College advanced"
+2cb153ca18,Female,80,College
+2ca5534a89,Female,28,College
+2ca3582477,Male,31,College
+2ca6849a91,Male,33,Basic
+2ca9b79682,Female,35,College
+2ca5a02024,Female,77,"High school"
+2ca8106248,Male,58,College
+2cafc44c53,Female,57,College
+2ca56ce082,Female,45,Basic
+2ca53a9a77,Female,50,College
+2ca8d2f408,Male,59,"High school"
+2ca98e2491,Female,46,Basic
+2ca2fc1c38,Female,65,"High school"
+2ca8cd0440,Male,20,"High school"
+2cb0baf039,Male,22,"High school"
+2ca50b2451,Female,53,"High school"
+2cb334ce50,Female,52,"College advanced"
+2cafcc1214,Male,45,"College advanced"
+2ca5ee5466,Male,39,College
+2cb230d890,Female,41,"College advanced"
+2cb0cb8a06,Female,36,"High school"
+2cb317dc71,Male,58,"High school"
+2cb198d053,Female,30,"High school"
+2cab2f8651,Female,28,College
+2caa456c19,Female,53,Basic
+2cb0638460,Male,37,College
+2caf4c7481,Male,32,"High school"
+2ca7051e57,Female,26,Basic
+2ca25e1089,Female,63,College
+2ca6624e46,Male,24,"High school"
+2cb2608021,Male,50,"High school"
+2ca49b8a08,Male,34,"High school"
+2cb11f0419,Male,63,"High school"
+2ca21cf224,Female,73,"College advanced"
+2cb341d019,Female,21,Basic
+2ca6d28860,Male,33,"High school"
+2cb2eb4070,Male,51,Basic
+2cac526c92,Male,20,"High school"
+2caf205096,Male,18,"High school"
+2ca9cc7274,Male,24,College
+2cb0687001,Male,25,"High school"
+2ca8eef669,Male,74,"High school"
+2caced8042,Female,56,"High school"
+2caee9dc68,Female,51,"High school"
+2ca4493238,Female,18,"College advanced"
+2ca6eb1034,Female,57,"High school"
+2ca4a18491,Female,57,College
+2ca5bb6443,Female,73,Basic
+2cadd3c683,Female,37,College
+2cb1245e01,Female,58,"High school"
+2ca5256414,Male,80,Basic
+2ca83d5811,Male,66,"High school"
+2cb0c09001,Male,50,College
+2cac4e0c69,Female,42,"High school"
+2ca7fa1400,Female,64,"College advanced"
+2ca7cc4c88,Male,58,College
+2ca493ec93,Female,42,College
+2cb2350680,Male,60,"High school"
+2ca586a828,Female,40,"High school"
+2cadb08a65,Female,39,College
+2cb2e46a12,Female,35,"High school"
+2ca20f1e12,Female,73,College
+2caec2b858,Male,25,"High school"
+2ca825de21,Female,40,"High school"
+2cabf27c40,Male,74,"High school"
+2ca236ec09,Male,76,"College advanced"
+2cb141b414,Female,64,"High school"
+2ca6d7d837,Male,62,"High school"
+2ca6597025,Male,56,College
+2ca27cba45,Female,49,College
+2cb1d97658,Female,42,Basic
+2cb0c80606,Male,50,"High school"
+2ca6ad8006,Male,43,Basic
+2cadfa3635,Female,51,"High school"
+2cb2801005,Male,70,"High school"
+2cb25b6c89,Male,37,College
+2ca21a5e46,Male,55,"High school"
+2ca83ace14,Female,71,"High school"
+2cb3274a64,Female,20,"High school"
+2ca9092245,Male,19,"High school"
+2ca9065c09,Female,65,"High school"
+2ca7539806,Female,47,"High school"
+2cae865485,Female,28,"High school"
+2ca84c4e05,Female,56,College
+2ca77d7890,Female,29,College
+2caa193e92,Female,47,"High school"
+2ca3c4b287,Male,79,"High school"
+2cad07de83,Female,47,College
+2caf98f028,Male,36,"High school"
+2cab0c5437,Male,45,"High school"
+2ca60f1a47,Female,35,"High school"
+2cb2aa7201,Male,66,"High school"
+2ca4241660,Male,51,"High school"
+2cb0537681,Female,29,College
+2ca9fb6649,Male,70,College
+2ca7e6fa74,Female,33,College
+2caad04011,Male,41,College
+2cb0127637,Male,31,"High school"
+2ca3e20853,Male,44,"College advanced"
+2ca436cc60,Male,54,College
+2ca681f249,Male,36,Basic
+2caa579697,Female,30,College
+2cab10c851,Male,53,"High school"
+2ca42ea225,Male,42,"High school"
+2ca9f9a437,Male,66,"High school"
+2caa118228,Male,49,Basic
+2ca58e8c20,Female,50,College
+2ca56b1454,Female,68,"High school"
+2cb1963257,Male,28,"High school"
+2ca8779676,Male,79,"High school"
+2caa4a8023,Male,21,"High school"
+2ca61c3062,Male,52,College
+2cac8b1a78,Female,45,"High school"
+2cb0191089,Male,40,Basic
+2cb0501087,Male,23,"High school"
+2ca8e2e432,Male,31,"High school"
+2cae978e98,Female,69,College
+2ca714c812,Male,52,Basic
+2ca2137e80,Male,37,College
+2ca7a32080,Male,23,"High school"
+2cacf27667,Female,69,"High school"
+2ca361c041,Female,37,Basic
+2cae932e51,Female,65,"High school"
+2cae580a97,Female,50,"High school"
+2cac2fb251,Female,23,"High school"
+2caa887433,Female,18,"High school"
+2ca4d2b220,Male,23,"College advanced"
+2ca77f4e30,Female,44,Basic
+2cb2c49452,Female,84,College
+2cad70de39,Male,51,"College advanced"
+2cab81ca03,Female,69,Basic
+2cb0e4b227,Female,43,"High school"
+2ca7e47064,Male,33,"High school"
+2cac5c6c15,Male,58,"High school"
+2cab5c2c47,Female,38,"College advanced"
+2cab69ba35,Male,19,Basic
+2cafe58014,Female,35,"High school"
+2caaa32c01,Male,48,"High school"
+2caa344687,Male,36,"College advanced"
+2ca3f91413,Male,44,"High school"
+2ca7703a23,Female,61,College
+2cb1159a79,Male,48,College
+2ca8819600,Female,73,College
+2ca3b3c850,Male,33,"High school"
+2cb07cac26,Female,56,"High school"
+2caea94a38,Male,25,"College advanced"
+2cb2207081,Female,50,College
+2cb06c9457,Male,66,College
+2cadd2ea98,Male,25,"High school"
+2ca3b80a27,Male,46,"High school"
+2ca8e20870,Male,45,"High school"
+2cb1a4d831,Male,54,"High school"
+2ca445b881,Female,25,"High school"
+2caaad6876,Male,70,"High school"
+2cab1a1420,Female,73,College
+2cac79c213,Female,51,"High school"
+2caa30e073,Male,37,"High school"
+2cb0436804,Female,25,Basic
+2ca230ca60,Male,42,"High school"
+2cae804613,Male,37,Basic
+2ca8279695,Male,43,"High school"
+2ca7195a97,Male,42,"High school"
+2caf747e13,Female,27,College
+2ca3414007,Female,54,"High school"
+2ca863c845,Female,77,"High school"
+2cace1b460,Female,26,College
+2ca5168c50,Female,26,"High school"
+2ca5ab6a73,Male,30,College
+2ca9fd2853,Male,18,"High school"
+2cacf0d218,Female,27,"High school"
+2cb16aea50,Female,68,"High school"
+2ca28ba697,Female,57,Basic
+2ca69fb671,Male,42,College
+2ca452d849,Male,51,College
+2ca3c07a58,Male,31,"College advanced"
+2ca6b56e76,Female,35,College
+2cab371070,Female,44,College
+2ca6ee7642,Male,69,Basic
+2cab3d0a76,Male,59,"High school"
+2ca7122031,Male,36,"College advanced"
+2ca5d78e84,Female,30,College
+2ca38aec65,Male,64,College
+2ca961f664,Female,74,"High school"
+2cad81b460,Male,57,Basic
+2ca3349883,Male,45,College
+2cac411465,Female,52,"High school"
+2ca28fe843,Male,34,College
+2ca60c4a54,Female,62,College
+2cab9c6426,Male,56,"High school"
+2cafd7fc14,Female,78,College
+2cb2b11634,Male,40,"High school"
+2ca78aa247,Female,31,College
+2cb1b51859,Male,47,Basic
+2ca5c94c58,Female,69,College
+2caaa5ac10,Female,20,Basic
+2caf4f2629,Female,56,"High school"
+2cae9a0e36,Male,68,"High school"
+2cac1f0401,Male,34,Basic
+2cb2558601,Female,46,College
+2ca33a7e43,Male,23,"High school"
+2cb2cda406,Female,58,"High school"
+2ca633fa13,Female,68,"High school"
+2ca4b11a13,Female,22,College
+2caef68e52,Female,51,Basic
+2ca940cc16,Male,80,College
+2ca371f695,Female,51,"High school"
+2ca9c59212,Male,54,Basic
+2ca4fcf604,Female,34,College
+2ca3d34e07,Female,65,Basic
+2ca5c5c895,Male,33,College
+2ca2520892,Male,44,"High school"
+2ca2b16214,Male,37,College
+2ca40bd427,Female,43,"High school"
+2cb2115c26,Female,34,"High school"
+2ca4c5a640,Female,55,"College advanced"
+2ca4903652,Female,42,"High school"
+2cb0d16695,Female,28,College
+2caf078c96,Female,28,College
+2cadb23828,Female,37,"High school"
+2cb0961022,Male,46,College
+2caca56475,Female,83,College
+2cb0ce0021,Female,60,"High school"
+2cafa3f466,Male,70,Basic
+2cb338f275,Male,78,"High school"
+2ca5cb0485,Female,41,College
+2caf1d0828,Female,69,"High school"
+2cacd53490,Female,48,"High school"
+2cb0939007,Female,54,"High school"
+2ca4deba45,Male,62,"College advanced"
+2ca411d861,Female,75,Basic
+2cb2fe6e87,Male,48,"High school"
+2cb1ca4e92,Female,38,"High school"
+2ca832fe94,Female,57,College
+2ca611ae97,Female,20,"High school"
+2cacd19c79,Male,30,"High school"
+2ca8313221,Male,47,College
+2cab6e2e65,Female,56,"High school"
+2ca54a0810,Male,70,"College advanced"
+2caa0c5a23,Male,22,"High school"
+2caf684e94,Male,46,"High school"
+2ca8981630,Male,61,"College advanced"
+2cae0dbe04,Female,51,"High school"
+2ca592ec64,Female,21,"High school"
+2cb2937a05,Female,58,Basic
+2cab1cd086,Female,45,"High school"
+2cabfba052,Female,72,"College advanced"
+2cb19c5460,Male,59,"High school"
+2cafeb8426,Male,33,College
+2cacef2e62,Female,18,College
+2ca51a1004,Male,71,"High school"
+2ca57a1432,Male,26,Basic
+2ca607ea60,Female,33,College
+2ca99c2a16,Female,67,"High school"
+2caf9ecc65,Male,54,"High school"
+2cadc70a93,Male,59,"High school"
+2cb030e428,Male,55,"High school"
+2ca2fb4080,Female,62,"High school"
+2cad8be667,Female,82,College
+2ca28f0c73,Female,55,"College advanced"
+2caa09bc92,Female,31,"High school"
+2caff8ea93,Male,39,College
+2caf913431,Female,23,College
+2cb05a2498,Female,57,"High school"
+2cb1051e47,Female,54,College
+2cafb4de96,Female,49,"High school"
+2ca5403a70,Male,42,"High school"
+2cadcf9837,Female,28,Basic
+2ca7060e59,Female,75,"High school"
+2cadcb4292,Female,37,College
+2ca6935e07,Male,58,College
+2ca9e7ac20,Female,42,College
+2ca65b1e52,Female,29,"High school"
+2cad897a75,Female,69,"High school"
+2ca6fd3a02,Female,22,College
+2ca4d99216,Male,60,"High school"
+2ca9268c47,Female,30,College
+2ca7fbc284,Male,29,College
+2caf2c4409,Female,47,"High school"
+2cae3fbe19,Female,60,"High school"
+2ca88cf445,Male,36,"College advanced"
+2caaac8c89,Female,63,College
+2ca514ca93,Female,77,"High school"
+2ca3878612,Female,26,College
+2caafc1e24,Female,53,College
+2ca6405243,Female,30,"College advanced"
+2cb2190483,Male,72,"College advanced"
+2ca6317006,Male,46,"High school"
+2ca3457867,Male,67,"College advanced"
+2cac464671,Male,49,"High school"
+2ca95cba08,Female,40,"High school"
+2ca3ce1213,Male,33,Basic
+2cb3367248,Female,49,College
+2cac1e1e53,Male,60,College
+2ca7d2b498,Female,64,"High school"
+2cb19fb005,Female,26,"High school"
+2ca5609c36,Female,79,College
+2ca7c5d006,Male,58,Basic
+2caf65ba57,Female,42,"High school"
+2ca8a6c600,Male,35,"College advanced"
+2ca4a94a60,Male,43,"High school"
+2cb23b0036,Female,29,"High school"
+2cb2343483,Female,47,College
+2cad524839,Female,20,"High school"
+2cb21c5697,Female,19,"High school"
+2ca47eca98,Male,63,"College advanced"
+2ca64f0c94,Female,67,"High school"
+2ca8f7b685,Male,63,College
+2caf55de97,Female,54,"High school"
+2ca5794234,Female,56,"High school"
+2caef9ea52,Male,57,"High school"
+2ca76e8290,Female,78,"College advanced"
+2ca620c295,Female,49,"College advanced"
+2ca795ce83,Male,66,College
+2cb2a98c29,Male,27,College
+2cab006a79,Female,27,College
+2cafedfa24,Male,54,College
+2ca82f8408,Male,29,College
+2ca3b72e56,Female,73,"High school"
+2cab52c237,Male,63,"High school"
+2ca8cc2809,Female,41,"College advanced"
+2ca75da267,Female,35,College
+2ca2549c07,Male,42,"High school"
+2caf1a5663,Male,44,"High school"
+2cae23f812,Female,57,"High school"
+2ca4e07241,Male,22,Basic
+2cadb4e000,Male,53,"High school"
+2cb090fc49,Male,42,College
+2ca9ad6485,Male,65,Basic
+2ca5bf0624,Female,59,"High school"
+2ca4af3a16,Female,41,"High school"
+2caf2ec437,Female,32,"High school"
+2ca9c82645,Female,47,"High school"
+2caf528278,Female,29,College
+2caceaec00,Female,22,"High school"
+2ca3819667,Female,37,"High school"
+2caf12e061,Female,50,"High school"
+2ca6588a32,Female,53,"High school"
+2cae1b6a37,Male,49,College
+2ca8c52002,Male,54,"High school"
+2ca40cb086,Female,45,Basic
+2cb1796871,Female,44,"High school"
+2ca5b56003,Female,27,College
+2ca8e05028,Female,18,College
+2cb10d1658,Male,66,College
+2cb0595240,Male,27,"High school"
+2cb229da13,Female,53,"High school"
+2cab0e1665,Female,59,"High school"
+2caf39fa79,Male,28,Basic
+2ca31dc814,Male,69,"High school"
+2ca7bfea14,Male,76,College
+2ca5778a86,Female,67,"High school"
+2cad748064,Male,25,"College advanced"
+2caa516023,Female,44,College
+2caaf02a11,Female,65,"High school"
+2cae300069,Male,67,"High school"
+2cab8d0a74,Male,45,"College advanced"
+2caedc4431,Female,54,College
+2ca650d867,Male,55,Basic
+2cb286b480,Male,56,"High school"
+2ca8897060,Male,46,"High school"
+2cab6fe609,Male,48,Basic
+2cb15d6643,Female,21,College
+2cb0e39a13,Female,26,College
+2ca2ebc843,Female,45,"High school"
+2ca834b636,Female,59,"High school"
+2cb2a02c00,Male,45,"High school"
+2ca30c1699,Female,47,"College advanced"
+2ca3660219,Male,59,College
+2cadb15c90,Female,56,"High school"
+2cb2615235,Male,51,"High school"
+2ca2795446,Male,18,"High school"
+2ca3bd1433,Male,58,"High school"
+2cb2f18053,Female,31,"High school"
+2ca2c88c20,Female,81,College
+2cb25c3e41,Male,31,"High school"
+2cad9a5089,Male,38,College
+2cb21d2871,Female,25,College
+2ca4e69424,Male,35,"High school"
+2caac03276,Female,35,"High school"
+2cadc8b898,Male,25,Basic
+2cac818893,Female,61,"High school"
+2cafbc9044,Male,29,"High school"
+2cb1331876,Female,44,College
+2cb0a02e07,Female,69,College
+2ca4913018,Male,27,"High school"
+2cb2fbbc24,Male,36,Basic
+2ca6617225,Male,45,"High school"
+2cad533870,Male,34,College
+2cab245a90,Female,41,"High school"
+2ca296b494,Female,41,Basic
+2ca229ea91,Female,18,"College advanced"
+2ca5264049,Male,62,"High school"
+2cadecc630,Female,55,"High school"
+2cb1ffe610,Female,25,"College advanced"
+2ca494be59,Male,73,"High school"
+2ca3a11281,Female,55,College
+2cb20d3886,Male,41,"High school"
+2ca3d89e38,Female,38,"High school"
+2cabd65290,Female,43,"High school"
+2cb2460408,Female,43,College
+2ca8b58050,Female,29,College
+2ca8eba427,Male,41,College
+2ca49c8470,Female,68,"College advanced"
+2ca67c7a25,Male,35,"High school"
+2ca796b456,Male,63,College
+2caeae5e68,Male,54,College
+2cac295e13,Female,40,College
+2ca9b35e64,Male,45,"High school"
+2caa42d887,Female,68,"High school"
+2ca869d627,Female,30,"High school"
+2cb060c853,Female,54,"High school"
+2cb0888258,Female,49,"High school"
+2ca417d287,Male,33,Basic
+2ca7301631,Male,33,"High school"
+2cafeecc86,Female,58,"High school"
+2ca5bd1223,Male,43,Basic
+2ca4bcf016,Female,33,College
+2ca5786660,Female,45,"High school"
+2cae94fa51,Female,39,College
+2ca5af0221,Male,37,"High school"
+2cb1dcc861,Female,61,"College advanced"
+2cb06bb846,Male,59,Basic
+2cb0386451,Female,21,"College advanced"
+2ca2c61685,Male,34,"High school"
+2ca3cd3625,Female,41,"High school"
+2cac8eb274,Male,28,Basic
+2cafd4a055,Female,72,"High school"
+2ca690b625,Female,46,"High school"
+2ca89fe674,Female,68,"High school"
+2ca930f087,Male,77,"College advanced"
+2ca7854813,Female,55,"College advanced"
+2cae640884,Male,57,"High school"
+2cae1c5055,Male,32,"High school"
+2ca84b7298,Female,27,"High school"
+2cabb94233,Male,47,"High school"
+2ca6943a14,Female,23,"High school"
+2caae7c426,Female,31,"High school"
+2cac959256,Male,52,"High school"
+2caeb62e28,Female,49,"High school"
+2cae20a631,Female,68,"High school"
+2ca2609a86,Male,32,Basic
+2ca46e4e26,Female,18,College
+2ca3e9a624,Female,34,"High school"
+2cab9f0266,Male,35,Basic
+2ca9a49a61,Male,49,"High school"
+2cb1e0f676,Male,64,College
+2ca6c8e252,Male,54,"High school"
+2cb2158025,Male,24,"High school"
+2cb2d1c884,Male,44,"High school"
+2ca2684299,Male,19,"College advanced"
+2cae111063,Male,59,"High school"
+2cb2faea92,Female,25,Basic
+2ca6ebe293,Female,32,"High school"
+2cae02c403,Male,57,"College advanced"
+2cab3c2e98,Female,59,"High school"
+2cb166c682,Female,56,"High school"
+2ca26f0486,Male,22,College
+2ca31e9a81,Female,27,"High school"
+2cb025ea02,Male,70,College
+2ca7c97253,Female,56,"College advanced"
+2cb22caa95,Female,52,Basic
+2cb2f41e95,Female,41,"High school"
+2ca75b5e27,Male,76,Basic
+2ca65ea215,Male,51,Basic
+2cb0645639,Female,66,"High school"
+2cb1f14028,Female,54,"High school"
+2ca6146040,Female,59,"High school"
+2ca7f93862,Male,45,College
+2cae8c3a25,Male,80,College
+2ca2735039,Female,36,"High school"
+2ca5d42854,Female,40,College
+2ca765ae56,Male,43,"High school"
+2ca7774287,Female,21,Basic
+2cb101a457,Female,59,"High school"
+2ca67e3262,Male,63,College
+2ca4755698,Male,23,"High school"
+2ca72a1280,Male,45,College
+2caf5e2656,Male,55,"High school"
+2ca9d4e248,Male,53,"High school"
+2cb2a51816,Female,73,College
+2ca7e54235,Male,53,Basic
+2cafe4ae91,Female,54,"High school"
+2cacde6267,Female,22,"High school"
+2cb3112435,Female,42,Basic
+2cae482415,Male,35,"High school"
+2cb2df6031,Male,65,"High school"
+2ca9fed698,Female,51,"High school"
+2ca4153e62,Male,67,"High school"
+2ca8b02633,Male,42,College
+2caaccda70,Female,52,"High school"
+2cb04e4e66,Male,20,"High school"
+2ca27d9683,Female,39,"High school"
+2ca443ec13,Female,36,"College advanced"
+2cb12d2870,Male,65,"High school"
+2ca3305649,Male,38,"High school"
+2ca537de22,Male,68,"High school"
+2caa0f0c22,Female,21,"High school"
+2caa5e9e99,Male,62,College
+2ca43cda91,Female,25,"College advanced"
+2cb055ec74,Female,65,"High school"
+2ca6294671,Female,62,College
+2cb33e7e90,Female,49,Basic
+2cabd39683,Female,64,"High school"
+2ca21b3a82,Male,35,College
+2ca4379e45,Female,60,"High school"
+2cadc56652,Female,48,College
+2ca9b0de37,Male,21,"College advanced"
+2ca34b6850,Female,48,"High school"
+2ca3112069,Male,60,College
+2cad633c49,Female,56,College
+2ca788cc07,Male,84,"High school"
+2ca782be51,Male,22,"High school"
+2ca23a6635,Male,21,College
+2ca95aee21,Male,61,College
+2ca7b2b694,Male,57,"High school"
+2cb27bb037,Female,43,College
+2ca8dbdc85,Male,68,"High school"
+2ca2f79e49,Male,24,College
+2cab7e6426,Male,25,College
+2cae06e865,Male,62,"College advanced"
+2cac48d007,Male,27,College
+2cab356276,Male,50,Basic
+2ca337f402,Female,58,"High school"
+2ca9e60883,Male,42,College
+2ca63bc031,Female,20,"High school"
+2ca7346260,Male,46,"High school"
+2caa15a642,Female,20,"High school"
+2cad650866,Female,34,"College advanced"
+2cafe72e12,Female,23,Basic
+2ca3dce096,Male,62,"High school"
+2cabc0f461,Female,41,Basic
+2cae1e0814,Female,80,Basic
+2caf29ce53,Female,79,"High school"
+2cac09c497,Male,21,"College advanced"
+2ca6e16003,Male,63,"High school"
+2ca25d3465,Female,21,"High school"
+2caccc6099,Female,45,"High school"
+2ca4ce3e63,Female,81,"High school"
+2cac3cbe32,Female,19,"College advanced"
+2cb2223259,Male,18,"High school"
+2ca33de453,Female,72,"High school"
+2ca6054c59,Female,39,"College advanced"
+2cb108c046,Female,21,"High school"
+2ca9655c49,Female,41,"High school"
+2cb0a3a853,Female,34,College
+2cad25c097,Female,74,College
+2cb1572655,Female,22,College
+2ca6a92a81,Male,67,College
+2ca6412e56,Male,46,"High school"
+2cacc05812,Female,24,College
+2cade93841,Female,67,"High school"
+2ca9c48e22,Female,61,College
+2caf197088,Male,44,"High school"
+2cadaed284,Male,27,"High school"
+2cab68e807,Male,39,College
+2ca5f8cc87,Male,43,"College advanced"
+2caa1e5c20,Male,19,"High school"
+2ca301d071,Female,64,"College advanced"
+2ca23d0e35,Female,27,"College advanced"
+2ca22e3680,Female,28,College
+2caec39421,Female,62,"High school"
+2cb2886c29,Male,35,College
+2ca2822898,Female,47,College
+2ca9de6075,Male,60,"High school"
+2ca9648088,Male,33,Basic
+2ca4a26030,Female,63,"College advanced"
+2ca2145a53,Male,39,"High school"
+2cae8d1652,Female,18,College
+2ca8019408,Female,68,"College advanced"
+2cb015c866,Female,49,Basic
+2ca88b3c70,Male,27,Basic
+2ca50dae91,Male,52,College
+2cafc88437,Female,29,College
+2cac456a99,Male,45,"High school"
+2cb127ec18,Female,56,College
+2cb208c441,Female,46,"College advanced"
+2ca4423427,Male,35,College
+2cb06d7a10,Female,18,College
+2cac3bec58,Male,23,"High school"
+2ca8243056,Female,51,Basic
+2ca89a9617,Female,37,"High school"
+2ca2c1d452,Male,18,Basic
+2ca737e636,Female,56,Basic
+2cab3df060,Female,69,College
+2ca3ff1817,Male,69,"High school"
+2cae180e05,Female,39,Basic
+2ca44e4676,Female,30,College
+2ca3f09091,Male,71,"College advanced"
+2ca42fb001,Male,62,"High school"
+2ca7668a01,Female,73,College
+2ca9daf027,Female,61,"High school"
+2ca3711a39,Male,37,College
+2cb1de7606,Female,55,"College advanced"
+2cab82ba94,Male,60,College
+2cac331876,Female,40,College
+2ca69b4290,Female,35,"High school"
+2cb28f3879,Female,42,Basic
+2ca3a54a48,Male,36,College
+2ca290c415,Female,69,"College advanced"
+2cafed2820,Female,62,"High school"
+2ca92e6699,Female,63,"High school"
+2cb213d266,Female,26,College
+2caf335611,Female,18,"College advanced"
+2caa49a460,Female,70,College
+2ca8fdc463,Female,25,College
+2cad206654,Male,66,College
+2ca5089004,Male,26,Basic
+2cae0ce237,Male,44,College
+2ca44a0e59,Female,66,"College advanced"
+2caff15698,Male,51,"High school"
+2cafe13e10,Female,49,"High school"
+2cb18d5416,Male,62,"High school"
+2ca9ebe426,Female,32,College
+2caea6ca95,Female,35,Basic
+2ca3070299,Male,18,"High school"
+2cad5b9485,Male,29,"College advanced"
+2ca7ea6a26,Female,37,"High school"
+2ca5b38010,Male,64,"High school"
+2cac27a672,Female,33,College
+2cb3156635,Female,27,"High school"
+2ca8860050,Male,46,College
+2cb2070226,Male,58,Basic
+2ca54ea428,Female,74,"High school"
+2ca4261e60,Female,52,"High school"
+2ca6953481,Male,54,"High school"
+2ca9ae3684,Male,44,College
+2ca5b72236,Female,29,College
+2caa7c9402,Female,23,Basic
+2caf0b1a95,Male,58,College
+2ca343c098,Male,50,"College advanced"
+2caf035480,Male,51,Basic
+2cb22bd816,Male,69,"High school"
+2caee4c837,Female,54,"College advanced"
+2ca5992235,Female,75,"High school"
+2ca529ec02,Male,72,"High school"
+2ca9591878,Male,55,"High school"
+2caef90e50,Male,82,"High school"
+2ca9b43a75,Female,61,"High school"
+2ca70a6e77,Male,43,"High school"
+2cabbcc690,Female,22,"High school"
+2ca6a24a61,Female,46,"High school"
+2ca82a3e36,Male,32,College
+2ca8d6a055,Female,52,"High school"
+2ca4c30809,Female,20,College
+2ca679e654,Female,48,"High school"
+2ca9d76239,Male,71,College
+2caec02e95,Female,41,"High school"
+2cb00efc66,Female,68,"High school"
+2cb1891252,Female,49,"High school"
+2caed05a22,Male,66,"High school"
+2ca855e076,Male,20,College
+2cb29cc688,Male,31,"High school"
+2cb05d6c55,Male,65,"High school"
+2caca1cc28,Female,63,College
+2cb081d462,Female,51,Basic
+2ca9612470,Male,38,"High school"
+2cac889078,Male,67,"High school"
+2ca9e00426,Female,40,"High school"
+2cabf51a61,Female,30,"College advanced"
+2ca9f38c48,Female,21,"High school"
+2ca6a84e65,Male,20,Basic
+2caa2afa65,Male,36,"High school"
+2ca6810226,Male,60,College
+2ca6e94454,Male,82,"High school"
+2ca31cec64,Male,31,"High school"
+2cb1bda626,Female,54,"High school"
+2cabca4007,Male,25,Basic
+2cad483418,Male,50,"High school"
+2ca58be467,Female,20,College
+2cb1f5b470,Female,83,College
+2ca584f087,Male,52,"High school"
+2cb00c8699,Female,53,Basic
+2cac308456,Female,32,College
+2cafce8895,Male,81,"College advanced"
+2ca3c67498,Male,41,Basic
+2cad619893,Female,51,College
+2caff9bc79,Male,35,College
+2ca2e20432,Female,66,"High school"
+2cab194258,Female,57,"High school"
+2cabffc483,Male,50,"High school"
+2cad939847,Male,46,"College advanced"
+2ca2f35c11,Female,47,"High school"
+2ca3313229,Male,19,College
+2ca70eba91,Male,24,"High school"
+2ca6f11401,Female,60,College
+2cad6aee38,Male,27,"College advanced"
+2caeb29653,Male,56,College
+2cab3ee052,Male,46,College
+2cb2f86a01,Male,43,"High school"
+2cadc3b857,Male,68,"High school"
+2cacdb6067,Female,25,"High school"
+2cb0c8d890,Female,66,"High school"
+2cb07d7e53,Female,69,"College advanced"
+2ca2e65081,Male,77,"High school"
+2cb1a69069,Female,26,"High school"
+2cb170f816,Female,60,College
+2ca9a73857,Female,19,College
+2cb2e99298,Female,45,College
+2ca5023269,Female,36,"High school"
+2cb003d046,Male,80,College
+2caa13f896,Male,24,College
+2caa980051,Female,26,College
+2ca6bba447,Female,56,"High school"
+2cb0a61467,Male,50,"High school"
+2ca2875a56,Male,49,Basic
+2ca9ea2289,Male,57,"High school"
+2caeaf3007,Female,58,College
+2cad66b640,Female,46,College
+2cad507213,Female,23,Basic
+2cb1ce4040,Female,50,College
+2caf3bbc17,Female,48,Basic
+2cad166610,Female,54,College
+2caae5ee57,Female,46,"College advanced"
+2cb2b8aa88,Female,60,College
+2ca6dc1a15,Female,66,"College advanced"
+2ca355a425,Male,36,"High school"
+2ca2e05616,Male,28,"High school"
+2caca8de54,Female,55,College
+2caed4d888,Male,74,College
+2caee15814,Male,77,College
+2caa851879,Male,31,Basic
+2ca4328a43,Male,60,College
+2ca3320421,Female,39,College
+2cababdc57,Female,40,"College advanced"
+2cb1506483,Male,65,College
+2ca7988a13,Male,61,College
+2ca666ae36,Female,42,"High school"
+2cb2a89c08,Female,19,College
+2cb312e606,Male,62,"High school"
+2cb1253057,Male,49,"College advanced"
+2cb2d60a64,Male,60,"High school"
+2cb040ca88,Male,22,"High school"
+2ca8f0ae81,Male,44,"High school"
+2cada52284,Male,38,"College advanced"
+2ca3703e16,Male,19,"High school"
+2caadda693,Female,60,Basic
+2ca39cc658,Female,51,College
+2ca8359214,Male,23,"College advanced"
+2caec7f435,Male,39,"High school"
+2ca6552478,Female,55,College
+2ca7220699,Female,70,College
+2cb3044032,Female,21,"High school"
+2ca77ba255,Female,26,College
+2cab839650,Female,56,"High school"
+2ca948a611,Female,57,"High school"
+2cb33ab422,Male,69,College
+2ca3de9802,Male,82,"High school"
+2ca8e73a75,Male,33,"High school"
+2cb2de8e54,Male,73,College
+2ca34faa53,Male,43,"College advanced"
+2cab726613,Female,72,"College advanced"
+2cb009de51,Female,66,College
+2ca6b49264,Female,24,"High school"
+2ca593e630,Male,42,"College advanced"
+2ca91dfe08,Male,36,College
+2cad35e207,Male,45,College
+2ca8c37277,Male,42,College
+2caf5a0c87,Female,37,"High school"
+2cadd66414,Male,34,"High school"
+2cad91ea20,Female,24,Basic
+2ca5b45c24,Male,31,College
+2cb1c01c55,Male,72,"College advanced"
+2caef4ea94,Female,59,Basic
+2caec1d214,Male,25,"High school"
+2cb2724665,Male,60,"High school"
+2ca2691e25,Male,73,"High school"
+2cad3c7c37,Male,59,"College advanced"
+2cab210896,Male,68,"College advanced"
+2ca9a81484,Male,49,Basic
+2cadf36009,Male,45,College
+2cb3001257,Female,74,"High school"
+2caf675e63,Female,19,"High school"
+2cabfe7a86,Female,53,College
+2ca6cd6095,Female,37,"High school"
+2ca93e4281,Female,50,"High school"
+2ca26e3231,Female,38,"High school"
+2cacee5c76,Male,56,Basic
+2cad316e15,Female,51,Basic
+2caac97415,Female,70,College
+2caac6e007,Female,62,College
+2cb0ff1056,Male,72,College
+2cad7b0668,Male,43,College
+2cae416c11,Male,53,"High school"
+2cab777020,Male,42,"High school"
+2cab6f0a04,Female,34,"High school"
+2cb0b2bc03,Female,34,"High school"
+2caf5c8204,Male,50,Basic
+2cabbd9832,Female,72,"High school"
+2cb0a6e656,Male,52,"High school"
+2ca3b65c69,Female,67,"High school"
+2cae8ec489,Male,49,College
+2ca8043265,Male,20,College
+2cae31a445,Female,60,"High school"
+2ca9160651,Female,52,Basic
+2cacd45849,Male,68,"College advanced"
+2cb024fa50,Female,36,"High school"
+2caf2b7236,Female,65,College
+2ca5595893,Male,22,Basic
+2ca8de8499,Male,69,Basic
+2ca5111e61,Male,70,"High school"
+2cb07b0842,Male,70,"High school"
+2cb1955656,Male,64,Basic
+2cb15fe680,Male,72,"High school"
+2cad6d6e76,Male,43,"High school"
+2cae011689,Male,56,College
+2ca664e250,Female,61,"High school"
+2cad92b214,Female,74,"High school"
+2caaaaca98,Male,41,College
+2cae30d280,Female,61,"College advanced"
+2ca68d4695,Male,47,College
+2cb3332037,Female,20,College
+2ca8732c99,Male,67,"High school"
+2ca3a1e491,Female,47,"High school"
+2cb31d2c80,Male,64,"College advanced"
+2cad39fc39,Female,45,College
+2cb0057402,Female,40,"High school"
+2caf267249,Male,62,"High school"
+2ca5677c22,Female,71,"High school"
+2caa656099,Male,44,Basic
+2ca8b67011,Female,32,"High school"
+2ca8153006,Female,50,"High school"
+2ca9c3bc55,Female,32,Basic
+2cade4f652,Male,52,College
+2cac7c4c32,Female,27,"College advanced"
+2cb0839607,Male,40,College
+2caf4ff864,Female,41,College
+2cb0a20419,Male,63,Basic
+2cae83d421,Female,75,"High school"
+2caa37ca77,Female,39,"High school"
+2ca32a7043,Female,19,"High school"
+2ca9bb4272,Female,73,"High school"
+2ca3e2e416,Female,81,"High school"
+2ca217ca32,Male,35,"College advanced"
+2ca3fd6071,Female,37,College
+2cb279f864,Male,61,"High school"
+2ca46f2013,Female,48,"High school"
+2ca5347896,Female,19,Basic
+2cab9ab600,Male,27,College
+2cad4fa066,Male,63,"High school"
+2caad34c73,Female,24,Basic
+2ca37ef848,Male,61,"College advanced"
+2cb09f3e61,Female,42,College
+2ca2cda094,Male,37,"High school"
+2ca3f76633,Female,44,College
+2ca696ec43,Female,25,"High school"
+2ca7177a95,Male,67,Basic
+2caab44841,Female,30,College
+2cb189ee58,Female,58,College
+2ca8613e54,Male,55,College
+2caaecce62,Male,22,"College advanced"
+2ca37e1c21,Male,52,College
+2cadba2683,Male,33,"College advanced"
+2ca2215204,Male,42,College
+2ca9504e00,Male,44,"College advanced"
+2ca90ff881,Female,53,Basic
+2ca2d7c825,Male,47,"High school"
+2caae2a676,Female,23,"High school"
+2ca643c211,Female,43,"High school"
+2ca9aac627,Male,27,"High school"
+2ca5c6a436,Female,18,"High school"
+2cacd7fa77,Female,55,"High school"
+2cae49e631,Female,34,Basic
+2ca499dc15,Male,72,Basic
+2ca6b64a35,Female,29,College
+2caac46062,Male,43,"High school"
+2ca60d4487,Male,43,"College advanced"
+2cab769479,Female,64,Basic
+2cac7ee025,Male,41,Basic
+2ca4469436,Female,18,"College advanced"
+2caf0f3e56,Female,55,College
+2ca5f2aa01,Male,27,"High school"
+2cabd8dc33,Female,37,Basic
+2ca7f25868,Male,27,"High school"
+2cafd8ce87,Female,56,College
+2ca7f79482,Male,78,College
+2cb1d5e829,Female,64,"High school"
+2ca90bb664,Male,74,"High school"
+2cb2e53c94,Female,59,College
+2cac9bdc95,Male,66,"High school"
+2ca2eca441,Female,38,College
+2ca4225e14,Female,36,College
+2cb1107245,Female,36,College
+2cb29b2270,Female,63,College
+2ca6c2c018,Male,43,"College advanced"
+2cabee3a22,Male,27,Basic
+2cb2ff4086,Female,20,College
+2cab44f819,Female,53,"College advanced"
+2cb1514098,Female,58,"High school"
+2cadd49811,Male,24,College
+2cac73aa37,Male,40,College
+2caa404420,Female,37,"College advanced"
+2cabe16a09,Female,54,"College advanced"
+2ca8160c98,Female,50,"High school"
+2ca6dde609,Female,36,"College advanced"
+2caa837477,Male,24,"College advanced"
+2cae217899,Male,67,College
+2cae0c0617,Male,56,"High school"
+2caeed2e48,Female,49,"High school"
+2cad72aa04,Male,26,"High school"
+2ca4c08800,Male,21,Basic
+2ca6ce4636,Male,25,Basic
+2ca2c7ba19,Male,25,College
+2caa6e1693,Male,26,"High school"
+2ca8ca7a57,Male,52,"High school"
+2caeb7d249,Male,34,"High school"
+2ca9df3281,Female,31,College
+2caccd5058,Male,42,"High school"
+2cae5b7a97,Male,57,College
+2cac2ddc45,Female,28,"College advanced"
+2ca66dca83,Male,67,"High school"
+2caa300e49,Female,51,"High school"
+2caf8ebe82,Male,39,Basic
+2caf6e4821,Female,42,Basic
+2cafa4c630,Female,28,College
+2ca3204858,Male,47,College
+2ca2d98030,Male,53,College
+2cab2e9616,Female,19,"High school"
+2cabd03a84,Female,63,"High school"
+2cad8d8a11,Female,71,"High school"
+2cab854463,Male,75,"High school"
+2ca45b5c76,Female,30,"High school"
+2caf8f9078,Female,26,"High school"
+2ca485a098,Female,31,"High school"
+2cabb83e04,Female,84,College
+2ca8d85884,Female,36,College
+2ca7b89248,Male,27,College
+2ca6b01446,Male,42,"College advanced"
+2cb323c675,Male,74,College
+2cb0ac0e93,Female,38,"High school"
+2ca4dc1c41,Female,46,"High school"
+2cae12dc71,Female,76,College
+2cad8a4c72,Male,70,"High school"
+2cb147d662,Male,73,College
+2caeeb8a92,Male,32,"High school"
+2caee3f611,Female,39,Basic
+2ca2565485,Female,67,"High school"
+2ca9ba3e67,Female,31,Basic
+2caefac689,Male,48,"High school"
+2ca9d5b422,Female,49,Basic
+2ca91eda66,Male,56,College
+2ca22fee47,Female,25,"High school"
+2cb0c4be71,Male,31,"High school"
+2cb02a2c90,Male,71,"High school"
+2cb2ddb202,Female,50,"High school"
+2caaf11a37,Female,71,"High school"
+2ca321f642,Male,40,College
+2cac7b7049,Male,49,Basic
+2cae4e1463,Female,33,Basic
+2caeb97671,Female,47,"High school"
+2ca6f9d414,Male,42,"High school"
+2cae84a686,Female,54,Basic
+2ca87bec00,Male,78,College
+2ca9058a38,Male,45,"High school"
+2cb0b45677,Female,43,"High school"
+2ca3bf9e32,Female,40,Basic
+2cb09bec01,Male,37,"High school"
+2cb120b292,Male,44,College
+2ca4816887,Female,49,"High school"
+2ca40af838,Female,77,"High school"
+2cab966a04,Female,59,Basic
+2ca2a01464,Male,54,"High school"
+2caada2251,Male,44,College
+2cb019e223,Female,36,"College advanced"
+2ca7329679,Female,57,College
+2ca57cc612,Female,65,"High school"
+2cac0e4286,Male,23,College
+2cabe4c659,Male,58,"College advanced"
+2ca61d0c44,Female,58,"High school"
+2cac4d1c93,Female,21,College
+2ca9662e95,Female,48,"High school"
+2ca6609652,Male,21,Basic
+2caa2cb273,Female,45,"College advanced"
+2ca7d9b276,Female,27,"High school"
+2ca8b39613,Male,42,"College advanced"
+2ca7eed495,Female,60,"College advanced"
+2cae69da23,Female,75,"College advanced"
+2caf13b202,Female,59,Basic
+2ca61b5496,Male,45,"College advanced"
+2ca5aa9873,Male,42,College
+2cb1ba4a38,Female,32,"High school"
+2cad158a21,Male,41,"High school"
+2ca5b9b693,Male,53,"High school"
+2ca26ad647,Male,52,"High school"
+2caf24a628,Female,32,"College advanced"
+2ca6abd228,Female,39,"High school"
+2ca6e08415,Female,25,College
+2ca6961084,Female,45,"High school"
+2ca575be50,Female,21,College
+2caab5f600,Male,21,College
+2ca31f6c49,Male,51,"College advanced"
+2cae916293,Female,27,"High school"
+2cb3374471,Male,19,"High school"
+2ca9a66684,Male,32,"High school"
+2caab94853,Female,79,"High school"
+2ca3d97a94,Male,40,"High school"
+2cb202c080,Male,26,College
+2cae9ae087,Male,45,College
+2caafebc12,Female,68,"High school"
+2ca6242852,Female,40,"High school"
+2cafd1ee45,Female,40,"High school"
+2ca7d46c14,Female,56,College
+2caab36c26,Male,39,"High school"
+2ca66f8268,Female,64,"High school"
+2cab363e48,Female,55,College
+2ca9c74a35,Female,50,"High school"
+2ca22c7e43,Male,52,"College advanced"
+2cad77be55,Male,31,"High school"
+2cac922207,Female,31,Basic
+2caf8dec91,Male,54,College
+2ca3929421,Male,57,College
+2ca7570806,Male,20,College
+2cab15dc51,Male,46,College
+2ca9bf8441,Male,64,"High school"
+2caf6b8c05,Female,36,College
+2ca3842078,Female,39,"High school"
+2caa286608,Male,18,"High school"
+2ca5362633,Female,26,"High school"
+2ca8fbf866,Male,40,College
+2ca909fe30,Male,72,College
+2caba6a047,Male,81,College
+2ca3f83827,Female,40,College
+2ca74e6657,Male,41,"High school"
+2cb1b5f462,Male,57,"High school"
+2ca48f5a07,Male,65,"High school"
+2ca9978e35,Male,39,Basic
+2ca31a5871,Female,41,"College advanced"
+2cb2d95217,Male,41,College
+2ca54dd287,Female,41,College
+2ca83baa44,Female,30,College
+2cabd47222,Female,72,"High school"
+2caed74e08,Male,32,"High school"
+2ca2b9f008,Male,25,"High school"
+2cb1382c70,Male,31,College
+2cacbeaa67,Female,46,"High school"
+2ca4217804,Female,41,"High school"
+2cac33f478,Female,62,"College advanced"
+2ca91a6689,Female,44,College
+2cb2bf9e96,Male,69,"High school"
+2cab297860,Female,40,"High school"
+2ca2328203,Female,42,College
+2cb27ad460,Female,70,College
+2cad86fa72,Female,59,Basic
+2cab313425,Female,18,"High school"
+2cadc48a84,Female,71,"High school"
+2cb2fa0e10,Male,47,"High school"
+2ca62fa424,Female,77,"College advanced"
+2cad1b5214,Female,56,"High school"
+2ca55a3473,Female,25,"College advanced"
+2ca2f00094,Male,28,Basic
+2ca7db6099,Male,30,"High school"
+2ca3104486,Female,45,College
+2cab547009,Male,58,College
+2ca45d1e34,Male,32,College
+2ca8690498,Female,48,College
+2cae275e29,Female,71,"High school"
+2cb1436237,Male,50,"College advanced"
+2cacbf7c79,Female,32,College
+2ca2dcf029,Female,19,College
+2cb00d5820,Female,37,"High school"
+2ca673e299,Female,37,College
+2cad5e4653,Male,27,College
+2cafcdb619,Female,37,College
+2ca6f4ac03,Male,42,"High school"
+2cae742a90,Female,51,"High school"
+2ca3dc0425,Male,72,College
+2cab889604,Male,41,"College advanced"
+2caa9b5c58,Male,49,"High school"
+2cb1a08c08,Female,73,"College advanced"
+2ca8b2c476,Female,46,College
+2ca76a3668,Female,71,"High school"
+2caa22a827,Male,29,Basic
+2cab1e7e46,Female,32,Basic
+2cb2453265,Female,30,"High school"
+2ca5f63830,Male,52,"High school"
+2ca3893e16,Male,39,"High school"
+2cb13c9676,Male,72,"College advanced"
+2cb1af4660,Female,20,College
+2cac1c5270,Female,25,"High school"
+2ca80cfc40,Male,38,"High school"
+2ca3e05013,Female,32,"High school"
+2ca9198a37,Male,33,"College advanced"
+2cb160b827,Female,64,College
+2ca963ae86,Male,22,"High school"
+2ca6a6a016,Male,38,College
+2ca3198606,Female,45,Basic
+2cafa07061,Male,52,"College advanced"
+2caf5d5498,Male,49,College
+2cae061669,Female,74,"High school"
+2cae268c33,Female,57,"College advanced"
+2cb1367e78,Female,57,"High school"
+2cb2960e05,Male,20,"High school"
+2cb26ef420,Male,29,"College advanced"
+2cac564041,Male,28,College
+2ca47d1296,Female,55,"High school"
+2ca625e032,Male,73,College
+2cad1d0031,Female,30,"High school"
+2cb0ecc879,Female,58,College
+2cafc1cc45,Male,37,"High school"
+2ca8198653,Female,77,"High school"
+2cae64da02,Female,55,"High school"
+2ca8af5416,Female,54,"College advanced"
+2cad591450,Female,56,"College advanced"
+2ca764c838,Male,35,"High school"
+2ca4d8b602,Male,23,College
+2ca3162078,Male,73,"High school"
+2cb333fc44,Female,64,"High school"
+2cab38be21,Female,29,Basic
+2cb1da4804,Male,48,"High school"
+2ca5712c88,Female,21,"High school"
+2ca987ee84,Female,27,Basic
+2ca9301479,Female,54,"College advanced"
+2ca6fc5e79,Male,54,"High school"
+2cad76f675,Male,70,College
+2ca58cb657,Male,39,"High school"
+2ca9574c52,Female,30,College
+2cb0b38e37,Male,55,College
+2ca59ba294,Male,70,"College advanced"
+2cafda7272,Female,59,"High school"
+2cab5b5011,Male,69,"High school"
+2caa168264,Male,57,"High school"
+2cb2514e36,Male,31,"High school"
+2ca51bc809,Male,41,College
+2ca2e49864,Female,26,"College advanced"
+2ca580ae83,Male,20,"High school"
+2ca9137252,Female,55,"High school"
+2caff73c27,Female,67,Basic
+2ca4cfec10,Female,83,"High school"
+2caf40a899,Female,58,"High school"
+2ca9b6c499,Male,70,College
+2caed3fc07,Female,45,College
+2cb0ef5c60,Male,21,College
+2caac53218,Female,39,"High school"
+2cac644629,Female,33,"High school"
+2ca8a34c56,Male,30,"College advanced"
+2caea52632,Female,61,"High school"
+2ca6d8aa87,Male,72,"College advanced"
+2ca7e00630,Male,38,College
+2caefd6e53,Female,64,College
+2ca9b87243,Female,34,College
+2ca82b2488,Male,29,"College advanced"
+2ca4fde605,Female,62,Basic
+2ca86b9840,Female,39,"High school"
+2ca471f090,Female,59,"High school"
+2cab7ca252,Female,59,"High school"
+2caca71c77,Female,38,Basic
+2ca484ce22,Female,44,Basic
+2cb3105213,Female,49,College
+2caf0a3e98,Male,57,"College advanced"
+2cad02ac99,Female,72,"High school"
+2cab0d4442,Male,49,College
+2caaae3a59,Male,45,"High school"
+2cb047b435,Female,25,Basic
+2ca55ce634,Female,67,"High school"
+2cab262600,Male,61,College
+2cb3149491,Male,84,"College advanced"
+2ca7cf2638,Female,63,"High school"
+2cb2adc413,Female,32,"High school"
+2ca3a99617,Male,53,College
+2cab0ef216,Male,40,College
+2cb0f65079,Male,45,"College advanced"
+2cb214ae34,Female,74,"High school"
+2cb249a685,Male,26,"High school"
+2ca38bc807,Male,47,"High school"
+2ca82c1486,Male,46,"High school"
+2cb0579076,Female,36,Basic
+2cad1c2449,Female,47,"College advanced"
+2cb31eda73,Male,29,College
+2ca9e2a278,Female,58,Basic
+2cadff4a26,Male,31,"High school"
+2cb2fd9227,Female,55,"High school"
+2ca4b2e609,Male,44,College
+2cac9f4226,Female,44,"High school"
+2caabcb869,Female,22,"High school"
+2cb014f658,Male,34,"High school"
+2cb1173e80,Female,30,College
+2cabe9e465,Female,29,"High school"
+2cb29db630,Female,21,"High school"
+2caaa67e65,Female,60,"High school"
+2cb2dccc23,Female,29,Basic
+2cab511466,Female,21,College
+2cac065e54,Female,51,"High school"
+2ca6529033,Male,53,"High school"
+2cac2ed624,Male,35,"High school"
+2caf7b3687,Male,32,Basic
+2cb02ffe25,Female,42,"High school"
+2ca3fac216,Male,57,"High school"
+2caae0f804,Male,73,"High school"
+2caa9dfa29,Female,65,"High school"
+2ca77ad062,Female,78,"College advanced"
+2cb262f663,Female,38,College
+2ca87f6639,Female,43,"High school"
+2caf9d0a13,Male,65,Basic
+2ca5dbc621,Female,64,"High school"
+2cace94861,Male,18,Basic
+2cb12dfa08,Male,30,Basic
+2ca8675604,Male,22,College
+2cafa8ea19,Female,83,College
+2cb1ed1c88,Male,31,Basic
+2ca4d62224,Male,49,"High school"
+2cb2d29a82,Male,24,"High school"
+2cada66c75,Female,76,"High school"
+2ca7a76c33,Female,66,"High school"
+2cafff9891,Male,39,"High school"
+2ca941a821,Male,45,College
+2ca5a9bc07,Female,63,College
+2caa8cd443,Female,31,"High school"
+2caae02644,Female,29,College
+2cb10f9611,Female,73,"High school"
+2ca8c8ae09,Female,36,"High school"
+2cab4e6c61,Female,60,"High school"
+2caf36a886,Female,20,"High school"
+2ca9584625,Female,31,"High school"
+2ca2207693,Male,33,College
+2ca7979008,Male,32,"High school"
+2cb06ff048,Male,52,"High school"
+2ca6063283,Female,35,"High school"
+2cb0006a39,Male,50,"High school"
+2ca4571a02,Female,36,"High school"
+2ca22ba231,Female,30,"High school"
+2ca6fab060,Male,81,"College advanced"
+2ca5ccbc94,Male,84,"College advanced"
+2ca2acda67,Female,23,College
+2caa36ee85,Male,38,College
+2ca4cf1069,Female,82,Basic
+2ca4cbb433,Male,24,"High school"
+2ca6b8f256,Male,47,Basic
+2caaff9847,Female,62,"High school"
+2cabc2b676,Male,75,"High school"
+2caea2a669,Male,74,College
+2cb335a086,Female,60,"College advanced"
+2cac770640,Male,73,College
+2cafc00a55,Female,65,College
+2cb1498465,Male,61,College
+2ca5193435,Female,38,"High school"
+2cb05af645,Female,24,College
+2ca7758a29,Female,65,"High school"
+2ca8912c81,Female,76,College
+2ca269fa15,Male,77,"College advanced"
+2cab86f242,Male,54,College
+2cb15bb800,Male,36,"High school"
+2cae812c87,Male,23,College
+2ca4967654,Male,22,College
+2ca45a8040,Female,48,"High school"
+2cabbbea73,Male,68,Basic
+2ca7e2b817,Male,31,"High school"
+2ca8289077,Male,74,"High school"
+2cb3249860,Male,67,"High school"
+2ca4aa2673,Male,66,Basic
+2ca6872464,Female,22,College
+2cab93cc79,Male,21,"High school"
+2ca66cf836,Male,76,Basic
+2caa8b0840,Female,54,"High school"
+2ca32c1e53,Male,34,"College advanced"
+2cb1aadc35,Male,51,"High school"
+2ca83e3e70,Male,47,"College advanced"
+2cb12a7688,Male,69,"High school"
+2ca466a660,Female,54,College
+2ca27e7201,Male,40,Basic
+2cb18c7810,Female,42,"High school"
+2ca2fdd461,Female,27,"High school"
+2cb2674293,Male,59,"High school"
+2ca258de60,Male,46,"College advanced"
+2cb05f1003,Female,46,"High school"
+2cb31c3c15,Male,58,"High school"
+2cb0c66264,Female,53,College
+2cae13cc33,Male,45,"High school"
+2ca49fd611,Male,46,"High school"
+2ca7def825,Male,41,"High school"
+2ca9381682,Female,26,"High school"
+2cb0a12842,Female,60,"High school"
+2ca8a27001,Male,79,"High school"
+2ca4cad818,Female,34,"High school"
+2cb04d7c93,Male,69,College
+2ca90f2689,Female,68,College
+2ca342ee31,Male,32,"High school"
+2caf21fe07,Male,57,"High school"
+2cad12c409,Female,41,Basic
+2ca7870065,Male,26,College
+2cb1f4d887,Female,53,"High school"
+2ca975c431,Female,40,College
+2ca8741c75,Male,22,"College advanced"
+2caf855e46,Male,18,"High school"
+2ca7613a94,Male,51,"High school"
+2ca6b1cc73,Female,19,College
+2ca63ae467,Female,50,Basic
+2ca8a87e92,Male,47,College
+2caa2a1446,Male,27,"High school"
+2ca8e9f696,Male,35,"High school"
+2ca72bca47,Female,32,"College advanced"
+2cab0a8895,Male,18,"High school"
+2ca5977484,Female,72,"High school"
+2cac236486,Male,30,College
+2cb2335844,Female,42,College
+2caa47f681,Female,59,College
+2caea1a262,Male,26,"College advanced"
+2cb2403238,Female,54,Basic
+2ca2f6c269,Male,40,College
+2cb09e6270,Female,56,"High school"
+2cad40b480,Female,24,Basic
+2ca3062690,Female,59,"High school"
+2ca5cf9619,Female,59,College
+2cae01e814,Male,56,"High school"
+2cae3b1864,Female,77,College
+2ca69c1e51,Male,21,"College advanced"
+2caa730c07,Male,69,"High school"
+2cb02d8838,Male,67,"College advanced"
+2cabf8f818,Male,35,College
+2ca3c15669,Male,55,"High school"
+2ca4c4b685,Female,64,"College advanced"
+2cb0295a36,Female,24,College
+2ca7941686,Male,42,"High school"
+2cb2622497,Male,83,"High school"
+2cad694037,Male,45,College
+2ca23ebc99,Male,39,College
+2cae7e9819,Male,22,College
+2caf958068,Male,65,College
+2ca2632430,Female,34,"High school"
+2ca6d54412,Female,74,"High school"
+2cab7a1806,Male,33,College
+2cae690807,Male,75,"High school"
+2cb1e6fa95,Female,70,College
+2caf309a09,Female,42,"College advanced"
+2ca8464073,Male,48,"High school"
+2ca45c4c69,Female,72,"High school"
+2cb00baa03,Female,21,"High school"
+2ca8cf9836,Male,62,"High school"
+2ca5895050,Male,74,"High school"
+2ca74d8a81,Male,59,"High school"
+2ca7e7d649,Female,64,"High school"
+2ca3781821,Female,20,"High school"
+2ca4520601,Male,64,"High school"
+2ca5a71451,Female,49,College
+2cb1b96e99,Male,28,"College advanced"
+2cb165f477,Male,66,"High school"
+2cb1c38c70,Female,20,Basic
+2caed67c02,Female,45,"High school"
+2ca380ba88,Female,51,"High school"
+2cae565c57,Female,34,"High school"
+2ca70c1c11,Female,56,Basic
+2ca29cb864,Male,47,"High school"
+2cafb09258,Male,35,"High school"
+2cb2769211,Male,59,Basic
+2caf4ba240,Female,24,"High school"
+2cae0f6c23,Male,77,College
+2ca3d6d234,Female,51,Basic
+2caace8826,Female,78,"College advanced"
+2cb06a0a69,Female,30,"High school"
+2ca4ebd058,Female,47,"High school"
+2caf3d6047,Male,26,College
+2ca8145e04,Male,41,"College advanced"
+2cb2b3a088,Female,47,"College advanced"
+2cada85642,Female,61,Basic
+2cb2b70627,Female,28,College
+2ca51aec43,Female,64,"College advanced"
+2cad59e696,Female,55,"High school"
+2cb31b4c00,Female,49,"High school"
+2cac049c82,Male,69,"High school"
+2cae0a4e93,Male,19,"High school"
+2ca70b4a56,Male,26,College
+2ca4632c59,Female,57,"College advanced"
+2cae0b2070,Female,37,"College advanced"
+2cace37661,Male,26,"College advanced"
+2ca789c655,Female,69,"High school"
+2ca4fa6201,Female,56,"High school"
+2ca26fe059,Male,38,Basic
+2ca3acfc79,Male,83,"High school"
+2ca738c246,Male,70,"College advanced"
+2ca2942a16,Male,83,College
+2caeb00295,Male,25,College
+2cb24c5831,Female,38,College
+2ca7338688,Male,30,"High school"
+2ca6ded614,Male,52,"High school"
+2ca9b5e884,Female,60,"High school"
+2ca5d93c90,Male,30,College
+2ca3becc57,Female,18,"High school"
+2ca5069257,Female,56,College
+2cb1d51622,Female,43,"High school"
+2ca5fa7a97,Male,78,"High school"
+2ca8c1ba65,Male,65,Basic
+2ca751c208,Female,22,"High school"
+2ca52f1473,Female,55,"High school"
+2cad6a1218,Female,20,College
+2ca8d14682,Female,69,College
+2caf3e3234,Male,80,"High school"
+2ca772e288,Male,64,"College advanced"
+2cac251c72,Male,19,"High school"
+2cb31dfe29,Female,69,"College advanced"
+2ca62cd440,Female,73,"High school"
+2ca85d9266,Female,29,Basic
+2ca2335e19,Male,59,"High school"
+2ca7846c64,Male,54,"High school"
+2cacc83211,Female,24,"High school"
+2caf492c11,Male,32,"College advanced"
+2cacf6ea66,Female,19,"High school"
+2ca6465693,Male,24,"High school"
+2cb1d0de93,Male,37,Basic
+2caeb46229,Female,34,Basic
+2cac755866,Male,51,College
+2cb2a37498,Male,29,"High school"
+2ca99d0654,Female,73,Basic
+2ca51ca479,Female,55,College
+2cb2fc8e54,Female,44,Basic
+2ca7fe5699,Female,61,"High school"
+2ca34ed851,Male,41,"High school"
+2cab5dee60,Male,46,Basic
+2cb19e0299,Male,40,"High school"
+2ca6bac879,Male,40,College
+2cadb88289,Male,75,Basic
+2ca4297a79,Female,36,College
+2caea87807,Female,68,"High school"
+2caaee8677,Male,40,"High school"
+2cb3170024,Male,59,College
+2ca3960437,Female,45,"High school"
+2cac2a3075,Female,24,College
+2ca9372629,Male,41,"College advanced"
+2cb3207e15,Female,65,"High school"
+2ca856bc73,Male,25,"High school"
+2ca36f6c15,Female,60,College
+2cb05e3e70,Male,67,"High school"
+2ca6775c42,Male,53,College
+2ca46ffc14,Male,78,"High school"
+2ca36cd817,Female,49,"High school"
+2ca9777289,Female,37,"College advanced"
+2caa1cae93,Female,48,"High school"
+2cafa67427,Male,30,College
+2caafa5c48,Male,44,College
+2cac8c0040,Male,47,Basic
+2cad269289,Female,50,College
+2ca665dc60,Female,22,College
+2cac4c4031,Female,23,"High school"
+2ca2da5c69,Male,29,"High school"
+2cacd28c57,Male,66,"College advanced"
+2cb19d3009,Male,42,"High school"
+2cafd2ca59,Female,53,College
+2ca79fc462,Male,51,"High school"
+2ca6331e54,Female,61,College
+2ca4da6454,Female,60,Basic
+2caaaf0c33,Male,31,"High school"
+2caeab0c48,Male,58,"High school"
+2ca854f092,Male,25,College
+2ca3826823,Male,40,"High school"
+2cac5ef635,Female,72,"High school"
+2ca211bc78,Male,23,"High school"
+2ca41dd668,Male,50,"High school"
+2ca8b48639,Female,68,College
+2ca75a7843,Male,67,"High school"
+2caea37878,Male,57,"High school"
+2cadbe9026,Female,27,College
+2cb00fce98,Female,24,"College advanced"
+2cb2b63438,Male,36,College
+2cb0ffec59,Female,57,"College advanced"
+2ca39f5a05,Female,50,"High school"
+2caf64e859,Male,41,"High school"
+2ca8509a39,Female,63,"High school"
+2cadf1bc87,Male,54,"High school"
+2cacff3c33,Female,38,"High school"
+2cad3e2000,Male,24,College
+2ca96e1212,Male,53,"High school"
+2ca7501447,Male,70,"High school"
+2caffd2201,Female,29,"High school"
+2cab27d417,Male,57,"High school"
+2ca700dc18,Female,25,College
+2ca9a9c202,Male,28,"High school"
+2ca4c23673,Male,72,"High school"
+2cb2410459,Male,64,"High school"
+2ca8a50e15,Female,48,"High school"
+2cab254a86,Female,47,"High school"
+2cb0444e29,Male,54,College
+2cb1131034,Female,28,College
+2cacb0ae72,Male,69,College
+2cb0cc5c04,Female,34,"High school"
+2ca939ce40,Female,50,College
+2caa1f3891,Male,20,"High school"
+2cac5d3e28,Female,21,College
+2caa80f438,Female,46,"High school"
+2ca69dc224,Female,20,"High school"
+2cb2895c80,Male,47,"High school"
+2cad3d4471,Male,58,"High school"
+2cb2ca3464,Female,31,"High school"
+2caeded844,Male,67,Basic
+2cad08ce21,Female,79,"High school"
+2caa8e8217,Female,32,"High school"
+2ca7efc467,Female,33,"High school"
+2ca594c289,Female,58,Basic
+2cab179479,Female,52,"High school"
+2caac60e51,Male,41,"High school"
+2caa186296,Female,39,"High school"
+2cad6bc048,Male,65,Basic
+2caee25217,Male,25,"College advanced"
+2ca94ea008,Male,50,College
+2ca43eb064,Female,50,Basic
+2ca2c46801,Male,19,"College advanced"
+2ca4b02a67,Male,28,"High school"
+2ca9e6da44,Male,33,"High school"
+2caf578258,Female,58,"High school"
+2cae6e3a34,Male,49,College
+2caaab9c35,Male,46,"High school"
+2ca9240260,Male,19,"College advanced"
+2ca86fd098,Female,75,"College advanced"
+2cab135c00,Male,54,"High school"
+2cb1c97c54,Female,40,College
+2ca33ec063,Male,21,College
+2cb2996067,Female,28,"High school"
+2ca6f2e012,Female,36,"High school"
+2cb1b1c660,Male,27,College
+2caacb2248,Female,21,"High school"
+2ca89dfc39,Female,70,"College advanced"
+2cb15f0a17,Female,30,Basic
+2ca924de13,Female,27,"High school"
+2cb0d65c18,Female,54,Basic
+2ca5633019,Male,36,"High school"
+2ca61fc812,Male,55,Basic
+2ca80eaa58,Female,55,College
+2caf0d9052,Male,50,"High school"
+2caa3dce50,Male,56,"High school"
+2cb0fab022,Female,32,"High school"
+2cb12ed600,Female,59,College
+2ca20c5887,Male,68,College
+2ca8208e71,Female,67,"High school"
+2ca8668444,Male,59,"High school"
+2ca93d6601,Female,18,"High school"
+2ca48b2c34,Male,50,Basic
+2ca80f8693,Female,38,"High school"
+2cac533e29,Male,48,College
+2cb1bb1c43,Female,30,College
+2ca779f443,Male,33,"High school"
+2caaa4d070,Female,36,College
+2ca7370080,Male,64,College
+2caab0b051,Female,40,"High school"
+2cb0242892,Male,35,"High school"
+2cadcd0e89,Male,62,"High school"
+2ca43a2853,Female,51,"College advanced"
+2ca8dcb873,Male,67,College
+2caa6c6866,Female,45,"High school"
+2ca931ea95,Female,74,College
+2ca93b8648,Female,66,College
+2ca2573003,Female,76,Basic
+2caf5fca01,Female,63,"College advanced"
+2ca7293605,Female,34,College
+2ca412b404,Female,68,"High school"
+2ca6d6fc50,Female,45,College
+2caecc2c25,Male,69,"High school"
+2ca898e868,Female,72,Basic
+2ca6cb8a08,Male,69,College
+2ca385ce18,Female,71,"College advanced"
+2ca2cb1604,Female,60,College
+2cadfe6e60,Male,18,College
+2caef76a56,Male,54,"High school"
+2ca76b1287,Female,30,College
+2ca8f6bc78,Female,66,College
+2caa68da95,Male,57,College
+2ca4319060,Male,52,"High school"
+2ca43dd468,Male,37,College
+2cb30ea486,Male,28,"High school"
+2ca63c9c02,Female,21,College
+2ca88a4217,Male,25,College
+2caee90a88,Male,41,College
+2cb1737846,Male,33,"High school"
+2ca5463e80,Female,57,Basic
+2cb0336e26,Female,51,"High school"
+2ca7909c88,Male,47,"College advanced"
+2cae533206,Female,63,"High school"
+2cae088c51,Female,54,College
+2ca52bae01,Male,50,College
+2cad284004,Female,63,"College advanced"
+2cac449852,Female,40,"College advanced"
+2ca763ce88,Female,60,"High school"
+2cb2f93c01,Male,23,"College advanced"
+2cae25b039,Female,48,College
+2cab599878,Male,38,Basic
+2cab897257,Female,51,College
+2ca332e061,Female,69,College
+2ca5587c13,Female,76,College
+2cb28e6631,Male,69,"High school"
+2caf22ee10,Female,28,"College advanced"
+2ca6f02e37,Female,25,"High school"
+2cad6e4074,Female,21,"High school"
+2cade0aa91,Female,38,"High school"
+2ca9d91055,Male,21,"High school"
+2cb2a7ca40,Male,61,Basic
+2caed30c70,Female,31,"College advanced"
+2caa9d1e03,Female,32,"High school"
+2caaa9ee71,Female,42,Basic
+2cac00be95,Female,66,"High school"
+2ca2ae9232,Female,54,"High school"
+2ca8a5ea01,Male,33,"College advanced"
+2ca8b74c33,Female,22,"High school"
+2cb2af6874,Female,32,"High school"
+2cae2c7c18,Male,29,"College advanced"
+2cafaee456,Female,45,College
+2cb3199e79,Female,64,"High school"
+2ca75c9443,Female,80,"High school"
+2ca531c699,Female,19,College
+2cb114c895,Female,64,College
+2cad2b9c14,Male,60,College
+2ca7b53617,Male,53,"High school"
+2ca8f50e13,Female,30,Basic
+2cb1f21c52,Male,40,"High school"
+2ca9b51638,Female,42,College
+2cadf6e477,Female,64,"High school"
+2cacd61075,Female,38,Basic
+2cae2d6c08,Female,25,College
+2ca2abfe61,Female,74,"High school"
+2caad6d096,Female,49,College
+2cac3d9a54,Male,82,College
+2ca722ec55,Female,40,College
+2cb2731891,Male,60,"High school"
+2ca2c0f873,Female,34,College
+2ca284c625,Female,67,"High school"
+2ca7af3c37,Female,43,College
+2ca758ca25,Female,74,"High school"
+2cb308aa30,Male,33,"High school"
+2caf609c51,Female,22,College
+2cace6d234,Male,23,"High school"
+2cb1edf878,Female,72,"High school"
+2cabd72e19,Male,18,"College advanced"
+2ca8a95025,Male,78,"High school"
+2caab79a03,Female,61,"College advanced"
+2ca29e6692,Female,44,"High school"
+2cac323c85,Female,57,"College advanced"
+2ca3886276,Female,59,College
+2caf5ef851,Female,49,"High school"
+2ca2db3876,Female,73,"High school"
+2cadaafe66,Female,46,Basic
+2caf0e6243,Female,59,"High school"
+2caa471a19,Female,40,"High school"
+2cac6f5473,Male,68,"High school"
+2cb0d58a16,Male,60,"College advanced"
+2ca6e6b066,Female,63,"High school"
+2caecdda81,Male,33,"High school"
+2cac1a9a30,Female,28,"High school"
+2ca8852442,Male,26,"High school"
+2ca9513454,Male,25,"High school"
+2ca42a5631,Male,59,"College advanced"
+2ca515b024,Male,53,"High school"
+2cb2828640,Female,43,College
+2caae51c71,Female,66,College
+2cab056a59,Male,49,College
+2ca8fb2654,Male,41,College
+2ca6768086,Female,66,College
+2ca9442884,Male,53,"High school"
+2cace52e41,Female,40,Basic
+2ca4983893,Female,24,College
+2caf49fe80,Male,43,College
+2cac571c12,Male,44,"High school"
+2ca3caac21,Female,54,"High school"
+2ca5281648,Male,74,"College advanced"
+2cb1b44612,Female,34,"High school"
+2cb2230e86,Male,20,"High school"
+2caed12c72,Male,47,Basic
+2cabe6ba55,Female,40,"High school"
+2ca35ffe29,Female,39,College
+2cad5f2225,Male,46,"High school"
+2ca8621a63,Female,47,"High school"
+2cacb99696,Male,44,Basic
+2ca47dee82,Male,35,College
+2cae78da63,Female,71,"High school"
+2ca22f1276,Female,45,Basic
+2ca9233027,Female,30,College
+2cb201a842,Female,59,"High school"
+2ca781e245,Female,46,"High school"
+2cb1be7863,Male,79,"College advanced"
+2cabcdba03,Female,53,"High school"
+2cacc67a84,Female,60,"High school"
+2cb1dbf670,Male,36,"High school"
+2ca85f4a47,Female,25,"High school"
+2cb09cbe65,Male,54,Basic
+2ca4f21a43,Female,35,"High school"
+2ca2493406,Female,25,"High school"
+2cb340fe95,Female,49,"High school"
+2ca2bf0432,Female,56,College
+2ca56a3888,Male,24,College
+2caf2d2082,Male,70,"College advanced"
+2cab51e659,Male,19,"High school"
+2ca6d62076,Female,70,Basic
+2cad739091,Female,22,Basic
+2ca6864827,Male,49,Basic
+2ca4cd6270,Male,26,"College advanced"
+2cb224c637,Male,51,"High school"
+2cad577a35,Male,56,Basic
+2caf77e424,Male,52,"High school"
+2caaf20a60,Male,19,"High school"
+2cb1cf1220,Male,42,College
+2caddb8c60,Male,54,"High school"
+2cb23ca457,Male,31,"High school"
+2ca4685439,Female,53,College
+2ca35c6612,Male,59,"High school"
+2ca71ea000,Female,30,"High school"
+2ca4351484,Female,21,Basic
+2ca6a41684,Female,22,"High school"
+2cb1f69020,Male,46,College
+2cb0ae8e28,Male,37,College
+2ca7561830,Male,53,"High school"
+2ca656dc66,Female,21,College
+2cabcc0c84,Male,36,"High school"
+2cacaef676,Male,73,College
+2cac395813,Female,44,College
+2ca77e7246,Female,66,Basic
+2cafbaec80,Female,61,"High school"
+2cabddfa94,Female,51,College
+2cb046ec07,Male,71,Basic
+2ca2625235,Male,43,College
+2ca6278e36,Male,83,"High school"
+2cadb33265,Female,48,"High school"
+2ca944fa33,Male,39,Basic
+2cb1d28c04,Female,56,Basic
+2caefe4066,Male,45,College
+2cab493081,Female,46,College
+2cb0f2e040,Male,43,"High school"
+2ca50cdc31,Male,33,"High school"
+2cab07fe58,Male,72,"High school"
+2cb2f5e028,Male,65,"High school"
+2caad5f460,Male,18,"High school"
+2ca5355490,Female,32,"College advanced"
+2cad14a406,Male,64,"High school"
+2caa3f7241,Female,54,"College advanced"
+2cafb33034,Female,61,College
+2caa3a5e50,Female,40,"High school"
+2ca8391662,Female,41,College
+2ca2ca4473,Male,62,"High school"
+2ca3255c89,Male,74,"High school"
+2cacb26630,Male,22,"High school"
+2cb3267862,Male,44,College
+2ca8905a67,Male,46,Basic
+2caad7a298,Female,63,"High school"
+2ca5dca241,Female,51,College
+2caac1ea84,Female,79,"College advanced"
+2ca9784437,Female,29,"High school"
+2ca5b0ba74,Female,61,"High school"
+2ca36e9064,Male,60,"High school"
+2ca54cf651,Female,46,College
+2ca843c061,Male,51,"College advanced"
+2cb3317c24,Female,50,"College advanced"
+2ca82dcc34,Female,66,"High school"
+2cadc03e83,Female,45,"High school"
+2cacc3f092,Male,73,"High school"
+2cb2c5e892,Female,69,College
+2cb1947074,Female,61,"High school"
+2ca5184e64,Male,29,"High school"
+2cb25de297,Female,34,Basic
+2cb2e8c067,Male,36,"High school"
+2cae573813,Female,68,"High school"
+2cb0a47a28,Male,74,College
+2cafbbbe04,Female,68,Basic
+2ca6d0da47,Male,74,"College advanced"
+2cad6f1276,Female,57,College
+2cb0b6e015,Female,61,"College advanced"
+2ca6ecbe80,Female,29,Basic
+2cab87c416,Female,36,Basic
+2ca7f4ec66,Female,22,"High school"
+2ca3a03616,Male,71,"High school"
+2cb26bb635,Female,48,"High school"
+2cac01b844,Male,83,Basic
+2cad789095,Male,31,"High school"
+2ca4b1f605,Male,44,College
+2cab46a652,Female,20,College
+2cb290e666,Male,65,"High school"
+2cb26a0808,Female,56,College
+2caa6d3a38,Female,41,"High school"
+2cafb5d820,Male,20,"College advanced"
+2ca2cbf226,Male,71,College
+2ca5d5d682,Male,74,"High school"
+2ca90ada56,Male,73,Basic
+2cac057817,Female,27,"High school"
+2ca95bca86,Female,31,"High school"
+2ca842c663,Female,37,College
+2cabf42a55,Male,72,"High school"
+2ca920a639,Male,43,"High school"
+2cab09b616,Male,53,"High school"
+2cb1e8bc01,Female,23,College
+2ca6250451,Female,27,"High school"
+2cb3098654,Male,63,"College advanced"
+2ca4486099,Male,61,"High school"
+2cad19ae69,Male,29,College
+2ca7274c50,Female,74,Basic
+2ca63e5456,Female,35,Basic
+2ca28c8242,Male,48,"High school"
+2ca2343a24,Female,42,"High school"
+2ca4cc8666,Female,36,"High school"
+2ca5818a85,Female,76,College
+2caf78b684,Male,47,College
+2ca4c3e436,Female,52,"High school"
+2cae96bc45,Male,58,College
+2ca79a5635,Male,32,"High school"
+2ca8ceb213,Female,52,"High school"
+2ca8f5e092,Female,41,"High school"
+2cb04a3429,Male,57,"High school"
+2cb2437a18,Female,61,"High school"
+2ca2161220,Male,50,"High school"
+2cadb68e37,Male,67,"High school"
+2ca3db3252,Female,79,"College advanced"
+2cb231aa07,Female,73,"High school"
+2cab6b6854,Male,75,"High school"
+2ca4693a12,Female,52,Basic
+2ca3636e96,Male,23,"High school"
+2ca311f282,Male,44,"High school"
+2ca72e5e11,Female,51,"High school"
+2ca23f9817,Female,50,College
+2cab801266,Male,23,College
+2cae389893,Male,38,College
+2ca8682825,Male,67,"High school"
+2ca94b4449,Male,22,"High school"
+2ca5841e81,Female,18,College
+2cb1bbf817,Male,42,"College advanced"
+2cafab9c61,Female,57,"High school"
+2ca76da622,Female,56,"High school"
+2ca5579656,Male,33,College
+2caf05d401,Female,25,"High school"
+2cb1e02411,Male,37,"High school"
+2caa48d264,Female,19,"College advanced"
+2cab2b1c58,Male,41,"High school"
+2cb2f79875,Male,45,College
+2ca2b24896,Female,61,"High school"
+2cad71ce43,Female,38,Basic
+2ca4f36e17,Male,19,College
+2ca4c68295,Female,50,"High school"
+2ca4050814,Male,35,"High school"
+2cad9dfc00,Male,72,College
+2ca8ed4803,Male,78,"High school"
+2ca4db4015,Female,61,Basic
+2ca3039c81,Male,25,College
+2caa5f7017,Female,28,"College advanced"
+2cb004a273,Female,27,"High school"
+2ca9521051,Male,68,"College advanced"
+2ca7d39016,Male,19,"College advanced"
+2cb258ce21,Female,42,"High school"
+2cab554c25,Male,23,"College advanced"
+2ca989a637,Male,73,"College advanced"
+2ca50c0031,Male,57,"High school"
+2caf342857,Female,30,Basic
+2cb056be43,Male,49,College
+2cac985847,Female,31,"High school"
+2ca3b13401,Male,30,"High school"
+2ca9beb266,Male,44,College
+2cb23a2e61,Male,19,"High school"
+2ca3154496,Male,26,"College advanced"
+2ca3421281,Female,58,College
+2ca4478456,Female,64,College
+2caf28f217,Male,19,College
+2cb0629434,Female,61,"High school"
+2ca6c80609,Male,55,College
+2ca8ae7819,Female,19,"High school"
+2cb0551a73,Male,51,"High school"
+2cae734e45,Male,57,"High school"
+2cab014601,Female,40,College
+2cad9b3684,Male,36,"College advanced"
+2ca3c82282,Female,35,"High school"
+2cb1123468,Female,78,College
+2ca504b219,Male,59,College
+2ca78b7e47,Female,45,"High school"
+2ca5339c35,Female,21,Basic
+2ca3b9b858,Male,54,"High school"
+2cadf7c031,Male,33,"High school"
+2caade7877,Male,25,"High school"
+2cafc37a03,Female,39,College
+2cac3b1006,Female,57,College
+2ca3e3c026,Female,31,College
+2ca3b06255,Male,48,"High school"
+2ca6919296,Female,20,"College advanced"
+2caf7a5a13,Male,51,"High school"
+2ca5fe3006,Male,64,College
+2ca4563e87,Female,29,College
+2ca40d9676,Male,61,"High school"
+2ca4a4fe06,Male,30,College
+2ca9f53a51,Female,75,College
+2caa1a1a92,Female,60,Basic
+2ca8a7a232,Female,66,College
+2cab408e13,Male,23,College
+2cab238853,Female,35,Basic
+2caa7bae69,Male,24,"High school"
+2cb11d5673,Female,43,"High school"
+2cb04bd876,Female,32,"High school"
+2cb1864c92,Male,45,"High school"
+2ca7037078,Male,46,"High school"
+2cad220a32,Female,69,"High school"
+2ca25b7280,Female,41,"High school"
+2cab1b0406,Male,23,"High school"
+2caf384c81,Female,56,"High school"
+2cb1262a62,Male,26,"High school"
+2caead8c94,Male,72,College
+2cacfe6a18,Male,40,"High school"
+2caf050241,Male,63,"High school"
+2cb30dc868,Female,72,College
+2ca9733a56,Male,27,College
+2cb082c442,Female,64,"College advanced"
+2ca982c687,Female,70,Basic
+2ca7684216,Female,56,"High school"
+2ca79ede53,Female,60,"High school"
+2cadbbf215,Male,23,"High school"
+2cb28cc286,Male,25,"High school"
+2ca6227a39,Female,68,Basic
+2ca5490481,Female,60,College
+2ca9d33412,Male,74,"College advanced"
+2cacb44648,Female,40,College
+2cad679c65,Female,68,Basic
+2ca521e082,Male,72,College
+2cad4b9075,Male,65,"High school"
+2ca64d5442,Male,40,College
+2cabf9d446,Female,52,College
+2cab659677,Female,60,College
+2cb1744a30,Male,67,Basic
+2ca5afde87,Male,40,"High school"
+2ca91b4234,Male,35,"High school"
+2caa785290,Male,74,College
+2ca911a624,Female,84,College
+2cb2ab4e68,Male,36,"High school"
+2ca2bb9e62,Male,57,"High school"
+2cb14b3c25,Male,42,"High school"
+2cadd75e71,Male,31,Basic
+2ca4e2f269,Female,69,"High school"
+2cb0db7a91,Female,46,College
+2ca8a41e94,Male,54,"High school"
+2cabbf4617,Female,23,Basic
+2cad2e1c52,Male,52,"High school"
+2caff66a19,Male,29,"High school"
+2ca2ffdc75,Male,75,"High school"
+2cb2d02496,Male,20,College
+2ca3ddbc40,Male,69,"High school"
+2cade1a427,Male,67,"College advanced"
+2ca8b0f829,Male,30,"High school"
+2ca2a1cc18,Male,20,"High school"
+2ca92d8a52,Male,32,"High school"
+2ca8b8fa68,Male,44,"High school"
+2ca5a1d833,Female,35,Basic
+2ca2b68047,Female,62,"High school"
+2ca9950e37,Male,55,"High school"
+2cae79ac22,Female,43,College
+2ca9ee6e40,Male,22,"College advanced"
+2cad56a880,Female,55,Basic
+2ca391b843,Male,37,"College advanced"
+2ca4617491,Female,52,"High school"
+2ca2a60e79,Male,78,College
+2ca9007635,Female,38,"College advanced"
+2cac65fe25,Female,33,College
+2cb03d6460,Female,21,College
+2ca2742240,Male,62,"High school"
+2caa904460,Female,18,College
+2ca848ca03,Female,20,College
+2ca9ac8804,Male,25,"College advanced"
+2ca71cb674,Male,66,College
+2ca5411610,Male,18,Basic
+2cac0b7c80,Female,60,College
+2cb339c456,Male,29,College
+2cae940072,Female,42,"High school"
+2caa8f5473,Female,69,"College advanced"
+2ca9d83481,Female,43,Basic
+2ca55dfe51,Male,21,"High school"
+2caba77228,Male,84,College
+2ca52c8045,Male,55,"High school"
+2cadb95434,Male,40,"High school"
+2cb08f3018,Male,48,College
+2caa074652,Female,54,"High school"
+2caa1d8091,Male,31,"College advanced"
+2caaebe889,Female,42,"High school"
+2ca9726846,Male,39,"High school"
+2cacd8cc73,Female,77,"High school"
+2ca3406477,Female,47,College
+2caa63bc07,Female,26,College
+2ca416f635,Female,25,"High school"
+2cb2b2ce41,Female,59,"High school"
+2cad2c7862,Female,42,"College advanced"
+2cb0b61801,Male,72,College
+2cb3281c85,Male,47,"High school"
+2ca2f5e614,Female,29,"High school"
+2cb0d9d699,Female,67,Basic
+2cae431a42,Female,57,College
+2cac851629,Female,59,"High school"
+2ca312c486,Male,35,"High school"
+2ca8965e63,Male,19,"College advanced"
+2cadf96415,Female,43,Basic
+2ca47fa683,Female,56,"High school"
+2ca2512c14,Female,49,"College advanced"
+2ca3fe3c82,Male,55,"High school"
+2caf762c61,Female,64,College
+2ca817d810,Female,41,"High school"
+2ca7a69057,Female,27,"College advanced"
+2ca88c1818,Male,25,"College advanced"
+2ca6dcec94,Male,56,"High school"
+2caba4f269,Male,23,College
+2caa7f1e46,Female,59,"High school"
+2ca9e44693,Male,45,"High school"
+2ca9f10c58,Male,79,College
+2ca259ba80,Male,32,"High school"
+2ca96b7e37,Female,50,"High school"
+2caffc3233,Male,40,College
+2ca2d02078,Female,57,College
+2cb0379249,Male,27,College
+2cab32e252,Female,51,"High school"
+2cab681693,Female,39,College
+2ca29d8a66,Female,25,College
+2cb1ae5697,Male,33,"High school"
+2caeb1b077,Female,47,"College advanced"
+2cae87f844,Male,32,"High school"
+2ca538ba09,Female,73,College
+2ca46af217,Female,47,College
+2ca3da4c34,Female,59,Basic
+2cacc4c257,Female,18,"College advanced"
+2ca93aaa62,Female,68,"High school"
+2ca4d53242,Male,49,"College advanced"
+2cb0c9c833,Male,36,"High school"
+2ca7aa2867,Male,20,College
+2caa9ef485,Male,43,"High school"
+2cafcf6469,Female,60,"High school"
+2cb11fd618,Male,23,College
+2ca65da847,Female,36,"High school"
+2ca8579833,Female,47,"High school"
+2ca2d6ec13,Female,61,"College advanced"
+2ca32f7a42,Female,21,"High school"
+2cb0b53c35,Male,54,Basic
+2cb1db2434,Male,44,"High school"
+2ca458d287,Female,80,Basic
+2caac38e91,Female,30,College
+2caa398c36,Male,66,"High school"
+2cab432c26,Female,22,College
+2ca32dcc12,Female,49,"High school"
+2cb12b5c45,Female,27,College
+2ca97a0608,Female,47,"High school"
+2ca5c87020,Male,70,"High school"
+2caf042692,Female,33,"College advanced"
+2ca78d3668,Male,41,"High school"
+2ca5c4ec26,Female,53,"High school"
+2cacae2485,Male,65,College
+2ca8296c45,Female,23,"High school"
+2ca275d045,Female,45,"High school"
+2cae9bbc66,Male,71,College
+2ca70d0237,Female,73,"College advanced"
+2ca62bf815,Female,24,College
+2cae424802,Female,58,"High school"
+2ca626b277,Male,19,"High school"
+2cac3f4830,Male,71,College
+2caa2bcc99,Male,57,Basic
+2cb071b208,Male,37,College
+2ca410fc99,Female,32,"College advanced"
+2cb32e1651,Female,25,College
+2ca8794484,Female,45,"High school"
+2cb2181406,Male,45,Basic
+2caef07679,Male,65,"High school"
+2caec72296,Male,73,"High school"
+2cae88d478,Male,81,"High school"
+2cadde2a43,Female,47,Basic
+2caf282070,Female,68,Basic
+2cb0142437,Male,46,"High school"
+2ca8027a56,Male,81,College
+2cad1f8a06,Female,29,"High school"
+2ca4395634,Female,32,"College advanced"
+2ca3c74671,Female,69,College
+2ca453b482,Male,53,"High school"
+2ca585cc98,Female,26,"High school"
+2caf1b3286,Male,83,College
+2ca5d14e67,Male,37,"High school"
+2ca74a2474,Male,45,"High school"
+2cb0ebe226,Male,43,"High school"
+2ca8717e08,Female,18,Basic
+2caaf98a86,Female,51,Basic
+2cb2e03279,Male,23,Basic
+2caa94ae47,Female,47,"High school"
+2ca7bb4484,Male,18,"High school"
+2cb2f50422,Female,58,College
+2cb10de893,Male,60,"High school"
+2cab846866,Female,51,"High school"
+2ca2d8a432,Female,57,"High school"
+2ca3a7d469,Male,53,Basic
+2cac5b9a32,Male,51,"High school"
+2ca4ea1830,Female,67,"High school"
+2ca7187e79,Female,33,Basic
+2cab5a7470,Male,51,College
+2ca9709c37,Female,46,College
+2cb24dfc04,Male,32,"High school"
+2ca36a4e71,Female,22,"High school"
+2ca93f1e40,Female,60,"High school"
+2cb140e253,Female,77,"High school"
+2caf9c3862,Female,81,"High school"
+2cb1652283,Male,40,"High school"
+2caa351844,Female,52,College
+2cae3bea53,Male,44,Basic
+2ca28aca75,Male,81,College
+2ca2c38c20,Female,56,"High school"
+2ca2a7bc14,Female,40,"High school"
+2ca95e9015,Male,29,Basic
+2ca3b2ec86,Male,74,College
+2ca44f2260,Female,57,"High school"
+2cac47f473,Male,19,College
+2ca3364661,Male,48,Basic
+2ca2927259,Male,35,College
+2cac42cc26,Male,29,"College advanced"
+2ca32b4c63,Male,33,"High school"
+2cafdb4e28,Male,46,"High school"
+2cad378659,Female,28,Basic
+2cb08a2647,Female,68,"High school"
+2cafc29e57,Male,60,"High school"
+2cb20edc55,Male,60,"High school"
+2cacce3652,Male,74,"High school"
+2ca48a5a08,Male,47,College
+2ca73e1259,Male,51,"High school"
+2cab8ecc70,Female,84,College
+2cad4abe38,Male,50,"High school"
+2cae120085,Male,54,College
+2cad5c8485,Female,62,College
+2cad60c670,Female,60,"High school"
+2ca89c4e07,Female,42,"High school"
+2cacfbea53,Male,82,"High school"
+2cb1fbcc48,Female,79,"High school"
+2cadc63846,Female,68,College
+2caf80fe51,Female,59,"High school"
+2cacb52243,Male,73,College
+2cb2a44635,Male,50,"High school"
+2ca92f4225,Male,53,"High school"
+2ca81eb832,Female,28,"College advanced"
+2cab94a825,Female,40,"High school"
+2cb27c9604,Male,75,Basic
+2ca4990a83,Female,29,"High school"
+2ca3764c27,Female,29,College
+2ca64e3023,Male,41,"High school"
+2caaf2e688,Male,57,"High school"
+2cadc2e686,Male,44,"High school"
+2ca386aa23,Female,51,"High school"
+2caa844676,Male,68,College
+2cb20fae67,Male,51,Basic
+2cb246d629,Male,77,College
+2caf391e33,Female,30,"High school"
+2cabdecc85,Male,49,College
+2caed9c480,Female,35,"High school"
+2ca8e12c33,Male,66,College
+2cb2c07029,Male,72,"High school"
+2caef26a61,Male,33,College
+2cacc75628,Male,52,College
+2cb2ccc898,Female,36,College
+2ca9fc5694,Female,51,"High school"
+2ca862ec22,Male,51,"High school"
+2ca2bacc44,Male,63,College
+2ca8958272,Female,26,College
+2ca6989a18,Male,21,"High school"
+2cacf89835,Male,69,College
+2ca6bf5a90,Female,82,"High school"
+2cb2953c12,Female,63,"High school"
+2ca26d5621,Female,33,"High school"
+2cb2649a90,Male,73,College
+2cb2ce7604,Male,28,"High school"
+2cac1b7694,Female,19,College
+2cb16d8809,Male,69,"High school"
+2ca870ac03,Female,53,College
+2cb061a480,Female,46,Basic
+2caaf48a98,Female,29,"College advanced"
+2ca3f16c57,Female,39,"College advanced"
+2cacad2a34,Male,59,"High school"
+2caf5ade40,Female,49,"College advanced"
+2ca6d46881,Female,46,"High school"
+2cb121a223,Male,50,"High school"
+2cb1229c13,Female,18,"High school"
+2ca81c1a33,Female,70,College
+2cac702620,Male,24,"High school"
+2cb0015083,Male,39,College
+2cad276420,Male,63,College
+2cadfcca91,Male,50,Basic
+2cb16e5a10,Female,28,College
+2ca4832015,Male,59,"High school"
+2ca6caae41,Male,26,"High school"
+2ca8805641,Female,58,"High school"
+2cab202c39,Male,22,"High school"
+2ca339ac01,Male,26,College
+2cb0b88444,Male,46,Basic
+2ca6da6259,Female,57,College
+2caf83ba48,Male,69,"High school"
+2cb2988e67,Female,22,"High school"
+2caf73ac49,Male,31,"High school"
+2ca7a5b490,Male,25,"High school"
+2ca77c7e39,Female,50,Basic
+2cb1cbf235,Female,53,"High school"
+2ca2198237,Female,43,College
+2ca688dc28,Male,18,"High school"
+2ca53d9270,Male,77,College
+2caf625415,Female,42,"College advanced"
+2cb2f0a434,Female,39,"High school"
+2caf440e00,Female,81,"High school"
+2ca7e61e86,Female,60,"High school"
+2ca52d5c92,Female,29,College
+2cae19bc18,Male,18,"High school"
+2ca57bcc13,Female,78,"College advanced"
+2ca657b833,Female,42,"High school"
+2ca6c72a98,Male,26,"High school"
+2cae616035,Female,59,"College advanced"
+2cacf35226,Male,26,"High school"
+2cb00ace17,Male,62,"High school"
+2cae526088,Male,29,College
+2ca79d0833,Male,72,"High school"
+2ca6d1ac97,Male,76,Basic
+2cacd70037,Male,53,Basic
+2ca5834230,Male,28,College
+2ca51e7066,Female,22,College
+2ca274fe79,Female,44,"High school"
+2cac2cec31,Male,27,"College advanced"
+2caf76f486,Male,51,"High school"
+2ca6153c62,Female,44,College
+2cb252f263,Female,35,"College advanced"
+2ca3211a94,Male,69,Basic
+2cafca6489,Female,54,College
+2ca3248091,Male,20,"High school"
+2caf155618,Male,41,College
+2cb0fc8655,Male,59,College
+2cacab5e45,Male,58,"High school"
+2ca4f60248,Female,51,"High school"
+2ca7862473,Male,51,"College advanced"
+2ca405da88,Female,31,"College advanced"
+2caaf55c06,Male,68,Basic
+2caae89644,Female,33,College
+2cb1b7ac88,Male,21,College
+2cb08d8c50,Male,74,"High school"
+2ca9f8b401,Female,28,Basic
+2ca93c7690,Female,67,"High school"
+2cac542430,Female,65,College
+2cb0900208,Female,40,College
+2cb253c410,Female,41,Basic
+2ca72aee78,Male,58,"College advanced"
+2ca464da57,Male,55,"College advanced"
+2ca5985061,Female,49,College
+2cade77622,Female,44,"High school"
+2cab142e69,Male,58,"High school"
+2ca4a0b283,Male,64,"High school"
+2cab45d429,Female,47,College
+2cafe90486,Female,24,"High school"
+2ca2676619,Female,42,Basic
+2cab0b7892,Male,70,"High school"
+2cb2a6e405,Female,52,"High school"
+2cac8cdc81,Male,67,Basic
+2ca899c429,Female,69,"High school"
+2ca4b93a71,Female,20,"High school"
+2cb0ea2010,Female,20,Basic
+2cabf7b837,Male,29,College
+2cab02ea35,Male,76,"College advanced"
+2ca62a2207,Male,18,"High school"
+2ca38d7612,Female,73,"College advanced"
+2cae6f0c79,Male,22,Basic
+2cafe06c75,Female,71,"High school"
+2cae5d5033,Male,50,Basic
+2cab7f4021,Female,49,"College advanced"
+2ca8787256,Male,67,"High school"
+2cb29e8870,Female,25,College
+2cac34c639,Female,39,"High school"
+2caeb37247,Male,54,"High school"
+2caacbf433,Male,36,College
+2caf3c8e91,Male,25,"High school"
+2ca300f485,Male,39,Basic
+2cb1aa0036,Female,59,"High school"
+2cb159ce94,Male,84,College
+2cb070d663,Male,23,"High school"
+2ca4b5ac02,Female,41,College
+2cadfd9c13,Female,65,College
+2cad889e78,Female,60,Basic
+2ca539b450,Male,41,"College advanced"
+2cb2259850,Male,63,"High school"
+2cb0eb0653,Male,24,"High school"
+2caa31d082,Male,35,College
+2cb133f465,Female,35,"College advanced"
+2cafcb4001,Male,68,College
+2ca58a2c06,Female,27,"High school"
+2cae908681,Male,37,College
+2ca90e4a23,Male,22,"High school"
+2cb119c854,Female,27,"High school"
+2ca7ff5009,Male,50,"High school"
+2ca81a6238,Female,39,"High school"
+2cb1a16861,Male,30,"High school"
+2ca53e7823,Female,32,College
+2ca8ada683,Male,76,"High school"
+2cac695a96,Male,82,Basic
+2cade6a474,Female,29,"High school"
+2cafdf9053,Male,40,"High school"
+2ca5617864,Female,67,College
+2ca6128a02,Male,26,"High school"
+2cb01c7621,Male,40,"High school"
+2cae7c2219,Male,36,Basic
+2cb0066412,Female,52,College
+2ca7abe062,Female,50,"High school"
+2cafe65220,Male,73,Basic
+2ca42dc692,Female,45,College
+2ca76cca29,Female,32,"High school"
+2cabe8f456,Female,51,"High school"
+2ca6acae82,Female,57,"High school"
+2cb1883661,Female,52,"High school"
+2ca20a5000,Male,25,"High school"
+2cab63e866,Female,20,"College advanced"
+2ca6e78c88,Female,47,"College advanced"
+2ca4f8aa72,Female,45,"High school"
+2ca6c10807,Female,34,"High school"
+2cad00fe72,Female,18,College
+2caf71f474,Male,21,College
+2ca5ec5621,Female,49,Basic
+2cb0fb8c38,Male,54,"High school"
+2cb27d7287,Male,34,College
+2ca283ea41,Male,52,College
+2cb1a5b430,Male,43,"High school"
+2cb16a1878,Male,47,College
+2ca8ab1c03,Female,21,"High school"
+2cb241d638,Female,19,"High school"
+2ca9ef5e40,Male,59,Basic
+2cabf6e633,Male,19,"High school"
+2ca3b58054,Male,59,College
+2cb11b8a60,Male,79,"College advanced"
+2ca2df7a77,Male,55,"High school"
+2ca8df7430,Male,81,College
+2cab8f9e76,Male,43,"High school"
+2cafb16491,Female,37,"High school"
+2ca5d6b279,Male,70,Basic
+2ca63a1256,Female,83,"High school"
+2cb2d53813,Female,34,"High school"
+2ca5f01653,Male,25,"High school"
+2ca5c26c45,Male,28,Basic
+2ca7695065,Male,31,"College advanced"
+2cb0a95c63,Male,62,"High school"
+2ca2290e17,Female,49,"College advanced"
+2ca9f03084,Male,53,"High school"
+2ca7409c18,Male,71,College
+2cab733818,Male,19,"High school"
+2ca8da2401,Female,48,"High school"
+2cac826441,Male,60,"High school"
+2cad1dd223,Female,37,College
+2ca5c33e72,Male,73,"High school"
+2cabf0ce75,Female,69,Basic
+2cae821c61,Female,19,College
+2cab8b2a94,Male,32,"High school"
+2cad476227,Female,61,"College advanced"
+2caf111e55,Female,68,"High school"
+2cb27f3469,Female,64,"High school"
+2ca2979001,Male,73,"High school"
+2cac85fc25,Female,30,College
+2ca8c61a75,Male,30,"College advanced"
+2cadebd639,Female,49,"High school"
+2caeeaae35,Male,60,"High school"
+2ca2f96a54,Male,82,"High school"
+2cac26ca55,Female,46,"High school"
+2caec9b654,Male,18,"High school"
+2ca9dd8e38,Male,45,"High school"
+2ca6543485,Male,56,"High school"
+2ca6e4e411,Male,63,"High school"
+2ca556ba59,Male,29,"College advanced"
+2cacf7c679,Female,66,"High school"
+2cb2e38e45,Female,60,College
+2cab62f818,Female,63,"High school"
+2caba27293,Female,52,Basic
+2caff32227,Female,20,"High school"
+2ca2af6e93,Female,30,College
+2cae8de821,Male,39,College
+2ca715b821,Male,40,College
+2ca7f0aa39,Female,25,Basic
+2ca3bdf093,Female,38,College
+2ca6162c30,Female,79,Basic
+2ca9cd4424,Male,60,"High school"
+2ca5b80823,Male,65,Basic
+2caa648e32,Male,48,College
+2ca5cdb602,Male,62,College
+2ca2668a05,Male,37,"High school"
+2cacc20632,Female,71,College
+2cac7e0485,Male,51,College
+2cab150a21,Male,33,"High school"
+2ca7d7fa22,Male,28,"High school"
+2cb2ac2092,Male,49,Basic
+2ca2be3231,Female,23,College
+2ca7494882,Female,75,Basic
+2cb1a23a28,Male,39,"High school"
+2ca7f18613,Female,83,College
+2ca5202887,Male,59,"High school"
+2caa294223,Female,43,"High school"
+2ca7ce4061,Female,55,"High school"
+2caefb9802,Male,52,Basic
+2ca2129838,Female,73,"High school"
+2cb1549c80,Female,20,College
+2caf028289,Male,27,"High school"
+2cadd83060,Female,52,"High school"
+2ca31b3433,Female,20,"High school"
+2cae409a57,Male,30,College
+2cab440877,Male,46,"High school"
+2caa62e084,Male,59,College
+2ca6f82603,Female,24,College
+2cb0227a23,Female,36,Basic
+2ca8449270,Male,61,"High school"
+2ca8a19e76,Female,39,"High school"
+2cabba3205,Female,34,College
+2cad7bec19,Male,18,"High school"
+2ca689ae23,Female,39,"High school"
+2cb020b882,Male,61,"High school"
+2cad046e98,Female,41,"High school"
+2cac93da84,Female,56,"High school"
+2cab3a8087,Female,42,"High school"
+2cad55cc47,Female,27,"High school"
+2ca252e480,Female,35,"High school"
+2cb2dbe671,Female,50,College
+2ca8087e07,Female,54,"College advanced"
+2cb2681442,Female,36,"High school"
+2cadee7402,Female,59,"High school"
+2ca2cf4e12,Female,51,"High school"
+2caabbc874,Female,63,"High school"
+2caac2bc22,Male,23,"High school"
+2cb1ea6029,Male,61,"High school"
+2ca4762878,Female,51,"High school"
+2ca98d4882,Female,46,"High school"
+2cb1a76c22,Female,23,"High school"
+2cae727c65,Female,58,Basic
+2cb1463261,Male,64,College
+2ca2259e15,Male,72,College
+2cb027ac53,Female,55,"High school"
+2cb010a095,Male,50,Basic
+2cb1626676,Male,73,Basic
+2ca46d7221,Male,29,College
+2ca7b96e00,Female,50,College
+2caf350440,Male,39,College
+2ca4bab646,Female,47,College
+2cad49ec97,Female,79,"College advanced"
+2caa965c14,Male,74,College
+2caf6fec95,Male,42,College
+2cac385e00,Female,55,College
+2cb1c7ce82,Male,42,College
+2ca7720616,Female,79,College
+2ca634d647,Female,52,College
+2ca41a5c08,Female,46,"High school"
+2ca4431006,Male,42,"High school"
+2caf1c2c80,Male,30,"High school"
+2cb2266a37,Male,40,College
+2cb0bfa006,Male,82,"College advanced"
+2ca5ba9274,Female,76,College
+2cadca6605,Female,35,Basic
+2cad240857,Male,26,"High school"
+2caa463e51,Male,50,College
+2cafc79433,Male,19,"High school"
+2ca2994864,Female,82,"High school"
+2cab75c217,Female,55,College
+2ca66b2243,Female,64,College
+2cae4d2e28,Female,19,"High school"
+2cb0c31a97,Female,20,"High school"
+2ca5b64665,Male,43,College
+2caf820216,Male,53,"College advanced"
+2ca52e3800,Female,23,"College advanced"
+2cab4d7257,Male,58,College
+2ca9ce2019,Male,21,"High school"
+2ca7099288,Female,26,"High school"
+2ca24f6097,Female,19,"High school"
+2ca55fc063,Female,70,"College advanced"
+2caf593a36,Female,26,"High school"
+2ca7f33473,Female,72,"High school"
+2ca99b3a08,Female,53,"High school"
+2cafb86215,Female,20,"High school"
+2caff07075,Male,72,Basic
+2caad11c58,Female,71,Basic
+2cae7f7443,Female,28,College
+2cb08e5e71,Female,49,Basic
+2ca3c58e75,Male,19,Basic
+2cafa16048,Female,21,College
+2cac4ee886,Male,63,"High school"
+2ca50e8a67,Female,29,College
+2ca40f4452,Female,80,"High school"
+2ca938f245,Male,36,College
+2ca6802608,Male,56,"High school"
+2cab666849,Female,60,College
+2ca635c681,Male,61,College
+2ca8e64a60,Female,83,"High school"
+2cae353c88,Male,73,"High school"
+2cad961892,Female,65,College
+2caa081846,Female,19,"High school"
+2cb1166c77,Male,75,"High school"

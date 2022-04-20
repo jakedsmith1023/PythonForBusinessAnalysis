@@ -1,0 +1,11 @@
+Name,Age,Height_Inches,Occupation,Salary,Employment_date,Marital_Status,kidsCount,Height_Percentile
+Hope Lloyd,20,65,Lawyer,204123001.0,2019-02-04 00:00:00,Single,,81.25
+Jerald Bryan,23,57,Doctor,156798445.0,2010-04-08 00:00:00,Married,0.0,71.25
+Joan Kennedy,45,58,Veterinarian,87010.0,2016-12-01 00:00:00,Married,2.0,72.5
+Jesus Jefferson,58,51,Librarian,45745.0,2019-01-02 00:00:00,Divorced,3.0,63.75
+Patty Guerrero,51,63,Geologist,32789.0,2018-10-01 00:00:00,Single,1.0,78.75
+Rachel Chandler,66,61,Teacher,53778.0,2012-06-06 00:00:00,Single,0.0,76.25
+Brendan Chapman,26,61,Doctor,310012000.0,2014-04-03 00:00:00,Married,,76.25
+Rosemary Coleman,33,75,Software engineer,104456009.0,2018-12-01 00:00:00,Married,4.0,93.75
+Shelly Thornton,35,75,Librarian,32077788.0,2020-03-03 00:00:00,Divorced,2.0,93.75
+Desiree Washington,66,72,Sales,83456009.0,2018-09-10 00:00:00,Single,0.0,90.0

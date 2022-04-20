@@ -1,0 +1,910 @@
+customerKey,sex,isMarried,isEmployed,hasNewBaby,age,educationLevel,occupationCategory,annualIncome,race,primaryLanguage,childrenNum,avgPurchaseAmount
+a86559e8-5,Female,0,1,0,40,Basic,"Office administrative support",0,"African american",English,0,218.16
+a8655ab0-5,Female,1,1,0,42,"High school","Office administrative support",21761,White,Spanish,0,261.05
+a8655b50-5,Male,0,1,0,58,"High school","Business and finance",0,"African american",Spanish,0,222.90
+a8655bdc-5,Male,1,1,0,37,"High school","Material production",149352,White,Asian,7,343.05
+a8655c5e-5,Male,0,0,0,75,College,NULL,115755,White,Spanish,0,277.74
+a8655d80-5,Male,0,1,0,58,"High school",Education,68724,White,Spanish,0,220.35
+a8655e0c-5,Female,0,1,0,32,College,Management,44354,White,English,2,295.72
+a8655eac-5,Male,1,0,0,26,"High school",NULL,115301,White,English,2,358.24
+a8655f2e-5,Male,1,1,0,35,"High school","Business and finance",162762,White,English,2,386.34
+a86560b4-5,Male,1,1,0,36,"College advanced",Management,0,White,English,4,257.49
+a8656226-5,Female,1,0,0,34,College,NULL,82298,White,English,4,462.37
+a865629e-5,Male,1,0,0,22,College,NULL,0,White,English,1,283.33
+a865638e-5,Female,1,1,0,28,College,"Fire and safety",41427,"African american",English,0,290.04
+a8656500-5,Female,1,1,1,38,"High school",Sales,125663,"African american",English,1,385.68
+a8656578-5,Male,0,1,0,35,College,"Office administrative support",16683,White,English,2,206.27
+a86565f0-5,Female,0,1,0,44,"High school","Food preparation",88829,White,English,0,252.45
+a8656672-5,Female,0,1,0,45,"High school",Sales,149746,Asian,English,0,233.24
+a8656762-5,Female,0,0,0,64,"High school",NULL,105250,White,English,0,261.35
+a86567da-5,Female,0,1,0,39,"High school","Healthcare technology",172635,White,English,1,300.90
+a86568ca-5,Male,1,1,0,21,"High school","Software engineering and math",1299,White,English,2,292.29
+a865694c-5,Male,0,1,0,49,College,"Business and finance",26195,"African american",English,0,213.82
+a86569c4-5,Male,1,1,0,54,Basic,Transportation,0,White,Spanish,0,237.80
+a8656b36-5,Female,0,1,0,58,"High school",Management,0,"African american",Spanish,0,250.40
+a8656c30-5,Female,0,1,0,44,"High school","Healthcare practice",45086,White,English,0,195.65
+a8656ca8-5,Female,1,0,0,29,College,NULL,8047,White,Spanish,3,262.08
+a8656d98-5,Male,1,1,0,54,"High school",Legal,36158,White,English,0,238.77
+a8656e10-5,Male,1,1,0,20,"High school","Social services",115029,White,English,3,434.14
+a8656e88-5,Male,1,1,0,27,"High school","Healthcare support",0,White,English,3,270.71
+a8656ffa-5,Male,0,0,0,79,"High school",NULL,94257,White,English,0,320.66
+a8657072-5,Female,1,1,0,61,College,Sales,0,White,Spanish,0,320.68
+a865716c-5,Female,0,1,0,61,"High school",Sales,198796,White,English,0,269.30
+a86572de-5,Male,0,1,0,42,"High school","Personal care",4528,White,Spanish,0,240.17
+a86573ce-5,Male,0,1,0,51,"College advanced",Transportation,41544,"African american",English,0,255.80
+a8657446-5,Male,0,1,0,57,"High school","Office administrative support",146339,White,English,0,259.59
+a86574be-5,Male,0,0,0,46,College,NULL,68604,White,English,0,204.52
+a8657540-5,Male,1,0,0,71,College,NULL,177166,White,English,0,341.01
+a8657630-5,Female,0,0,0,71,College,NULL,22711,White,English,0,189.59
+a86576b2-5,Female,0,0,0,73,"High school",NULL,118685,White,Spanish,0,266.10
+a865772a-5,Female,1,1,0,28,"High school",Management,73918,White,English,2,350.04
+a86577a2-5,Female,0,1,0,61,"High school",Management,26923,"African american",English,0,201.37
+a865781a-5,Male,0,1,0,55,"High school",Education,59628,White,English,0,234.26
+a8657892-5,Male,0,0,0,49,"High school",NULL,31349,White,Spanish,0,218.35
+a865790a-5,Female,1,1,0,66,College,Management,47284,White,English,0,269.63
+a86579fa-5,Female,0,1,0,38,College,"Construction and extraction",67416,White,English,2,282.70
+a8657aea-5,Female,1,1,0,37,"High school",Transportation,187719,White,English,6,350.40
+a8657c5c-5,Male,0,1,0,44,College,Sales,17116,"African american",Spanish,0,231.90
+a8657cd4-5,Male,0,1,0,35,College,"Machine maintenance",52113,"African american",English,2,275.08
+a8657d56-5,Female,0,1,0,58,"High school",Sales,38085,White,European,0,248.83
+a8657dce-5,Male,0,1,0,25,College,"Machine maintenance",96022,White,English,4,442.06
+a8657e46-5,Female,1,0,0,78,"High school",NULL,2951,White,Other,0,205.34
+a8657ebe-5,Male,0,0,0,61,College,NULL,29515,White,English,0,194.77
+a8657f36-5,Female,1,1,0,42,Basic,"Office administrative support",76611,White,English,0,340.19
+a8657fae-5,Male,0,1,0,58,College,Sales,18073,White,English,0,233.56
+a8658030-5,Female,0,0,0,29,Basic,NULL,44082,White,English,0,265.89
+a86580a8-5,Female,0,1,0,21,"High school","Material production",59994,White,Other,4,304.64
+a8658120-5,Male,0,1,0,60,Basic,Management,29963,White,English,0,218.03
+a8658198-5,Female,1,0,0,75,"High school",NULL,189654,White,English,0,321.08
+a8658288-5,Male,0,1,0,74,"High school","Business and finance",197145,White,English,0,309.32
+a865830a-5,Female,1,1,0,34,College,"Healthcare support",2827,"African american",English,1,284.77
+a86583fa-5,Female,1,0,0,20,"High school",NULL,8907,Asian,English,3,246.36
+a8658472-5,Female,0,0,0,39,College,NULL,57993,"African american",English,5,350.47
+a86584ea-5,Female,0,0,0,72,"High school",NULL,193365,White,English,0,273.98
+a8658562-5,Male,1,1,0,43,Basic,Sales,24126,White,English,0,196.12
+a86585e4-5,Female,0,1,0,59,"High school","Software engineering and math",60587,White,Spanish,0,258.47
+a865865c-5,Female,1,0,0,65,"College advanced",NULL,27607,White,English,0,241.40
+a86586d4-5,Female,1,1,0,48,College,Transportation,0,"African american",English,0,255.32
+a865874c-5,Male,0,1,0,34,"High school","Healthcare practice",126149,White,English,0,231.85
+a86587c4-5,Male,1,0,0,41,College,NULL,147890,"African american",English,0,304.91
+a865883c-5,Male,0,1,0,23,"High school","Personal care",82360,White,European,8,365.38
+a86588b4-5,Male,0,0,0,69,"High school",NULL,4659,White,Spanish,0,215.32
+a865892c-5,Male,1,1,0,59,College,"Office administrative support",78443,"African american",English,0,260.16
+a86589a4-5,Female,0,1,0,22,"High school","Construction and extraction",174047,White,Spanish,3,328.05
+a8658a26-5,Female,1,1,0,43,"College advanced","Sanitation and maintenance",181176,White,English,0,369.96
+a8658a9e-5,Female,0,1,0,56,"High school","Machine maintenance",39895,White,Spanish,0,199.93
+a8658b16-5,Female,0,0,0,67,"High school",NULL,0,White,English,0,244.30
+a8658b8e-5,Female,0,1,0,44,College,"Healthcare practice",13273,White,Asian,0,284.48
+a8658c06-5,Female,0,1,0,51,Basic,"Material moving",93527,White,European,0,313.67
+a8658cf6-5,Male,0,1,0,42,Basic,"Healthcare support",66893,"African american",Spanish,0,225.62
+a8658d78-5,Female,0,1,0,60,"High school","Sports, media, and entertainment",71949,White,English,0,256.32
+a8658dfa-5,Female,1,1,0,39,"High school","Office administrative support",192740,White,English,2,357.22
+a8658e72-5,Male,1,1,0,50,Basic,Legal,0,"African american",English,0,237.89
+a8658eea-5,Female,0,1,0,41,"College advanced","Sanitation and maintenance",74761,"African american",European,0,226.46
+a8658f62-5,Male,0,0,0,49,College,NULL,31860,White,Spanish,0,238.12
+a8658fe4-5,Female,0,1,0,55,"High school",Education,186643,White,Spanish,0,253.38
+a865905c-5,Female,0,1,0,25,College,"Sanitation and maintenance",85756,White,English,0,264.30
+a8659156-5,Female,1,1,0,62,"High school",Sales,0,White,English,0,276.34
+a86591ce-5,Male,0,0,0,77,Basic,NULL,42409,"African american",English,0,277.55
+a8659246-5,Male,1,1,0,59,College,"Software engineering and math",122523,White,English,0,323.42
+a86592be-5,Female,0,1,0,50,"High school",Transportation,1440,White,Spanish,0,197.96
+a8659336-5,Male,1,1,0,21,"High school","Healthcare support",60165,White,English,6,302.65
+a86593ae-5,Female,0,1,0,43,College,"Food preparation",12245,White,English,0,242.78
+a8659430-5,Female,1,0,0,79,"College advanced",NULL,51702,White,Spanish,0,312.99
+a86594a8-5,Male,0,0,0,72,College,NULL,96264,White,English,0,266.47
+a8659516-5,Female,1,1,0,32,"High school","Business and finance",179702,White,English,3,364.54
+a8659610-5,Female,1,1,0,39,"College advanced",Transportation,55977,White,Spanish,5,293.52
+a8659688-5,Female,1,1,0,55,Basic,"Construction and extraction",62962,White,English,0,331.56
+a8659732-5,Male,0,1,0,49,"High school",Education,52392,White,English,0,299.81
+a86597b4-5,Female,1,1,0,28,"High school","Office administrative support",28726,White,English,0,285.17
+a8659836-5,Female,0,0,0,83,"College advanced",NULL,0,White,English,0,203.54
+a86598b8-5,Male,0,1,0,69,College,"Personal care",13678,"African american",English,0,200.20
+a86599b2-5,Female,0,1,0,43,College,"Machine maintenance",17487,White,English,0,208.22
+a8659a34-5,Male,0,1,0,43,College,Sales,0,White,English,0,249.27
+a8659aac-5,Male,0,1,0,58,College,Management,42481,White,English,0,276.98
+a8659b24-5,Female,0,0,0,69,"High school",NULL,0,White,English,0,203.80
+a8659ba6-5,Female,1,0,0,67,"High school",NULL,66405,"African american",English,0,347.08
+a8659c1e-5,Female,1,1,0,36,College,"Software engineering and math",121729,White,English,3,414.20
+a8659c96-5,Male,0,0,0,70,"High school",NULL,143970,White,English,0,211.25
+a8659e6c-5,Female,0,1,0,45,College,"Personal care",150519,White,Spanish,0,305.15
+a8659ef8-5,Female,0,1,0,25,"High school","Healthcare support",77780,"African american",English,0,216.80
+a8659ff2-5,Male,1,1,0,40,"High school","Office administrative support",18570,White,European,0,274.21
+a865a06a-5,Female,0,0,0,81,"High school",NULL,47753,White,Asian,0,247.97
+a865a0e2-5,Female,0,0,0,50,Basic,NULL,197330,White,English,0,304.08
+a865a25e-5,Male,0,1,1,35,College,"Business and finance",128348,White,Spanish,2,391.04
+a865a358-5,Female,1,1,0,30,College,"Machine maintenance",96980,White,English,4,407.54
+a865a3d0-5,Male,0,1,0,22,College,Management,140757,White,European,3,423.17
+a865a448-5,Female,1,0,0,64,"High school",NULL,48199,White,Spanish,0,262.21
+a865a4ca-5,Female,1,1,0,52,Basic,"Personal care",70293,"African american",English,0,278.45
+a865a542-5,Male,0,1,0,52,"High school","Office administrative support",57144,White,Spanish,0,208.40
+a865a5ba-5,Female,1,1,0,48,"High school","Social services",40647,White,Spanish,0,322.79
+a865a632-5,Female,1,1,0,51,"High school","Healthcare support",72773,White,English,0,257.27
+a865a736-5,Female,0,1,0,36,"High school","Healthcare practice",119870,White,English,1,308.93
+a865a7ae-5,Male,1,1,0,40,"High school",Transportation,52086,White,European,2,287.54
+a865a826-5,Female,0,1,0,44,Basic,Sales,45389,White,English,0,241.69
+a865a8a8-5,Female,1,0,0,37,College,NULL,22286,White,English,4,306.85
+a865a920-5,Male,0,0,0,61,"High school",NULL,81519,"African american",Spanish,0,271.46
+a865a998-5,Male,1,1,0,27,"High school","Machine maintenance",60692,White,Spanish,5,293.91
+a865aa1a-5,Female,0,0,0,67,"High school",NULL,47040,White,English,0,275.17
+a865aa92-5,Male,1,1,0,31,Basic,"Law enforcement",125671,White,English,2,310.80
+a865ab0a-5,Male,0,1,0,43,"High school","Machine maintenance",96429,White,English,0,254.83
+a865ab82-5,Female,1,0,0,50,"High school",NULL,34062,White,English,0,289.11
+a865abfa-5,Female,0,0,0,27,"High school",NULL,21920,"African american",Spanish,6,276.11
+a865ac7c-5,Male,1,1,0,28,"High school","Construction and extraction",191044,White,English,3,416.47
+a865acf4-5,Male,1,0,0,43,Basic,NULL,72245,White,English,0,297.47
+a865ad6c-5,Female,1,1,0,28,College,Sales,4738,White,English,2,260.17
+a865ade4-5,Female,0,1,0,20,"High school","Architecture and engineering",74092,Asian,Spanish,4,384.19
+a865ae5c-5,Female,0,1,0,54,"High school",Transportation,33238,White,Spanish,0,203.44
+a865b064-5,Female,0,1,0,50,"High school",Education,87600,Asian,Spanish,0,273.87
+a865b154-5,Female,1,1,0,30,Basic,"Construction and extraction",70452,White,English,1,291.82
+a865b24e-5,Male,0,1,0,24,"High school",Sales,14810,White,Spanish,4,261.88
+a865b3b6-5,Female,1,0,0,70,"High school",NULL,0,White,Spanish,0,206.25
+a865b438-5,Female,0,1,0,60,Basic,Sales,115992,White,English,0,259.74
+a865b528-5,Male,1,1,0,22,Basic,"Fire and safety",92655,White,Spanish,3,314.86
+a865b5a0-5,Female,0,0,0,69,"High school",NULL,82249,White,Spanish,0,230.47
+a865b622-5,Female,0,1,0,62,Basic,Transportation,34364,White,Spanish,0,275.39
+a865b712-5,Male,1,1,0,56,"College advanced","Office administrative support",138765,White,Spanish,0,317.98
+a865b78a-5,Female,1,1,0,77,"High school",Management,105822,White,Spanish,0,275.31
+a865b80c-5,Female,1,1,0,34,College,Sales,199526,White,English,5,388.67
+a865b884-5,Female,0,0,0,19,"High school",NULL,12022,White,English,1,283.28
+a865b906-5,Male,1,0,0,34,"High school",NULL,15369,White,European,0,252.96
+a865b97e-5,Male,1,1,0,30,"High school","Healthcare practice",0,White,English,2,273.89
+a865b9f6-5,Male,0,1,0,63,College,"Business and finance",23635,White,English,0,226.87
+a865bae6-5,Male,1,1,0,24,"High school",Transportation,93066,White,English,3,386.10
+a865bc3a-5,Female,0,1,0,38,"High school","Food preparation",54625,White,English,4,346.75
+a865bcbc-5,Male,0,0,0,71,"High school",NULL,109641,White,Spanish,0,259.74
+a865bdac-5,Male,1,1,0,49,"High school","Food preparation",19429,Mixed,English,0,270.32
+a865be24-5,Female,1,1,0,30,Basic,"Healthcare practice",171047,White,English,5,440.88
+a865bf1e-5,Female,1,1,0,29,College,"Food preparation",147863,White,English,2,396.15
+a865bf96-5,Female,0,1,0,23,"College advanced","Social services",193840,White,Spanish,3,390.38
+a865c00e-5,Male,0,0,0,22,"High school",NULL,0,White,Asian,6,282.81
+a865c086-5,Female,0,1,0,29,"High school","Business and finance",141471,White,English,2,428.94
+a865c0fe-5,Male,1,1,0,20,"High school","Software engineering and math",41940,Asian,English,3,346.23
+a865c194-5,Male,0,1,0,51,"High school","Sanitation and maintenance",1021,White,English,0,213.79
+a865c216-5,Male,1,1,0,21,"College advanced","Sanitation and maintenance",89755,White,English,0,324.70
+a865c28e-5,Male,1,1,0,29,"College advanced",Sales,146227,White,Spanish,3,317.12
+a865c31a-5,Female,1,0,0,74,"College advanced",NULL,23121,White,English,0,268.53
+a865c39c-5,Male,1,1,0,21,"High school","Office administrative support",101666,"African american",European,2,426.70
+a865c446-5,Female,0,1,0,37,"College advanced","Healthcare practice",144496,"African american",Spanish,0,271.56
+a865c4c8-5,Female,0,1,0,41,"High school",Management,79774,White,English,0,250.75
+a865c54a-5,Male,1,1,0,57,College,"Office administrative support",79738,White,English,0,256.82
+a865c6bc-5,Male,1,1,0,26,Basic,"Office administrative support",100208,"African american",English,0,383.54
+a865c734-5,Male,1,1,0,48,"College advanced","Material moving",0,"African american",English,0,245.00
+a865c7c0-5,Male,1,1,0,59,Basic,"Healthcare support",568,White,English,0,277.00
+a865c8ba-5,Female,1,1,0,29,College,Sales,114255,White,English,4,420.05
+a865cac2-5,Male,1,0,0,48,"High school",NULL,22562,White,English,0,223.34
+a865cb44-5,Female,1,0,0,27,"High school",NULL,120346,White,Spanish,1,342.34
+a865cc34-5,Female,0,1,0,50,College,"Construction and extraction",53216,White,English,0,238.89
+a865cd56-5,Female,1,0,0,74,"High school",NULL,30175,White,Spanish,0,235.93
+a865ce00-5,Female,0,0,0,80,College,NULL,34238,White,Spanish,0,253.85
+a865ce78-5,Female,1,1,0,41,College,"Food preparation",58778,White,Spanish,0,306.44
+a865cefa-5,Male,0,0,0,72,"High school",NULL,60171,Mixed,English,0,244.70
+a865cf90-5,Female,0,1,0,63,College,"Food preparation",61429,White,English,0,278.86
+a865d012-5,Male,0,1,0,42,College,"Personal care",48500,"African american",European,0,281.17
+a865d08a-5,Female,1,0,0,76,"High school",NULL,11091,White,European,0,235.48
+a865d184-5,Female,0,0,0,70,Basic,NULL,0,White,Spanish,0,213.26
+a865d1fc-5,Female,0,1,0,56,Basic,"Material moving",54465,White,English,0,215.99
+a865d274-5,Male,1,1,0,28,Basic,"Software engineering and math",181117,"African american",European,2,393.16
+a865d2f6-5,Male,1,0,0,73,"High school",NULL,53673,White,English,0,288.94
+a865d36e-5,Male,1,1,0,44,"High school",Management,2905,White,Spanish,0,230.27
+a865d3fa-5,Male,0,0,0,70,"High school",NULL,116574,White,English,0,280.39
+a865d4a4-5,Female,1,1,0,41,College,"Office administrative support",53217,White,English,0,314.89
+a865d526-5,Female,1,1,0,50,College,"Food preparation",38075,"African american",English,0,278.43
+a865d634-5,Male,0,1,0,32,College,Education,168413,White,English,2,311.66
+a865d738-5,Male,0,0,0,36,"High school",NULL,54414,"African american",European,2,293.56
+a865d7b0-5,Male,1,1,0,43,College,"Construction and extraction",32414,White,English,0,262.44
+a865d828-5,Male,0,1,0,62,Basic,"Business and finance",0,White,English,0,237.64
+a865d922-5,Male,1,1,0,30,College,Sales,50373,"African american",Spanish,2,323.50
+a865d99a-5,Female,1,0,0,64,"High school",NULL,69487,White,Spanish,0,295.06
+a865dab2-5,Female,0,1,0,45,College,Transportation,11962,White,English,0,208.46
+a865db2a-5,Male,1,0,0,45,"High school",NULL,48807,White,English,0,282.82
+a865dbac-5,Female,1,0,0,61,"High school",NULL,51084,White,English,0,296.67
+a865dc24-5,Female,1,0,0,51,"High school",NULL,179461,White,English,0,334.75
+a865dcba-5,Female,0,1,0,49,"High school",Management,44362,White,English,0,258.08
+a865dd3c-5,Male,1,0,0,74,Basic,NULL,50622,White,English,0,310.56
+a865ddb4-5,Female,0,1,0,20,"High school",Sales,92504,White,Spanish,1,317.84
+a865de2c-5,Female,1,1,0,25,"High school","Business and finance",72975,"African american",English,0,255.43
+a865dea4-5,Female,1,0,0,68,"High school",NULL,17625,White,English,0,221.18
+a865dfb2-5,Female,1,1,0,45,College,Management,32233,White,English,0,212.38
+a865e048-5,Female,1,0,0,49,"High school",NULL,0,White,European,0,256.46
+a865e1b0-5,Female,1,1,0,50,"High school",Sales,0,"African american",Spanish,0,290.17
+a865e232-5,Male,0,1,1,36,"High school",Legal,64221,Mixed,English,4,346.62
+a865e2aa-5,Female,0,0,0,30,"College advanced",NULL,64866,White,English,2,323.13
+a865e39a-5,Male,0,0,0,46,"High school",NULL,67039,White,Spanish,0,229.58
+a865e4bc-5,Female,0,1,0,43,"High school","Healthcare practice",75475,White,English,0,293.32
+a865e53e-5,Male,1,0,0,67,Basic,NULL,35421,White,Spanish,0,234.59
+a865e5c0-5,Male,0,1,0,26,"High school",Transportation,47596,White,English,2,319.31
+a865e638-5,Male,0,1,0,37,"High school","Material production",12417,White,Spanish,5,281.22
+a865e6ce-5,Male,0,0,0,70,College,NULL,4552,White,English,0,258.14
+a865e8b8-5,Male,0,1,0,31,Basic,"Machine maintenance",40556,White,Spanish,1,318.94
+a865e930-5,Female,1,0,0,72,"High school",NULL,60357,White,Spanish,0,299.14
+a865e9c6-5,Male,1,0,0,73,College,NULL,13754,White,English,0,237.63
+a865ea3e-5,Male,1,1,0,47,"College advanced","Business and finance",0,White,Spanish,0,226.80
+a865ebb0-5,Female,1,1,0,49,"High school","Personal care",32869,White,English,0,261.43
+a865ec28-5,Male,0,1,0,34,Basic,"Personal care",37762,"African american",English,3,265.85
+a865ecb4-5,Male,0,0,0,60,College,NULL,65575,"African american",English,0,290.83
+a865edae-5,Female,1,1,0,43,"High school",Sales,0,White,English,0,218.43
+a865ee26-5,Male,0,0,0,69,"High school",NULL,75265,White,English,0,259.73
+a865eea8-5,Male,1,1,0,47,College,"Healthcare practice",72385,White,English,0,297.54
+a865ef3e-5,Female,1,1,0,55,"High school",Sales,81549,White,English,0,281.26
+a865efde-5,Male,1,1,0,43,"High school","Personal care",177268,White,Spanish,0,352.87
+a865f060-5,Female,1,1,0,23,"High school",Management,71707,White,English,1,288.26
+a865f0d8-5,Female,1,1,0,53,"High school",Sales,21878,White,English,0,239.32
+a865f150-5,Male,1,1,0,39,Basic,Management,137329,White,Spanish,7,333.11
+a865f1d2-5,Female,0,1,0,21,"High school","Architecture and engineering",0,White,Spanish,2,220.19
+a865f2f4-5,Female,1,0,0,44,"College advanced",NULL,0,"African american",English,0,244.70
+a865f376-5,Female,1,1,0,24,"College advanced","Construction and extraction",138434,White,Spanish,6,428.31
+a865f470-5,Female,1,1,0,56,College,Management,14471,White,Asian,0,255.46
+a865f56a-5,Female,0,0,0,21,"College advanced",NULL,12375,White,English,3,341.62
+a865f65a-5,Male,0,1,0,38,College,Sales,61927,White,English,4,347.16
+a865f6d2-5,Male,0,1,0,20,Basic,Management,98555,White,English,2,351.98
+a865f8da-5,Male,0,1,0,51,"High school",Education,20582,White,English,0,193.69
+a865fa4c-5,Female,0,0,0,35,College,NULL,43665,White,English,4,375.68
+a865fac4-5,Female,1,1,0,45,"College advanced",Sales,25849,White,English,0,267.48
+a865fb3c-5,Male,1,1,0,25,"College advanced","Business and finance",10596,White,Asian,3,275.58
+a865fbb4-5,Male,0,0,0,75,"High school",NULL,47366,White,English,0,237.78
+a865fc4a-5,Female,1,1,0,34,College,"Software engineering and math",154383,White,English,3,485.38
+a865fccc-5,Female,0,0,0,82,"High school",NULL,66413,White,Spanish,0,227.76
+a865fdbc-5,Male,0,1,0,55,College,"Healthcare practice",110979,White,English,0,263.43
+a865fe3e-5,Male,0,0,0,54,"High school",NULL,94459,White,English,0,268.04
+a865feca-5,Male,0,1,0,26,"High school","Food preparation",66950,"African american",Spanish,5,258.06
+a866003c-5,Female,0,0,0,67,College,NULL,8222,White,English,0,236.24
+a866015e-5,Female,0,1,0,56,"High school","Healthcare practice",15422,White,English,0,192.28
+a86601d6-5,Female,0,0,0,66,College,NULL,31893,"African american",Asian,0,230.51
+a8660258-5,Male,0,1,0,74,Basic,Sales,73542,"African american",Other,0,265.30
+a8660442-5,Male,0,1,0,26,"High school",Management,27753,White,Spanish,0,218.47
+a8660564-5,Female,1,1,0,48,Basic,"Fire and safety",8668,White,Spanish,0,277.24
+a866067c-5,Female,0,1,0,30,"High school",Sales,47480,White,Spanish,1,292.41
+a86606f4-5,Female,1,1,0,26,Basic,Sales,43223,Hawaiian,Spanish,0,302.48
+a8660776-5,Male,0,1,0,51,"High school","Healthcare practice",26428,White,Spanish,0,237.71
+a86607ee-5,Female,0,0,0,75,"High school",NULL,112122,White,English,0,289.03
+a8660866-5,Female,0,1,0,21,"High school","Business and finance",20995,"African american",Spanish,1,267.15
+a86608de-5,Male,1,1,0,43,"High school",Education,115824,White,Spanish,0,290.69
+a8660956-5,Female,1,0,0,75,College,NULL,67376,White,English,0,289.91
+a86609ce-5,Male,0,1,0,68,"High school","Social services",11753,White,English,0,187.34
+a8660a50-5,Female,1,1,1,23,"High school",Legal,39500,White,Spanish,8,283.30
+a8660b5e-5,Female,0,0,0,73,College,NULL,10958,"African american",English,0,246.53
+a8660bd6-5,Male,0,0,0,62,"High school",NULL,45677,White,English,0,276.62
+a8660cd0-5,Male,0,0,0,19,"College advanced",NULL,89055,White,English,2,339.74
+a8660d48-5,Male,1,1,0,30,College,"Healthcare support",32618,White,English,1,283.29
+a8660dc0-5,Male,1,0,0,67,"High school",NULL,59505,White,English,0,283.09
+a8660e38-5,Male,0,1,0,40,"High school",Legal,35612,White,English,1,289.54
+a8660ec4-5,Male,0,1,0,58,"High school",Management,102502,White,English,0,333.49
+a8661054-5,Female,1,1,0,25,"High school","Construction and extraction",17997,White,English,0,243.43
+a86610ea-5,Female,0,0,0,75,Basic,NULL,53307,"African american",Spanish,0,265.36
+a8661162-5,Female,0,1,0,25,"High school","Sanitation and maintenance",129144,White,English,0,241.99
+a86611e4-5,Male,0,1,0,59,"High school","Sanitation and maintenance",117535,White,English,0,232.48
+a86612d4-5,Female,1,1,0,47,"High school","Social services",98811,White,English,0,329.53
+a866145a-5,Male,1,0,0,48,College,NULL,36344,"African american",English,0,234.17
+a8661554-5,Female,1,0,0,78,"College advanced",NULL,89463,White,English,0,269.76
+a86615cc-5,Female,1,1,0,26,College,"Software engineering and math",49493,White,European,4,281.56
+a86616d0-5,Male,1,1,0,28,"College advanced","Machine maintenance",160056,"African american",English,3,460.07
+a8661748-5,Male,0,1,0,47,"College advanced","Healthcare technology",138125,White,Spanish,0,307.91
+a86618ce-5,Male,0,1,0,28,"High school","Architecture and engineering",29236,White,English,2,306.67
+a8661946-5,Male,0,1,0,47,"High school","Healthcare practice",27173,White,English,0,224.54
+a86619c8-5,Female,0,1,0,27,"College advanced","Software engineering and math",141964,Mixed,English,1,328.38
+a8661a40-5,Male,1,0,0,24,Basic,NULL,63662,White,Spanish,3,287.46
+a8661ab8-5,Female,0,1,0,50,College,Sales,109664,White,English,0,260.15
+a8661b30-5,Male,0,0,0,68,"High school",NULL,15194,Mixed,English,0,236.65
+a8661bb2-5,Male,0,1,0,28,"High school","Construction and extraction",88371,White,English,3,414.89
+a8661c2a-5,Male,1,1,0,55,College,"Office administrative support",28878,White,English,0,238.40
+a8661cb6-5,Male,1,1,0,76,College,"Office administrative support",192887,"African american",Spanish,0,350.71
+a8661d38-5,Male,1,1,0,51,"High school","Construction and extraction",0,White,English,0,238.40
+a8661db0-5,Male,0,1,0,42,Basic,"Business and finance",138057,"African american",Spanish,0,268.77
+a8661e28-5,Female,1,1,0,62,"High school","Construction and extraction",12892,White,Spanish,0,243.91
+a8661ea0-5,Female,1,0,0,63,"High school",NULL,127572,"African american",English,0,340.91
+a8661f22-5,Female,0,1,0,56,College,Legal,127914,White,Spanish,0,243.65
+a8661f9a-5,Female,1,1,0,64,"College advanced","Sports, media, and entertainment",149943,White,European,0,340.76
+a8662102-5,Male,0,0,0,75,"High school",NULL,87810,White,English,0,259.38
+a866218e-5,Female,0,1,0,24,"High school",Management,49703,White,English,5,379.42
+a8662210-5,Female,0,0,0,79,"High school",NULL,82861,White,English,0,284.77
+a866229c-5,Male,0,1,0,26,College,"Food preparation",3589,"African american",English,0,201.41
+a866231e-5,Female,0,0,0,83,College,NULL,81837,"Native american",English,0,252.65
+a8662396-5,Female,0,1,0,22,"High school","Healthcare support",108931,"African american",English,3,427.32
+a8662418-5,Female,0,0,0,73,"High school",NULL,97403,White,English,0,282.50
+a8662490-5,Male,0,0,0,78,College,NULL,97794,White,English,0,248.72
+a86625a8-5,Male,1,0,0,64,"College advanced",NULL,0,White,Spanish,0,232.06
+a8662620-5,Female,1,0,0,25,"High school",NULL,26400,White,English,0,221.28
+a8662698-5,Female,0,1,0,61,"High school","Machine maintenance",60182,White,English,0,221.64
+a866271a-5,Female,1,1,0,53,"High school",Management,16037,White,English,0,210.70
+a8662792-5,Female,0,1,0,30,"High school","Fire and safety",66141,White,English,6,321.07
+a8662918-5,Female,0,1,0,38,"High school","Office administrative support",124411,White,Spanish,1,296.11
+a8662990-5,Female,0,1,0,23,Basic,"Material moving",36309,White,English,1,255.31
+a8662a12-5,Male,1,1,0,54,"High school",Management,28780,White,Spanish,0,244.55
+a8662b3e-5,Female,0,1,0,33,"High school","Office administrative support",9210,White,English,0,205.20
+a8662bca-5,Female,1,0,0,71,College,NULL,19112,White,English,0,297.90
+a8662c42-5,Female,1,1,0,57,"High school",Sales,38383,White,English,0,259.62
+a8662cc4-5,Female,0,1,0,32,"High school",Management,46145,"African american",English,0,221.40
+a8662d3c-5,Female,0,1,0,28,"College advanced","Healthcare practice",71894,White,English,1,280.69
+a8662db4-5,Male,1,1,0,36,"College advanced",Transportation,36665,White,English,4,326.97
+a8662f58-5,Male,1,1,0,43,"High school","Office administrative support",95991,"African american",Spanish,0,283.02
+a8662fd0-5,Female,1,1,0,19,College,Sales,23663,"African american",English,0,228.41
+a8663052-5,Female,0,1,0,52,"High school","Software engineering and math",0,White,English,0,217.30
+a86630ca-5,Female,1,1,0,31,"College advanced","Office administrative support",16955,White,Spanish,0,238.78
+a8663142-5,Male,1,1,0,62,"High school",Management,21283,"African american",Asian,0,238.30
+a86632aa-5,Female,1,1,1,37,College,"Material production",72747,White,European,5,369.37
+a866332c-5,Male,1,0,0,51,"College advanced",NULL,159365,"African american",English,0,327.17
+a8663430-5,Female,1,1,0,59,"High school",Sales,49896,White,English,0,328.00
+a866355c-5,Male,1,0,0,77,"High school",NULL,38117,White,English,0,221.88
+a86635de-5,Male,1,0,0,61,College,NULL,13793,White,Spanish,0,316.21
+a8663750-5,Male,1,1,0,44,Basic,"Fire and safety",13831,White,English,0,254.77
+a86637e6-5,Male,0,0,0,76,College,NULL,0,White,English,0,209.22
+a8663958-5,Female,0,1,0,53,College,Management,78215,White,English,0,236.25
+a8663a48-5,Male,1,0,0,79,"High school",NULL,141643,White,Spanish,0,346.95
+a8663aca-5,Female,0,0,0,45,"High school",NULL,166380,White,English,0,305.55
+a8663b56-5,Male,1,1,0,52,College,"Sanitation and maintenance",38992,White,English,0,273.85
+a8663bd8-5,Male,1,0,0,78,College,NULL,131571,White,English,0,307.16
+a8663c50-5,Female,0,1,0,20,"College advanced",Management,5797,White,Spanish,6,281.04
+a8663cc8-5,Male,1,1,0,46,College,"Food preparation",76033,White,English,0,241.36
+a8663d4a-5,Female,0,1,0,46,"College advanced","Business and finance",24209,Asian,English,0,225.26
+a8663dc2-5,Female,1,0,0,69,"High school",NULL,154864,White,English,0,356.12
+a8663e58-5,Female,0,0,0,31,College,NULL,27920,White,English,3,275.41
+a8663f52-5,Female,1,0,0,68,"High school",NULL,142779,White,English,0,412.18
+a8663fca-5,Female,0,1,0,27,Basic,Management,121979,White,Spanish,5,415.20
+a8664060-5,Male,1,1,0,35,"College advanced","Healthcare practice",138625,White,English,0,326.76
+a86640e2-5,Female,1,1,0,66,College,"Architecture and engineering",47054,"African american",English,0,228.49
+a8664182-5,Female,0,1,0,44,College,Management,24275,White,English,0,204.33
+a8664204-5,Male,0,0,0,60,College,NULL,146533,White,English,0,303.71
+a866427c-5,Female,1,1,0,70,"High school","Office administrative support",32180,White,English,0,256.20
+a8664312-5,Female,1,0,0,51,College,NULL,3368,White,English,0,272.63
+a8664394-5,Female,0,0,0,50,"High school",NULL,20837,White,English,0,247.56
+a866440c-5,Female,0,1,0,25,"High school","Office administrative support",3927,White,English,4,262.81
+a8664510-5,Male,0,0,0,61,"High school",NULL,60243,White,Spanish,0,265.96
+a8664592-5,Male,1,1,0,54,College,"Sanitation and maintenance",30209,White,English,0,278.72
+a866460a-5,Male,0,1,0,24,"High school",Sales,16601,White,English,1,325.24
+a8664682-5,Male,0,1,0,53,"High school","Office administrative support",34204,White,English,0,218.04
+a86647cc-5,Male,0,0,0,77,"College advanced",NULL,0,White,Spanish,0,206.60
+a866484e-5,Female,1,1,0,69,College,"Healthcare practice",63445,White,English,0,333.36
+a86648d0-5,Male,1,1,0,59,"High school","Office administrative support",43642,White,European,0,303.13
+a86649c0-5,Female,1,1,0,26,Basic,"Healthcare support",88831,White,Spanish,4,355.84
+a8664a56-5,Male,1,0,0,68,"High school",NULL,55419,White,English,0,279.51
+a8664ad8-5,Female,1,1,0,20,Basic,"Healthcare practice",177041,White,Spanish,1,399.36
+a8664b50-5,Male,0,1,0,50,"High school","Office administrative support",0,White,English,0,246.44
+a8664bc8-5,Female,0,0,0,83,"High school",NULL,57829,White,European,0,290.83
+a8664c40-5,Female,0,0,0,72,College,NULL,8085,White,Spanish,0,246.62
+a8664cb8-5,Male,1,1,0,78,"High school","Personal care",106782,"Native american",Asian,0,390.77
+a8664d3a-5,Male,0,1,0,74,"High school","Software engineering and math",70074,White,English,0,259.26
+a8664e48-5,Female,0,1,0,69,"High school",Sales,90121,White,English,0,263.41
+a8664ec0-5,Female,1,1,0,61,"High school","Machine maintenance",18514,White,Spanish,0,302.08
+a8664fd8-5,Female,1,1,0,60,"High school",Legal,61648,Asian,Spanish,0,284.27
+a8665050-5,Male,1,1,0,41,College,"Sanitation and maintenance",92111,White,English,0,427.70
+a86650fa-5,Female,1,0,0,74,Basic,NULL,18911,White,European,0,275.93
+a866528a-5,Male,0,0,0,72,College,NULL,71881,White,Spanish,0,295.74
+a866530c-5,Female,1,1,0,52,Basic,"Sanitation and maintenance",99237,White,Spanish,0,333.61
+a8665384-5,Male,1,1,0,34,"College advanced","Sanitation and maintenance",115028,White,English,2,362.45
+a866541a-5,Female,0,0,0,33,"High school",NULL,32444,White,English,1,221.78
+d6f14072-5,Male,0,0,0,19,College,NULL,0,White,English,2,290.52
+d6f14400-5,Male,1,0,0,62,College,NULL,0,White,English,0,221.39
+d6f144dc-5,Male,1,1,0,53,"High school","Office administrative support",117993,White,English,0,357.56
+d6f14590-5,Male,0,1,0,28,"High school",Management,35791,White,English,5,226.45
+d6f14630-5,Male,1,1,0,45,College,"Material production",147512,White,English,0,336.73
+d6f146bc-5,Male,0,1,0,32,"High school","Office administrative support",53431,White,English,4,317.88
+d6f14752-5,Male,1,1,0,38,College,Sales,26195,White,English,0,251.78
+d6f147de-5,Female,0,1,0,32,Basic,Management,13728,"African american",Spanish,3,286.46
+d6f1486a-5,Male,1,1,0,39,"College advanced","Healthcare support",14442,White,English,4,264.66
+d6f1490a-5,Female,1,1,0,48,"High school",Management,65488,White,European,0,320.82
+d6f14a2c-5,Male,0,0,0,67,"College advanced",NULL,52646,White,English,0,240.19
+d6f14ab8-5,Female,0,1,0,49,Basic,Management,159128,White,Spanish,0,319.11
+d6f14b3a-5,Female,0,1,0,37,"College advanced","Sanitation and maintenance",50770,White,Spanish,4,333.29
+d6f14c48-5,Male,1,0,0,57,"College advanced",NULL,83513,"African american",English,0,432.44
+d6f14cd4-5,Female,0,1,0,29,College,"Machine maintenance",31128,White,English,2,252.94
+d6f14d60-5,Female,1,1,0,21,College,"Office administrative support",23618,"African american",English,2,285.72
+d6f14de2-5,Female,0,0,0,27,Basic,NULL,41582,White,English,1,245.58
+d6f14e6e-5,Female,1,1,0,46,"High school","Construction and extraction",113554,White,English,0,372.45
+d6f14ef0-5,Male,1,1,0,43,College,"Material moving",4737,"African american",Spanish,0,253.41
+d6f150da-5,Male,1,1,0,23,College,"Healthcare support",76370,White,English,1,323.68
+d6f15166-5,Female,1,0,0,19,College,NULL,64922,White,English,3,280.22
+d6f15300-5,Male,1,1,0,70,College,Management,91590,White,Spanish,0,302.79
+d6f15382-5,Female,0,0,0,50,"High school",NULL,46508,White,English,0,256.03
+d6f1540e-5,Male,0,1,0,21,"High school",Management,131715,"African american",English,4,401.70
+d6f1549a-5,Male,1,1,0,47,"High school","Office administrative support",42750,White,Spanish,0,322.64
+d6f1551c-5,Female,0,0,0,57,"High school",NULL,18768,White,English,0,208.64
+d6f1563e-5,Female,1,0,0,41,Basic,NULL,0,White,English,0,186.22
+d6f156ca-5,Male,1,1,0,74,"College advanced","Healthcare support",58792,White,English,0,279.73
+d6f157f6-5,Male,1,0,0,71,College,NULL,54662,"African american",Asian,0,275.37
+d6f15882-5,Female,1,1,0,57,College,"Sanitation and maintenance",0,White,English,0,231.42
+d6f15904-5,Female,0,1,0,61,"High school","Software engineering and math",149045,White,English,0,282.72
+d6f15990-5,Male,1,1,0,47,"High school","Healthcare practice",13854,White,Spanish,0,261.23
+d6f15a12-5,Male,1,1,0,60,"High school","Personal care",177426,White,Spanish,0,399.88
+d6f15ad0-5,Female,1,1,0,22,"High school","Construction and extraction",27995,White,English,4,260.82
+d6f15be8-5,Male,0,0,0,57,"High school",NULL,156449,White,Asian,0,277.88
+d6f15c6a-5,Male,0,1,0,71,Basic,Sales,44627,White,Spanish,0,229.70
+d6f15d00-5,Female,0,0,0,79,College,NULL,0,White,English,0,193.22
+d6f15d8c-5,Female,1,1,0,36,College,Management,55455,White,European,0,281.33
+d6f15e18-5,Female,0,1,0,63,College,"Healthcare practice",58438,"African american",Spanish,0,275.58
+d6f15ea4-5,Female,0,1,0,56,College,"Machine maintenance",131532,White,English,0,281.24
+d6f15f26-5,Male,1,1,0,28,"High school","Construction and extraction",36445,White,English,0,258.79
+d6f16034-5,Female,1,1,0,50,College,Sales,0,White,Spanish,0,227.65
+d6f160c0-5,Male,1,1,0,45,College,"Office administrative support",51756,"African american",Spanish,0,269.47
+d6f16250-5,Female,0,0,0,61,"High school",NULL,0,Asian,European,0,202.17
+d6f162dc-5,Female,1,1,0,45,College,"Sanitation and maintenance",46583,White,English,0,335.51
+d6f1641c-5,Female,0,1,0,47,"High school","Healthcare practice",171066,White,English,0,319.74
+d6f166e2-5,Male,1,0,0,76,"High school",NULL,42675,White,English,0,289.83
+d6f1676e-5,Male,1,1,1,39,Basic,"Material production",91411,White,English,3,428.26
+d6f168fe-5,Male,1,1,0,58,"High school","Office administrative support",23325,Asian,English,0,241.46
+d6f16980-5,Male,0,1,0,49,"High school",Transportation,61008,White,English,0,238.77
+d6f16a16-5,Female,0,1,0,51,"High school","Office administrative support",169253,"African american",Spanish,0,274.07
+d6f16aa2-5,Female,1,1,0,39,"High school","Business and finance",86772,White,Spanish,3,373.53
+d6f16bb0-5,Male,1,0,0,66,"High school",NULL,78348,White,English,0,242.07
+d6f16c3c-5,Male,1,1,0,57,"High school",Legal,51883,White,Spanish,0,300.25
+d6f16cc8-5,Female,0,1,0,68,"High school","Office administrative support",58244,White,Spanish,0,241.35
+d6f16d4a-5,Female,0,1,0,55,"High school","Material moving",27814,White,European,0,210.04
+d6f16e58-5,Female,1,0,0,19,"College advanced",NULL,71395,White,English,6,322.40
+d6f16f20-5,Female,1,0,0,65,"College advanced",NULL,132281,"African american",English,0,318.49
+d6f16fac-5,Female,0,0,0,72,College,NULL,29324,White,English,0,290.11
+d6f1715a-5,Male,1,1,0,37,"College advanced","Construction and extraction",0,White,English,1,316.34
+d6f171e6-5,Male,1,1,0,52,"High school",Education,94560,White,English,0,282.14
+d6f17268-5,Female,1,1,0,30,College,"Sanitation and maintenance",84489,White,English,0,320.97
+d6f172ea-5,Female,0,1,0,28,"College advanced","Sports, media, and entertainment",88810,White,English,1,342.16
+d6f17376-5,Male,0,1,0,59,College,"Business and finance",43865,White,Asian,0,239.97
+d6f17484-5,Male,0,1,0,48,College,"Office administrative support",75770,White,Spanish,0,239.22
+d6f1761e-5,Male,1,1,0,27,"High school","Fire and safety",46375,White,Other,1,316.78
+d6f17876-5,Male,1,1,0,62,"High school","Material production",40662,White,English,0,293.90
+d6f178f8-5,Female,0,0,0,61,Basic,NULL,16266,White,English,0,206.18
+d6f1798e-5,Male,1,0,0,74,College,NULL,198138,White,English,0,366.90
+d6f17a2e-5,Female,0,1,0,59,"High school","Sanitation and maintenance",65379,White,European,0,251.45
+d6f17aba-5,Male,1,1,0,31,Basic,Science,113751,"African american",English,5,458.73
+d6f17c4a-5,Male,1,1,0,64,College,"Food preparation",72664,White,Spanish,0,263.73
+d6f18014-5,Female,1,0,0,47,"High school",NULL,47316,White,Spanish,0,318.52
+d6f180b4-5,Male,0,0,0,61,College,NULL,57921,"African american",Spanish,0,207.40
+d6f18136-5,Male,1,0,0,74,College,NULL,45928,White,English,0,327.05
+d6f181c2-5,Male,1,0,0,69,"High school",NULL,69985,White,English,0,270.89
+d6f18244-5,Male,1,1,0,20,College,Transportation,94831,"African american",Spanish,5,412.48
+d6f18352-5,Male,1,1,0,43,"High school","Personal care",43808,White,Spanish,0,232.94
+d6f183d4-5,Male,1,0,0,82,"High school",NULL,167838,White,Spanish,0,351.01
+d6f18474-5,Female,0,1,0,24,"High school","Office administrative support",21403,"African american",Spanish,5,234.97
+d6f18500-5,Female,0,1,0,42,Basic,Sales,110897,White,English,0,241.69
+d6f18596-5,Male,0,0,0,46,"High school",NULL,71322,White,Spanish,0,235.54
+d6f186a4-5,Male,1,0,0,78,"High school",NULL,96683,White,English,0,357.99
+d6f187b2-5,Male,1,1,0,43,College,"Office administrative support",15737,White,English,0,237.36
+d6f18834-5,Female,1,1,0,32,College,"Software engineering and math",2204,White,English,1,244.57
+d6f188b6-5,Female,1,1,0,39,"High school",Education,197373,"African american",Asian,1,382.78
+d6f18942-5,Female,1,0,0,24,Basic,NULL,96419,White,English,1,343.74
+d6f189c4-5,Male,1,0,0,48,"High school",NULL,85118,White,English,0,346.56
+d6f18a50-5,Female,0,1,1,37,"High school",Education,46495,White,English,2,341.84
+d6f18adc-5,Male,0,1,0,44,College,"Sports, media, and entertainment",94815,White,English,0,301.01
+d6f18c08-5,Female,1,1,0,30,College,"Office administrative support",31360,"African american",English,0,230.10
+d6f18ca8-5,Female,0,1,0,46,"College advanced","Personal care",88926,White,English,0,388.25
+d6f18db6-5,Male,1,1,0,59,"College advanced",Sales,99940,White,European,0,412.88
+d6f18ee2-5,Female,1,1,0,46,College,Sales,77755,White,English,0,332.18
+d6f18f6e-5,Male,0,1,0,54,"High school","Office administrative support",113504,White,English,0,315.07
+d6f19090-5,Female,1,1,0,59,College,Sales,104286,White,Spanish,0,366.52
+d6f19112-5,Female,0,1,0,30,"High school","Business and finance",9533,"African american",English,3,253.57
+d6f19194-5,Male,1,0,0,72,"High school",NULL,112938,White,Spanish,0,328.62
+d6f19220-5,Male,1,1,0,53,"High school","Sanitation and maintenance",58449,White,English,0,248.31
+d6f1941e-5,Male,1,1,0,58,College,Legal,0,White,English,0,224.01
+d6f194b4-5,Female,1,1,0,36,College,"Material moving",92401,"African american",English,6,358.64
+d6f19536-5,Male,0,1,0,54,"High school",Legal,60332,White,English,0,252.24
+d6f19644-5,Female,0,1,0,50,"High school",Transportation,27970,White,Spanish,0,201.37
+d6f197d4-5,Female,0,0,0,47,"High school",NULL,67670,White,English,0,281.23
+d6f198ec-5,Male,0,1,0,40,"High school","Material moving",75775,White,Spanish,0,232.59
+d6f19aa4-5,Male,1,1,0,20,College,"Office administrative support",94885,"African american",English,0,311.66
+d6f19bb2-5,Male,0,1,0,50,Basic,"Food preparation",98366,"African american",English,0,245.56
+d6f19d42-5,Male,1,1,0,46,"High school","Material moving",142790,White,English,0,369.76
+d6f19dc4-5,Male,1,1,0,38,"High school",Sales,27655,White,European,2,245.81
+d6f19e46-5,Male,0,1,0,22,"High school","Food preparation",0,"African american",English,3,302.97
+d6f19ed2-5,Male,0,1,0,21,"High school",Sales,3052,"African american",English,2,247.53
+d6f19f54-5,Female,0,1,0,69,"High school",Education,0,White,English,0,219.32
+d6f19fd6-5,Female,1,0,0,63,"High school",NULL,56918,White,English,0,323.77
+d6f1a062-5,Female,1,1,0,60,College,Transportation,119088,White,English,0,364.83
+d6f1a198-5,Male,1,0,0,61,"High school",NULL,117915,"African american",English,0,296.59
+d6f1a238-5,Male,1,1,0,19,"High school","Food preparation",56270,White,Spanish,2,295.82
+d6f1a2c4-5,Male,0,1,0,53,College,Education,4251,White,English,0,247.19
+d6f1a346-5,Male,1,0,0,42,"High school",NULL,147468,White,English,0,398.80
+d6f1a3c8-5,Male,0,1,0,56,College,"Office administrative support",130590,White,English,0,311.42
+d6f1a45e-5,Male,0,1,0,23,College,"Sanitation and maintenance",183502,White,English,1,375.11
+d6f1a4ea-5,Female,0,1,0,45,"High school","Healthcare support",5786,White,English,0,248.17
+d6f1a56c-5,Male,0,1,0,30,"High school",Sales,48098,White,Spanish,1,259.86
+d6f1a684-5,Male,1,1,0,43,"High school",Transportation,170220,White,English,0,346.08
+d6f1a706-5,Male,0,1,0,31,"College advanced","Construction and extraction",133168,White,English,1,303.53
+d6f1a79c-5,Female,0,0,0,81,College,NULL,198627,"African american",Spanish,0,236.46
+d6f1a828-5,Male,0,1,0,47,"High school","Food preparation",117415,White,English,0,321.98
+d6f1a8b4-5,Female,0,1,0,22,College,Sales,151597,White,European,1,351.25
+d6f1a936-5,Female,0,0,0,72,"High school",NULL,79195,"African american",English,0,226.17
+d6f1a9b8-5,Female,1,0,0,41,Basic,NULL,41381,White,Spanish,0,292.10
+d6f1aac6-5,Female,0,1,0,61,"High school",Transportation,17006,White,English,0,233.84
+d6f1ab48-5,Male,0,1,0,60,Basic,Sales,148471,"African american",Spanish,0,287.90
+d6f1ac4c-5,Male,1,1,1,25,Basic,Sales,81157,White,English,2,327.84
+d6f1acce-5,Female,0,0,0,66,College,NULL,0,White,Asian,0,184.78
+d6f1ad5a-5,Female,0,1,0,43,"High school","Construction and extraction",10588,White,Spanish,0,207.62
+d6f1adfa-5,Female,1,1,0,22,"High school","Material production",61858,"African american",European,0,277.41
+d6f1ae9a-5,Female,0,1,0,33,"High school",Transportation,0,White,Spanish,4,284.42
+d6f1afb2-5,Male,0,1,0,48,"High school",Management,28145,Asian,English,0,238.07
+d6f1b034-5,Female,0,1,0,45,"High school","Office administrative support",32879,"African american",European,0,217.91
+d6f1b0b6-5,Male,1,1,0,73,College,"Healthcare practice",13364,White,English,0,281.02
+d6f1b142-5,Female,1,1,0,34,College,Transportation,32536,White,English,1,239.98
+d6f1b1c4-5,Male,1,1,0,62,"College advanced","Sanitation and maintenance",65922,"African american",English,0,312.76
+d6f1b250-5,Male,1,1,0,66,College,"Construction and extraction",27312,White,English,0,216.40
+d6f1b2d2-5,Female,0,1,0,30,"High school",Transportation,15090,White,English,1,264.79
+d6f1b35e-5,Male,0,1,0,57,"High school","Machine maintenance",155351,White,English,0,332.53
+d6f1b52a-5,Female,1,1,0,34,"College advanced",Management,0,White,English,4,281.35
+d6f1b5c0-5,Male,0,1,0,51,"College advanced","Food preparation",7146,White,English,0,243.50
+d6f1b642-5,Male,1,1,0,21,"College advanced","Office administrative support",41623,White,English,5,340.38
+d6f1b6ce-5,Female,1,1,0,66,"High school",Management,0,White,English,0,245.85
+d6f1b91c-5,Female,1,1,0,53,"High school",Transportation,141715,Asian,English,0,351.96
+d6f1bb74-5,Male,0,1,0,30,College,"Construction and extraction",130548,White,English,4,344.47
+d6f1bc0a-5,Female,0,1,0,38,"College advanced",Transportation,124952,"African american",Spanish,3,431.31
+d6f1bc96-5,Female,1,0,0,46,"High school",NULL,79942,White,English,0,256.00
+d6f1bd22-5,Female,1,1,0,40,College,Sales,59484,White,Spanish,6,378.23
+d6f1bdcc-5,Male,1,0,0,78,"High school",NULL,128664,White,Spanish,0,376.05
+d6f1be62-5,Male,1,1,0,63,College,"Construction and extraction",50795,White,English,0,262.56
+d6f1bee4-5,Female,0,1,0,29,Basic,Management,11166,White,English,1,235.92
+d6f1bf70-5,Male,1,1,0,46,"High school",Sales,126576,White,English,0,322.72
+d6f1bffc-5,Male,1,1,0,55,"High school","Healthcare practice",52940,"African american",Spanish,0,274.95
+d6f1c088-5,Male,1,1,0,52,"College advanced","Sports, media, and entertainment",113073,White,Spanish,0,303.69
+d6f1c196-5,Female,1,1,0,61,College,"Fire and safety",41154,White,English,0,271.38
+d6f1c2ae-5,Female,0,1,0,50,College,Science,52853,White,English,0,246.13
+d6f1c33a-5,Female,1,1,0,21,Basic,"Personal care",48200,White,English,4,353.17
+d6f1c3c6-5,Male,0,0,0,22,College,NULL,91111,White,Spanish,5,466.83
+d6f1c60a-5,Male,0,1,0,32,College,"Office administrative support",35785,"Native american",English,3,272.23
+d6f1c74a-5,Male,1,0,0,24,"High school",NULL,47564,White,English,1,329.97
+d6f1c7e0-5,Female,0,1,0,61,Basic,"Sanitation and maintenance",90693,White,English,0,263.48
+d6f1c86c-5,Female,1,1,0,57,Basic,Transportation,44845,White,English,0,296.60
+d6f1cb50-5,Male,0,1,0,41,Basic,"Software engineering and math",91377,White,European,0,282.45
+d6f1cbdc-5,Female,1,1,0,26,College,Education,9525,White,English,3,306.97
+d6f1cc68-5,Male,1,1,0,20,College,Sales,34881,Asian,Spanish,3,268.98
+d6f1cd12-5,Female,0,1,0,40,"College advanced","Architecture and engineering",1346,White,English,0,227.07
+d6f1cdd0-5,Female,1,1,0,45,"High school","Sanitation and maintenance",111996,White,English,0,389.09
+d6f1cede-5,Female,1,0,0,63,College,NULL,99135,"African american",English,0,358.96
+d6f1cfec-5,Female,1,0,0,50,"High school",NULL,31471,White,English,0,247.04
+d6f1d078-5,Male,0,1,0,58,"High school","Material production",61055,White,English,0,279.50
+d6f1d104-5,Male,0,1,0,40,"High school","Food preparation",90383,White,English,4,350.40
+d6f1d186-5,Female,1,1,0,21,Basic,"Construction and extraction",24094,"African american",English,3,233.01
+d6f1d226-5,Male,0,1,0,54,College,"Machine maintenance",29609,White,English,0,196.75
+d6f1d37a-5,Male,0,1,0,27,"High school","Food preparation",26891,White,Spanish,2,255.03
+d6f1d53c-5,Female,0,1,0,67,College,"Business and finance",134645,White,English,0,307.14
+d6f1d5c8-5,Male,1,1,0,42,"High school","Healthcare practice",54197,White,Spanish,0,276.05
+d6f1d654-5,Female,0,0,0,23,"College advanced",NULL,1209,White,English,1,245.65
+d6f1d6d6-5,Male,0,0,0,68,"College advanced",NULL,97573,White,English,0,252.97
+d6f1d7e4-5,Female,0,1,0,38,Basic,"Machine maintenance",121438,"African american",English,2,342.97
+d6f1d866-5,Female,1,1,0,59,Basic,"Healthcare support",191804,White,English,0,333.69
+d6f1d8f2-5,Male,1,1,0,67,"High school",Management,145075,White,English,0,435.52
+d6f1da82-5,Female,1,0,0,75,"High school",NULL,52444,White,English,0,295.77
+d6f1dba4-5,Female,1,0,0,36,"High school",NULL,71938,"African american",English,3,305.47
+d6f1dd48-5,Female,0,0,0,71,College,NULL,0,White,English,0,272.41
+d6f1ddd4-5,Female,1,0,0,79,"High school",NULL,86603,White,English,0,404.98
+d6f1dee2-5,Male,1,1,0,45,"College advanced","Healthcare practice",52932,"African american",English,0,321.65
+d6f1df6e-5,Male,0,0,0,67,"College advanced",NULL,15836,White,Spanish,0,230.72
+d6f1dff0-5,Male,1,0,0,64,"High school",NULL,41558,White,English,0,312.87
+d6f1e07c-5,Male,1,1,0,43,College,"Business and finance",27672,White,English,0,255.90
+d6f1e0fe-5,Female,0,1,0,64,College,Management,0,White,European,0,230.07
+d6f1e1a8-5,Female,1,1,0,37,College,"Office administrative support",58913,White,English,0,241.21
+d6f1e248-5,Female,1,0,0,60,"High school",NULL,186759,White,English,0,367.48
+d6f1e2d4-5,Female,0,1,0,35,College,Sales,28431,"African american",English,4,275.71
+d6f1e356-5,Female,1,1,0,62,"High school","Sanitation and maintenance",135501,White,Spanish,0,395.94
+d6f1e3d8-5,Male,1,1,0,26,"High school","Healthcare support",60623,"African american",Spanish,2,337.18
+d6f1e464-5,Female,0,1,0,50,College,Management,87620,White,Spanish,0,292.02
+d6f1e4e6-5,Female,1,1,0,48,"College advanced","Healthcare practice",92229,White,English,0,369.36
+d6f1e572-5,Male,1,0,0,60,College,NULL,67432,Asian,English,0,312.26
+d6f1e5f4-5,Female,0,0,0,23,College,NULL,43233,"African american",English,0,285.96
+d6f1e680-5,Female,0,1,0,49,"High school","Machine maintenance",64584,White,English,0,296.70
+d6f1e716-5,Female,1,1,0,25,College,"Fire and safety",0,"African american",Spanish,2,258.45
+d6f1e838-5,Female,1,1,0,61,"College advanced","Food preparation",85871,White,English,0,367.09
+d6f1e8c4-5,Female,1,0,0,79,"College advanced",NULL,119369,Asian,English,0,389.25
+d6f1e946-5,Male,1,1,0,50,"High school","Healthcare practice",49054,White,Spanish,0,262.22
+d6f1e9d2-5,Female,0,1,0,59,"High school","Machine maintenance",134777,White,English,0,246.76
+d6f1ea54-5,Male,1,1,0,51,"College advanced","Construction and extraction",30434,White,European,0,252.71
+d6f1ead6-5,Female,0,1,0,53,"High school",Education,28453,White,English,0,231.65
+d6f1ebee-5,Female,1,1,0,58,"College advanced","Personal care",33012,White,English,0,238.49
+d6f1ec84-5,Female,0,1,0,39,"College advanced",Sales,81686,White,English,3,329.66
+d6f1ed10-5,Female,0,1,0,56,College,Transportation,51799,"African american",English,0,230.56
+d6f1ee1e-5,Male,1,1,0,46,College,Sales,7965,White,Spanish,0,263.04
+d6f1eeb4-5,Male,0,0,0,65,Basic,NULL,67182,White,Spanish,0,218.48
+d6f1ef40-5,Female,1,1,0,57,College,"Healthcare practice",50714,"African american",English,0,258.68
+d6f1efcc-5,Male,0,1,0,51,"College advanced","Sports, media, and entertainment",64148,White,English,0,246.01
+d6f1f058-5,Male,1,1,0,26,"High school","Food preparation",63794,White,English,1,274.01
+d6f1f0da-5,Male,1,1,0,37,"College advanced","Sanitation and maintenance",2414,Asian,English,2,250.68
+d6f1f170-5,Female,1,1,0,24,Basic,"Food preparation",12698,White,English,2,267.70
+d6f1f1fc-5,Male,1,1,0,31,"High school",Management,86566,"African american",English,3,388.97
+d6f1f30a-5,Male,0,1,0,50,"High school","Healthcare support",193573,Asian,English,0,368.03
+d6f1f38c-5,Female,1,1,1,28,"High school",Sales,38395,White,English,4,302.59
+d6f1f40e-5,Male,0,1,0,58,"High school",Sales,30843,White,English,0,194.60
+d6f1f49a-5,Female,1,1,0,36,College,"Material moving",17320,"African american",European,1,213.34
+d6f1f5da-5,Female,1,0,0,61,College,NULL,35347,White,English,0,204.58
+d6f1f666-5,Male,0,1,0,28,"High school",Management,47176,White,English,0,237.27
+d6f1f6e8-5,Male,1,1,0,56,"College advanced","Business and finance",98548,White,Spanish,0,358.42
+d6f1f774-5,Female,0,1,0,31,"High school","Healthcare support",34349,White,English,1,230.63
+d6f1f800-5,Male,1,0,0,30,"High school",NULL,0,White,English,0,215.03
+d6f1f882-5,Female,1,0,0,76,"High school",NULL,165715,"African american",Spanish,0,341.52
+d6f1f904-5,Male,1,1,0,29,"College advanced","Personal care",100439,White,English,5,355.67
+d6f1f990-5,Female,1,1,0,29,"High school","Office administrative support",34224,White,Spanish,1,251.96
+d6f1fa1c-5,Female,0,0,0,64,College,NULL,122673,White,English,0,268.16
+d6f1fa9e-5,Female,1,1,0,56,"High school",Transportation,148096,White,English,0,307.65
+d6f1fce2-5,Female,0,0,0,68,College,NULL,47308,"African american",English,0,267.21
+d6f1fd64-5,Female,0,1,0,36,"High school",Education,23371,White,English,5,269.19
+d6f1fdf0-5,Female,1,0,0,65,"College advanced",NULL,40549,White,English,0,257.61
+d6f1fe72-5,Male,1,1,0,64,College,"Construction and extraction",143098,White,English,0,304.78
+d6f1fefe-5,Female,0,1,0,37,"High school","Office administrative support",131099,"African american",English,0,364.07
+d6f1ff80-5,Male,0,0,0,25,"High school",NULL,112343,White,English,1,322.61
+d6f2000c-5,Male,1,1,0,31,College,"Sanitation and maintenance",5794,"African american",English,1,302.48
+d6f2008e-5,Male,0,1,0,51,"College advanced",Sales,60730,White,English,0,254.46
+d6f2011a-5,Male,0,1,0,25,College,Management,147119,White,Spanish,1,321.65
+d6f20232-5,Male,1,0,0,60,College,NULL,0,"African american",English,0,236.87
+d6f2034a-5,Female,1,0,0,66,"High school",NULL,37330,White,English,0,258.79
+d6f20624-5,Female,0,0,0,80,"College advanced",NULL,28113,White,English,0,236.70
+d6f20732-5,Female,0,0,0,84,"High school",NULL,89849,"African american",English,0,267.40
+d6f207b4-5,Male,0,0,0,65,"College advanced",NULL,9871,White,European,0,218.83
+d6f20840-5,Female,0,1,0,43,Basic,"Office administrative support",74309,White,Spanish,0,263.98
+d6f208e0-5,Male,0,1,0,67,Basic,"Machine maintenance",41810,White,English,0,259.15
+d6f20980-5,Female,1,1,0,31,Basic,"Healthcare support",36558,White,Other,1,233.68
+d6f20a02-5,Female,0,1,0,65,College,"Office administrative support",54926,White,European,0,255.48
+d6f20b9c-5,Female,0,0,0,29,"College advanced",NULL,27746,White,English,0,219.84
+d6f20c28-5,Female,1,0,0,69,"High school",NULL,74280,"African american",English,0,279.16
+d6f20d36-5,Female,0,0,0,77,College,NULL,50276,White,English,0,221.45
+d6f20db8-5,Female,1,1,0,52,"High school","Office administrative support",29777,White,English,0,261.56
+d6f20e44-5,Male,0,0,0,68,"High school",NULL,36722,White,Spanish,0,270.92
+d6f20ee4-5,Male,1,1,0,47,Basic,"Fire and safety",12696,White,English,0,322.26
+d6f20f84-5,Male,0,1,0,43,"College advanced","Office administrative support",62573,White,English,0,273.48
+d6f210b0-5,Male,0,1,0,27,Basic,"Healthcare technology",35500,"African american",English,0,235.54
+d6f2113c-5,Female,1,1,0,68,"High school","Software engineering and math",110418,White,Spanish,0,331.87
+d6f211c8-5,Male,0,0,0,67,College,NULL,92071,White,English,0,264.51
+d6f2124a-5,Female,0,1,0,57,"High school","Material moving",70070,White,Spanish,0,306.57
+d6f212d6-5,Male,0,0,0,44,Basic,NULL,10689,White,European,0,182.94
+d6f21358-5,Female,0,0,0,71,"High school",NULL,76164,"African american",English,0,254.34
+d6f213e4-5,Female,1,0,0,61,"College advanced",NULL,56545,"Native american",Spanish,0,345.53
+d6f214f2-5,Male,0,0,0,44,Basic,NULL,43418,"African american",English,0,206.46
+d6f2160a-5,Male,1,1,0,26,"High school","Software engineering and math",0,White,Spanish,0,251.30
+d6f21718-5,Female,0,1,0,34,Basic,"Office administrative support",69010,"African american",English,5,345.20
+d6f217a4-5,Male,0,0,0,67,"High school",NULL,102437,White,English,0,286.04
+d6f21826-5,Male,0,0,0,29,College,NULL,134498,White,English,2,367.48
+d6f218b2-5,Female,0,1,0,44,"High school",Sales,46671,White,English,0,247.39
+d6f219c0-5,Female,0,0,0,31,"High school",NULL,36736,"African american",English,3,286.89
+d6f21a60-5,Female,1,1,0,54,Basic,"Business and finance",17793,"African american",Spanish,0,252.34
+d6f21aec-5,Female,1,1,0,55,"High school",Sales,95786,White,Asian,0,331.75
+d6f21b6e-5,Male,1,0,0,75,"High school",NULL,32181,White,English,0,279.94
+d6f21c9a-5,Female,1,0,0,43,College,NULL,92770,White,Spanish,0,266.27
+d6f21d3a-5,Female,0,1,0,55,"High school",Management,10927,"African american",Asian,0,226.21
+d6f21dc6-5,Male,0,0,0,40,"High school",NULL,24873,"African american",English,1,218.69
+d6f22096-5,Female,1,0,0,65,"High school",NULL,55539,White,Spanish,0,240.90
+d6f221b8-5,Female,0,0,0,48,College,NULL,33309,White,English,0,258.60
+d6f2223a-5,Male,1,1,0,26,"College advanced","Healthcare technology",85490,White,English,4,355.59
+d6f22348-5,Male,1,1,0,57,"High school","Food preparation",154622,"African american",English,0,357.11
+d6f22500-5,Female,1,1,0,20,"High school","Office administrative support",92518,White,Spanish,0,321.12
+d6f2258c-5,Male,0,1,0,20,"High school","Office administrative support",24281,White,English,2,274.68
+d6f22618-5,Male,1,1,0,54,College,"Sanitation and maintenance",58621,White,Spanish,0,318.88
+d6f22726-5,Female,0,1,0,57,College,Management,26466,White,English,0,224.94
+d6f227b2-5,Female,0,0,0,26,College,NULL,23464,White,English,7,251.69
+d6f22834-5,Male,0,1,0,53,"High school","Sanitation and maintenance",2926,White,English,0,188.48
+d6f228b6-5,Male,0,1,0,25,"High school","Healthcare support",6613,Mixed,English,1,223.42
+d6f22942-5,Male,1,1,0,22,"High school","Healthcare support",0,White,English,1,259.64
+d6f229c4-5,Male,1,1,0,34,"High school","Sanitation and maintenance",7158,White,English,1,238.10
+d6f22af0-5,Female,1,1,0,28,"High school","Sanitation and maintenance",58512,Asian,English,5,359.48
+d6f22b72-5,Female,1,1,0,47,College,Management,110005,White,Spanish,0,348.56
+d6f22c80-5,Male,1,0,0,78,College,NULL,6256,"African american",English,0,250.06
+d6f22d8e-5,Male,1,1,0,49,College,Management,11193,White,English,0,253.34
+d6f22e10-5,Male,0,1,0,28,College,"Healthcare support",0,White,English,5,348.47
+d6f22e92-5,Male,1,1,0,64,College,Management,21608,White,English,0,239.16
+d6f22f32-5,Male,0,1,0,25,"College advanced","Office administrative support",54000,White,English,2,363.42
+d6f22fbe-5,Male,1,1,0,41,"High school",Management,16364,White,Spanish,0,244.55
+d6f23040-5,Male,1,0,0,59,"High school",NULL,76673,White,Spanish,0,297.93
+d6f23144-5,Male,0,1,0,60,"High school","Healthcare support",45813,"African american",English,0,270.40
+d6f231f8-5,Female,0,1,0,61,"High school","Food preparation",5517,White,English,0,251.24
+d6f23324-5,Female,0,0,0,60,"College advanced",NULL,19100,"African american",Spanish,0,220.01
+d6f23432-5,Male,0,0,0,22,"High school",NULL,12798,White,English,5,245.43
+d6f234be-5,Female,1,1,0,38,College,Sales,66660,White,English,3,369.59
+d6f23540-5,Female,0,1,0,34,College,"Machine maintenance",39839,White,Spanish,0,250.34
+d6f235cc-5,Female,0,1,0,59,"High school","Office administrative support",0,White,Spanish,0,254.40
+d6f2364e-5,Male,0,0,0,58,College,NULL,110441,White,English,0,256.62
+d6f236d0-5,Female,0,1,0,49,"High school","Material moving",0,White,English,0,238.73
+d6f2375c-5,Male,0,1,0,56,College,"Material production",73997,White,English,0,328.87
+d6f237f2-5,Female,0,1,0,50,"High school","Business and finance",190584,White,Spanish,0,290.26
+d6f2387e-5,Male,1,0,0,34,"High school",NULL,0,White,Spanish,2,253.46
+d6f2390a-5,Male,1,1,0,30,"High school",Sales,66868,Asian,English,2,321.28
+d6f23a2c-5,Male,1,1,0,40,College,Legal,0,White,English,1,298.98
+d6f23b3a-5,Female,0,1,0,36,Basic,"Sports, media, and entertainment",10051,White,English,6,280.62
+d6f23c48-5,Male,0,1,0,19,College,"Construction and extraction",114175,White,English,2,461.57
+d6f23cd4-5,Male,1,0,0,78,"High school",NULL,100563,White,English,0,327.48
+d6f23d56-5,Female,0,1,0,65,College,Sales,65164,White,English,0,215.68
+d6f23e96-5,Female,0,1,0,52,"High school","Software engineering and math",0,White,English,0,270.85
+d6f23f22-5,Male,0,0,0,50,Basic,NULL,12332,White,Other,0,205.54
+d6f23fae-5,Male,0,1,0,33,College,"Food preparation",21479,White,English,4,278.74
+d6f24044-5,Female,0,1,0,56,College,"Business and finance",0,White,English,0,215.10
+d6f240d0-5,Female,1,1,0,54,"High school","Office administrative support",9320,White,English,0,206.38
+d6f241de-5,Female,0,1,0,57,College,"Architecture and engineering",70599,White,Spanish,0,317.74
+d6f24260-5,Male,0,1,0,58,"High school",Education,71147,White,English,0,264.28
+d6f242ec-5,Female,1,1,0,36,College,"Personal care",14269,White,English,2,242.76
+d6f2436e-5,Male,0,1,0,37,"High school",Sales,13083,Mixed,Spanish,3,321.06
+d6f2440e-5,Female,0,0,0,54,"High school",NULL,121173,White,English,0,270.19
+d6f2449a-5,Male,0,1,0,57,"College advanced","Business and finance",9734,White,English,0,187.14
+d6f2453a-5,Male,1,0,0,83,Basic,NULL,105120,"African american",English,0,355.78
+d6f24666-5,Male,0,0,0,78,Basic,NULL,0,White,Spanish,0,205.90
+d6f246e8-5,Male,0,1,0,31,"High school","Material production",26951,White,English,5,221.61
+d6f24774-5,Female,1,1,0,34,"College advanced","Food preparation",32686,"African american",English,0,227.99
+d6f247f6-5,Female,0,1,0,42,"High school",Transportation,89960,White,Spanish,0,282.78
+d6f24986-5,Male,1,0,0,31,"High school",NULL,57199,White,Spanish,0,304.50
+d6f24c4c-5,Male,1,1,0,54,"High school",Education,2193,White,English,0,237.84
+d6f24cce-5,Female,1,1,0,37,"High school","Sports, media, and entertainment",52648,White,Spanish,4,364.76
+d6f24f08-5,Male,1,1,0,42,"High school","Office administrative support",0,"African american",Spanish,0,252.27
+d6f25016-5,Male,0,1,0,54,"High school","Architecture and engineering",196159,White,Spanish,0,269.31
+d6f25098-5,Male,1,0,0,65,College,NULL,88568,White,English,0,363.77
+d6f251a6-5,Female,0,1,0,27,College,Sales,37058,White,English,3,263.47
+d6f25246-5,Male,0,1,0,30,College,Sales,40234,"African american",Spanish,2,342.73
+d6f252d2-5,Female,1,1,0,31,College,Management,34251,White,English,3,317.58
+d6f25354-5,Female,1,1,0,31,College,Transportation,149003,White,English,1,311.86
+d6f253d6-5,Male,0,1,0,39,College,"Healthcare support",107205,"African american",European,4,325.82
+d6f25462-5,Male,0,0,0,37,"High school",NULL,93659,"African american",Spanish,3,396.68
+d6f25502-5,Male,0,0,0,71,"High school",NULL,81317,White,English,0,257.14
+d6f25584-5,Male,0,0,0,43,College,NULL,80438,White,English,0,300.56
+d6f25610-5,Male,0,1,0,56,Basic,"Architecture and engineering",0,White,Spanish,0,218.95
+d6f25692-5,Male,1,0,0,52,College,NULL,22681,White,English,0,213.10
+d6f2571e-5,Female,0,1,0,42,"High school",Management,35991,White,English,0,200.71
+d6f257a0-5,Female,0,1,0,58,"High school","Food preparation",56579,White,English,0,246.79
+d6f25822-5,Male,1,1,0,42,"High school","Software engineering and math",68156,White,English,0,347.29
+d6f258d6-5,Male,1,0,0,80,Basic,NULL,61293,White,English,0,283.24
+d6f25a02-5,Male,1,0,0,29,College,NULL,42204,White,English,4,273.02
+d6f25a8e-5,Female,0,1,0,29,"High school",Sales,57523,White,Asian,0,270.39
+d6f25b10-5,Male,0,1,0,43,"High school","Office administrative support",56745,Asian,English,0,251.54
+d6f25b9c-5,Male,0,1,0,68,"High school",Education,0,White,English,0,204.99
+d6f25c1e-5,Female,1,1,0,27,"High school","Social services",69129,White,English,4,311.78
+d6f25caa-5,Female,0,1,0,47,College,"Office administrative support",70293,White,English,0,277.65
+d6f25db8-5,Male,0,1,0,59,College,"Office administrative support",46356,"Native american",English,0,210.28
+d6f25e3a-5,Male,1,1,0,47,College,"Construction and extraction",67617,White,English,0,290.43
+d6f25ec6-5,Male,1,1,0,35,"High school","Healthcare support",54213,White,English,3,366.04
+d6f25f5c-5,Female,1,0,0,81,"High school",NULL,29945,White,English,0,236.73
+d6f25fe8-5,Male,1,0,0,64,College,NULL,0,White,English,0,235.48
+d6f2606a-5,Male,1,1,0,27,College,Sales,99020,White,English,5,467.54
+d6f260f6-5,Female,1,1,0,63,"High school","Office administrative support",16004,White,English,0,263.70
+d6f26178-5,Female,1,1,0,34,"College advanced","Healthcare technology",69765,"African american",European,0,268.44
+d6f261fa-5,Male,1,1,1,32,"High school",Sales,19726,"African american",Spanish,3,285.38
+d6f262fe-5,Male,0,0,0,75,College,NULL,4013,"African american",English,0,206.13
+d6f26416-5,Female,0,1,0,19,"College advanced","Construction and extraction",165134,White,English,3,397.17
+d6f26498-5,Female,0,0,0,65,"High school",NULL,96945,White,English,0,367.71
+d6f26524-5,Female,0,0,0,32,College,NULL,0,White,English,0,211.36
+d6f265a6-5,Male,0,1,0,67,"High school",Sales,86229,White,English,0,213.50
+d6f26646-5,Male,1,1,0,37,College,Management,79177,Asian,English,0,306.19
+d6f266d2-5,Male,1,1,0,25,"High school","Social services",197800,White,English,3,368.75
+d6f26754-5,Female,0,1,0,30,"High school","Office administrative support",73465,"African american",English,1,291.66
+d6f267d6-5,Female,1,1,0,38,"High school",Management,48419,White,European,0,234.04
+d6f268ee-5,Male,1,1,1,23,"High school","Office administrative support",57434,"African american",English,4,399.02
+d6f26a74-5,Female,0,0,0,54,College,NULL,170260,White,English,0,257.71
+d6f26b82-5,Female,0,0,0,64,"College advanced",NULL,52680,White,English,0,254.06
+d6f26c04-5,Female,1,1,0,40,"College advanced","Sanitation and maintenance",21149,"African american",English,1,295.38
+d6f26d62-5,Female,0,0,0,71,"High school",NULL,66322,"African american",English,0,199.05
+d6f26ea2-5,Male,1,1,0,62,"High school","Food preparation",22654,White,English,0,232.32
+d6f26f2e-5,Female,0,0,0,68,"High school",NULL,55428,White,European,0,244.60
+d6f26fba-5,Female,0,1,0,51,College,"Business and finance",37205,White,Spanish,0,234.10
+d6f2703c-5,Female,0,0,0,65,College,NULL,59757,White,Spanish,0,284.30
+d6f270c8-5,Female,0,1,0,48,"High school","Material moving",9583,White,English,0,200.03
+d6f271d6-5,Male,1,1,0,61,"High school",Sales,46117,White,English,0,238.39
+d6f27258-5,Male,1,1,0,62,"High school","Food preparation",47782,White,English,0,294.71
+d6f272e4-5,Male,1,1,0,47,"High school",Sales,31907,White,English,0,264.59
+d6f27366-5,Male,1,0,0,46,"High school",NULL,30008,"African american",English,0,201.81
+d6f27406-5,Male,1,1,0,50,"High school","Office administrative support",55710,White,English,0,279.84
+d6f27492-5,Female,0,1,0,34,"High school","Office administrative support",59413,White,Spanish,0,241.96
+d6f27514-5,Male,0,1,0,55,College,Sales,46901,"African american",English,0,246.85
+d6f275a0-5,Female,0,1,0,61,"College advanced",Sales,161847,White,Spanish,0,251.13
+d6f27640-5,Male,1,1,0,46,Basic,Sales,61449,White,Spanish,0,341.76
+d6f276c2-5,Male,1,1,0,54,"College advanced",Transportation,28737,White,Spanish,0,296.91
+d6f2774e-5,Female,1,1,0,51,"High school","Material production",77252,White,English,0,261.26
+d6f277d0-5,Female,1,1,0,20,"High school","Office administrative support",115775,"African american",English,5,332.88
+d6f27884-5,Female,1,1,0,45,"High school","Machine maintenance",67123,White,Spanish,0,282.57
+d6f2799c-5,Female,0,1,0,38,College,"Material moving",127222,White,English,3,370.24
+d6f27a1e-5,Female,0,1,0,43,"High school","Office administrative support",68527,White,English,0,265.89
+d6f27abe-5,Female,0,1,0,49,Basic,"Material moving",26871,White,English,0,307.74
+d6f27b4a-5,Male,1,1,0,44,"High school",Sales,0,White,English,0,264.60
+d6f27bd6-5,Male,1,1,0,57,Basic,"Sports, media, and entertainment",85828,White,English,0,359.37
+d6f27ce4-5,Female,0,1,0,24,College,"Sanitation and maintenance",53871,White,Spanish,3,283.41
+d6f27df2-5,Female,0,1,0,32,"High school",Management,49377,White,English,3,295.13
+d6f27e74-5,Male,1,1,0,54,"High school","Food preparation",90700,White,English,0,332.28
+d6f27f00-5,Male,0,1,0,31,"College advanced","Material production",24531,White,Other,0,225.31
+d6f27f82-5,Male,0,0,0,72,College,NULL,165059,White,English,0,276.51
+d6f28090-5,Female,0,1,0,58,College,"Food preparation",58347,White,English,0,268.44
+d6f28130-5,Male,1,0,0,75,"High school",NULL,60266,White,Spanish,0,249.30
+d6f281d0-5,Male,0,1,0,60,"High school",Sales,8297,Asian,English,0,248.11
+d6f28270-5,Female,0,1,0,56,College,"Office administrative support",72864,White,English,0,287.49
+d6f2837e-5,Male,1,0,0,58,Basic,NULL,45155,White,English,0,309.82
+d6f2840a-5,Male,0,1,0,25,College,Education,20386,"African american",English,6,259.67
+d6f2848c-5,Female,1,1,0,44,College,"Healthcare practice",97510,"African american",Spanish,0,369.72
+d6f28518-5,Female,0,1,0,38,College,"Personal care",3699,White,English,5,292.24
+d6f2859a-5,Male,1,1,0,22,"High school","Social services",0,White,English,5,291.24
+d6f286a8-5,Female,0,1,0,45,College,Sales,19584,White,English,0,203.82
+d6f2872a-5,Male,1,1,0,49,"High school",Management,60460,White,English,0,278.32
+d6f287ca-5,Male,1,1,0,72,"College advanced",Sales,197453,White,English,0,369.28
+d6f28856-5,Male,0,0,0,54,Basic,NULL,0,White,Spanish,0,196.95
+d6f28964-5,Male,0,1,0,57,"High school","Healthcare practice",3029,White,English,0,251.54
+d6f289e6-5,Female,0,1,0,50,College,"Personal care",4217,White,English,0,168.28
+d6f28a72-5,Female,0,1,0,35,"High school","Office administrative support",67070,White,English,2,282.16
+d6f28af4-5,Female,1,1,0,50,"High school",Management,17809,White,English,0,246.14
+d6f28b80-5,Male,0,0,0,73,Basic,NULL,40363,White,English,0,223.51
+d6f28c02-5,Female,1,0,0,67,College,NULL,148172,"African american",English,0,398.38
+d6f28d24-5,Male,1,1,0,60,College,"Sanitation and maintenance",74340,"African american",Spanish,0,303.78
+d6f28db0-5,Female,1,0,0,68,"High school",NULL,107571,White,English,0,330.46
+d6f28e50-5,Female,0,1,0,28,College,Legal,68063,"African american",Spanish,2,349.42
+d6f28ed2-5,Male,1,1,0,49,"High school","Food preparation",60418,White,English,0,288.73
+d6f28fe0-5,Male,0,1,0,21,"High school",Sales,89808,White,English,0,300.25
+d6f2906c-5,Male,0,1,0,40,College,"Social services",44220,White,English,3,314.36
+d6f2917a-5,Male,1,1,0,37,"High school","Software engineering and math",13706,White,Spanish,0,224.52
+d6f291fc-5,Female,1,1,0,58,College,"Office administrative support",106544,White,English,0,412.01
+d6f29300-5,Female,1,1,0,55,College,Management,71771,White,English,0,288.94
+d6f2938c-5,Female,1,0,0,84,College,NULL,0,"African american",English,0,243.00
+d6f29490-5,Female,1,0,0,73,"College advanced",NULL,91418,"African american",English,0,369.32
+d6f29526-5,Female,0,0,0,20,"College advanced",NULL,123706,White,English,2,444.76
+d6f295c6-5,Male,0,1,0,43,"High school","Sanitation and maintenance",89722,"African american",English,0,273.99
+d6f2965c-5,Male,1,1,0,55,College,"Sanitation and maintenance",34612,White,English,0,290.10
+d6f2977e-5,Male,0,1,0,65,Basic,"Business and finance",43196,White,English,0,239.22
+d6f2980a-5,Male,1,1,0,47,College,"Healthcare technology",6424,White,European,0,245.64
+d6f2988c-5,Female,0,1,0,54,"High school",Science,133342,White,English,0,290.40
+d6f29990-5,Male,0,1,0,27,"College advanced","Material production",23485,White,English,3,244.79
+d6f29a12-5,Female,1,1,0,40,College,"Fire and safety",103911,Asian,English,3,396.28
+d6f29a9e-5,Female,0,0,0,84,College,NULL,58419,White,English,0,278.59
+d6f29b3e-5,Male,0,0,0,38,"High school",NULL,67235,White,English,3,388.09
+d6f29bd4-5,Male,1,1,0,48,"High school",Science,132353,White,Spanish,0,364.43
+d6f29c60-5,Female,0,0,0,61,"College advanced",NULL,58179,White,English,0,222.96
+d6f29d64-5,Female,1,0,0,75,"High school",NULL,35661,White,English,0,237.75
+d6f29df0-5,Male,1,0,0,64,College,NULL,92966,White,English,0,304.27
+d6f29e72-5,Male,0,1,0,38,College,Management,21277,White,English,1,308.63
+d6f29ef4-5,Male,0,1,0,72,College,"Software engineering and math",38081,White,Spanish,0,216.92
+d6f29f76-5,Female,1,1,0,72,"High school","Construction and extraction",91108,White,English,0,391.57
+d6f29ff8-5,Male,1,0,0,46,College,NULL,72856,White,English,0,304.58
+d6f2a07a-5,Female,0,1,0,46,"College advanced","Office administrative support",0,White,English,0,230.09
+d6f2a110-5,Male,1,1,0,62,"High school","Food preparation",88309,White,English,0,312.96
+d6f2a232-5,Female,0,1,0,25,"College advanced",Sales,59325,White,English,0,243.74
+d6f2a2b4-5,Female,0,1,0,36,College,"Personal care",0,Asian,European,1,235.46
+d6f2a340-5,Female,1,1,0,52,"High school","Sanitation and maintenance",0,White,English,0,272.20
+d6f2a3c2-5,Female,0,0,0,76,College,NULL,144945,"African american",English,0,282.82
+d6f2a4c6-5,Female,0,0,0,75,"High school",NULL,68972,White,English,0,248.49
+d6f2a64c-5,Female,1,0,0,58,College,NULL,7635,White,English,0,258.95
+d6f2a6d8-5,Male,1,0,0,70,College,NULL,11847,White,English,0,253.71
+d6f2a75a-5,Female,1,0,0,21,College,NULL,25673,White,Other,0,271.22
+d6f2a7dc-5,Male,1,0,0,53,College,NULL,96882,White,English,0,392.11
+d6f2a872-5,Male,0,0,0,64,"High school",NULL,0,White,European,0,226.89
+d6f2a912-5,Female,0,1,0,54,"College advanced","Construction and extraction",183248,"African american",English,0,249.50
+d6f2a994-5,Male,1,1,0,52,College,"Personal care",98441,White,Spanish,0,380.26
+d6f2aa16-5,Female,1,1,0,31,College,Sales,21434,White,Spanish,1,279.22
+d6f2aa98-5,Female,0,1,0,53,"High school",Sales,25133,White,Spanish,0,249.10
+d6f2ab38-5,Male,1,1,0,30,College,"Office administrative support",0,White,English,2,266.72
+d6f2abba-5,Male,1,1,0,37,"High school",Sales,22687,White,Spanish,4,273.57
+d6f2ac3c-5,Male,0,1,0,58,College,Sales,3789,White,English,0,210.98
+d6f2acbe-5,Male,0,0,0,65,College,NULL,4020,"African american",English,0,232.16
+d6f2ad5e-5,Female,1,1,0,63,"High school","Office administrative support",10392,White,Asian,0,287.62
+d6f2ade0-5,Female,1,1,0,31,Basic,"Healthcare technology",67075,White,Asian,0,340.34
+d6f2ae62-5,Female,0,1,0,35,"College advanced",Education,166690,White,English,0,268.50
+d6f2aef8-5,Male,0,1,0,50,College,"Business and finance",14084,White,English,0,254.94
+d6f2af84-5,Female,0,1,0,33,"High school","Office administrative support",28359,White,English,4,236.02
+d6f2b006-5,Male,0,1,0,51,"High school","Food preparation",118604,White,English,0,284.67
+d6f2b088-5,Female,1,1,0,38,College,Management,68808,White,English,2,292.46
+d6f2b196-5,Female,1,1,0,48,"High school",Sales,62018,White,Spanish,0,270.58
+d6f2b31c-5,Male,0,1,0,59,Basic,"Machine maintenance",169443,White,English,0,312.04
+d6f2b3a8-5,Male,0,1,0,61,"High school","Healthcare support",162608,White,Spanish,0,277.79
+d6f2b42a-5,Female,0,1,0,64,"High school","Architecture and engineering",131868,White,Spanish,0,298.26
+d6f2b4ac-5,Male,1,1,0,70,"High school","Food preparation",48485,White,European,0,300.93
+d6f2b556-5,Female,1,0,0,27,"High school",NULL,130427,White,Spanish,2,326.98
+d6f2b5d8-5,Male,1,1,0,22,"College advanced",Management,103456,White,English,0,279.06
+d6f2b65a-5,Male,1,1,0,57,"College advanced","Healthcare practice",39685,"African american",Spanish,0,296.61
+d6f2b6dc-5,Female,1,1,0,46,College,"Healthcare practice",0,White,Spanish,0,212.20
+d6f2b75e-5,Male,0,0,0,82,"High school",NULL,41954,"African american",European,0,218.16
+d6f2b7e0-5,Male,1,0,0,69,"High school",NULL,59814,"African american",Spanish,0,278.02
+d6f2b8ee-5,Male,1,0,0,47,College,NULL,27435,"African american",English,0,241.04
+d6f2b970-5,Female,1,1,0,34,College,Transportation,142577,White,Spanish,0,297.12
+d6f2b9f2-5,Female,1,1,0,58,Basic,Sales,45962,White,English,0,226.87
+d6f2ba74-5,Female,0,0,0,73,College,NULL,141242,"African american",English,0,264.70
+d6f2bc22-5,Female,0,1,0,40,Basic,Sales,33427,White,English,4,252.01
+d6f2bcb8-5,Female,1,0,0,73,College,NULL,93893,White,English,0,328.14
+d6f2bd58-5,Male,0,0,0,61,"High school",NULL,5179,White,European,0,226.33
+d6f2bdee-5,Female,0,1,1,32,"High school",Transportation,44007,"African american",English,2,318.86
+d6f2bf74-5,Female,1,0,0,66,"High school",NULL,28278,White,English,0,207.66
+d6f2c00a-5,Female,1,1,0,45,College,"Food preparation",20240,"African american",English,0,261.97
+d6f2c08c-5,Female,0,1,0,32,College,"Food preparation",33642,White,English,5,250.92
+d6f2c10e-5,Female,1,1,0,46,College,"Healthcare technology",191063,White,English,0,325.56
+d6f2c190-5,Male,1,1,0,27,College,"Sanitation and maintenance",0,White,English,3,284.81
+d6f2c208-5,Female,0,1,0,60,"High school",Education,165366,White,Spanish,0,267.32
+d6f2c28a-5,Female,1,1,0,31,"High school","Construction and extraction",84258,White,English,0,332.62
+d6f2c320-5,Female,1,0,0,36,College,NULL,109547,White,English,3,365.98
+d6f2c3ac-5,Male,1,0,0,79,"College advanced",NULL,53316,White,Spanish,0,306.79
+d6f2c528-5,Female,0,1,0,39,"High school","Construction and extraction",60322,"African american",European,1,296.78
+d6f2c5aa-5,Male,1,1,0,34,"High school","Office administrative support",139927,White,Spanish,0,367.10
+d6f2c622-5,Male,0,1,0,42,Basic,Management,0,White,Asian,0,247.77
+d6f2c6a4-5,Female,1,0,0,20,College,NULL,48371,"African american",English,4,343.28
+d6f2c726-5,Female,0,0,0,38,"High school",NULL,66612,"African american",Spanish,1,308.09
+d6f2c79e-5,Female,0,1,0,39,"College advanced","Material production",82858,Asian,English,2,305.25
+d6f2c820-5,Female,1,0,0,29,"High school",NULL,2619,White,Spanish,3,276.27
+d6f2c8a2-5,Male,0,1,0,21,College,"Sanitation and maintenance",26767,"African american",English,0,211.78
+d6f2c92e-5,Male,0,1,0,42,College,Sales,77174,White,Spanish,0,272.21
+d6f2c9ce-5,Male,1,0,0,58,"High school",NULL,71335,White,English,0,292.12
+d6f2ca50-5,Female,1,1,0,25,"High school","Business and finance",6264,White,English,1,275.16
+d6f2cac8-5,Male,0,1,0,64,"High school",Legal,19829,White,English,0,211.80
+d6f2cc44-5,Female,0,1,0,47,"High school","Architecture and engineering",11775,White,English,0,220.84
+d6f2ccbc-5,Female,0,1,0,25,College,"Material moving",190853,White,Spanish,0,275.42
+d6f2cd3e-5,Female,0,1,0,52,"College advanced",Management,62926,"African american",Spanish,0,244.31
+d6f2cdc0-5,Female,1,0,0,75,"High school",NULL,0,White,English,0,241.91
+d6f2ce42-5,Female,0,1,0,35,College,"Construction and extraction",146297,White,Asian,1,373.98
